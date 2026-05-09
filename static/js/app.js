@@ -1,23 +1,44 @@
 /* London Job Finder — frontend logic */
 
 const PAGE_SIZE = 24;
-let allJobs = [];
+let allJobs = [];        // raw results from API
 let displayedCount = 0;
 
 // ── DOM refs ──
-const searchBtn     = document.getElementById('search-btn');
-const keywordInput  = document.getElementById('keyword-input');
-const sourceFilter  = document.getElementById('source-filter');
-const sortFilter    = document.getElementById('sort-filter');
-const jobGrid       = document.getElementById('job-grid');
-const loadingEl     = document.getElementById('loading');
-const emptyEl       = document.getElementById('empty-state');
-const errorBanner   = document.getElementById('error-banner');
-const resultCount   = document.getElementById('result-count');
-const loadMoreWrap  = document.getElementById('load-more-wrap');
-const loadMoreBtn   = document.getElementById('load-more-btn');
-const sourceStats   = document.getElementById('source-stats');
-const template      = document.getElementById('job-card-template');
+const searchBtn       = document.getElementById('search-btn');
+const keywordInput    = document.getElementById('keyword-input');
+const sourceFilter    = document.getElementById('source-filter');
+const sortFilter      = document.getElementById('sort-filter');
+const jobGrid         = document.getElementById('job-grid');
+const loadingEl       = document.getElementById('loading');
+const emptyEl         = document.getElementById('empty-state');
+const errorBanner     = document.getElementById('error-banner');
+const resultCount     = document.getElementById('result-count');
+const loadMoreWrap    = document.getElementById('load-more-wrap');
+const loadMoreBtn     = document.getElementById('load-more-btn');
+const sourceStats     = document.getElementById('source-stats');
+const template        = document.getElementById('job-card-template');
+const hideSeniorBtn   = document.getElementById('hide-senior-btn');
+
+// ── Senior-level title keywords ──
+const SENIOR_KEYWORDS = [
+  'senior', 'sr.', ' sr ', 'lead ', 'principal', 'head of', 'head,',
+  'director', ' manager', 'managing director', 'vp ', 'svp', 'evp', 'avp',
+  'vice president', 'chief ', 'partner', 'c-suite',
+  'managing partner', 'managing consultant',
+];
+
+let hideSenior = true;   // ON by default — user asked for this
+
+function isSeniorRole(title) {
+  const t = title.toLowerCase();
+  return SENIOR_KEYWORDS.some(kw => t.includes(kw));
+}
+
+function getVisibleJobs() {
+  if (!hideSenior) return allJobs;
+  return allJobs.filter(j => !isSeniorRole(j.title));
+}
 
 // ── Tag colours ──
 const TAG_CLASSES = {
@@ -87,11 +108,12 @@ async function doSearch() {
       errorBanner.classList.remove('hidden');
     }
 
-    if (allJobs.length === 0) {
+    const visible = getVisibleJobs();
+    if (visible.length === 0) {
       emptyEl.classList.remove('hidden');
       resultCount.textContent = '0 results';
     } else {
-      resultCount.textContent = `${allJobs.length} result${allJobs.length !== 1 ? 's' : ''}`;
+      updateResultCount();
       renderPage();
     }
   } catch (err) {
@@ -115,17 +137,39 @@ function sortJobs(jobs) {
   });
 }
 
+function updateResultCount() {
+  const visible = getVisibleJobs();
+  const hidden  = allJobs.length - visible.length;
+  let text = `${visible.length} result${visible.length !== 1 ? 's' : ''}`;
+  if (hidden > 0) text += ` <span class="count-muted">(${hidden} senior roles hidden)</span>`;
+  resultCount.innerHTML = text;
+}
+
 function renderPage() {
-  const slice = allJobs.slice(displayedCount, displayedCount + PAGE_SIZE);
+  const visible = getVisibleJobs();
+  const slice   = visible.slice(displayedCount, displayedCount + PAGE_SIZE);
   slice.forEach(job => jobGrid.appendChild(buildCard(job)));
   displayedCount += slice.length;
 
-  if (displayedCount < allJobs.length) {
+  if (displayedCount < visible.length) {
     loadMoreWrap.classList.remove('hidden');
-    loadMoreBtn.textContent = `Load More (${allJobs.length - displayedCount} remaining)`;
+    loadMoreBtn.textContent = `Load More (${visible.length - displayedCount} remaining)`;
   } else {
     loadMoreWrap.classList.add('hidden');
   }
+}
+
+function reRender() {
+  jobGrid.innerHTML = '';
+  displayedCount = 0;
+  const visible = getVisibleJobs();
+  if (visible.length === 0) {
+    emptyEl.classList.remove('hidden');
+  } else {
+    emptyEl.classList.add('hidden');
+    renderPage();
+  }
+  updateResultCount();
 }
 
 // ── Build a job card from template ──
@@ -211,10 +255,16 @@ keywordInput.addEventListener('keydown', e => {
 sortFilter.addEventListener('change', () => {
   if (allJobs.length) {
     allJobs = sortJobs(allJobs);
-    jobGrid.innerHTML = '';
-    displayedCount = 0;
-    renderPage();
+    reRender();
   }
+});
+
+// ── Hide Senior toggle ──
+hideSeniorBtn.addEventListener('click', () => {
+  hideSenior = !hideSenior;
+  hideSeniorBtn.classList.toggle('active', hideSenior);
+  hideSeniorBtn.setAttribute('aria-pressed', hideSenior);
+  if (allJobs.length) reRender();
 });
 
 // ── Init ──
