@@ -36,9 +36,11 @@ async function loadSourceStats() {
     const data = await res.json();
     sourceStats.innerHTML = `
       Searching <strong>${data.total_companies}</strong> company career pages<br>
-      Greenhouse: ${data.greenhouse_count} companies<br>
-      Lever: ${data.lever_count} companies<br>
-      ${data.adzuna_enabled ? 'Adzuna: ✅ enabled' : 'Adzuna: add API key'}
+      🟦 Greenhouse: ${data.greenhouse_count} companies<br>
+      🟣 Lever: ${data.lever_count} companies<br>
+      🟠 Ashby: ${data.ashby_count} companies<br>
+      🟩 Workday: ${data.workday_count} companies<br>
+      ${data.adzuna_enabled ? '🟡 Adzuna: ✅ enabled' : '⚪ Adzuna: add API key'}
     `;
   } catch (e) { /* silent */ }
 }
@@ -169,6 +171,8 @@ function buildCard(job) {
   const sourceColor = {
     Greenhouse: '#00b4d8',
     Lever:      '#6c63ff',
+    Ashby:      '#ff9800',
+    Workday:    '#2e7d32',
     Adzuna:     '#ff6b35',
   };
   clone.querySelector('.source-dot').style.background =

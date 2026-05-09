@@ -7,7 +7,7 @@ Docs: https://developers.greenhouse.io/job-board.html
 import requests
 from datetime import datetime, timezone
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from .company_lists import GREENHOUSE_COMPANIES, RELEVANT_TITLE_KEYWORDS, LONDON_LOCATION_KEYWORDS
+from .company_lists import GREENHOUSE_COMPANIES, RELEVANT_TITLE_KEYWORDS, is_uk_location
 
 BASE_URL = "https://boards-api.greenhouse.io/v1/boards/{slug}/jobs"
 TIMEOUT = 8
@@ -15,9 +15,8 @@ TIMEOUT = 8
 
 def _is_relevant(title: str, location: str) -> bool:
     title_lower = title.lower()
-    location_lower = location.lower()
     has_keyword = any(kw in title_lower for kw in RELEVANT_TITLE_KEYWORDS)
-    is_london = any(loc in location_lower for loc in LONDON_LOCATION_KEYWORDS) or location == ""
+    is_london = is_uk_location(location)
     return has_keyword and is_london
 
 

@@ -1,6 +1,11 @@
 """
 London Graduate Job Search Platform
-Aggregates jobs directly from company career pages via Greenhouse, Lever, and Adzuna APIs.
+Aggregates jobs directly from company career pages via:
+  - Greenhouse ATS (public API, no key needed)
+  - Lever ATS     (public API, no key needed)
+  - Ashby ATS     (public API, no key needed) — discovered via github.com/santifer/career-ops
+  - Workday ATS   (public POST API, no key needed) — Goldman, JP Morgan, McKinsey, BCG…
+  - Adzuna UK     (optional free API key)
 """
 
 from flask import Flask, render_template, request, jsonify
@@ -12,9 +17,19 @@ load_dotenv()
 
 from sources.greenhouse import fetch_greenhouse_jobs
 from sources.lever import fetch_lever_jobs
+from sources.ashby import fetch_ashby_jobs
+from sources.workday import fetch_workday_jobs
 from sources.adzuna import fetch_adzuna_jobs
 
 app = Flask(__name__)
+
+FETCHERS = {
+    "Greenhouse": fetch_greenhouse_jobs,
+    "Lever":      fetch_lever_jobs,
+    "Ashby":      fetch_ashby_jobs,
+    "Workday":    fetch_workday_jobs,
+    "Adzuna":     fetch_adzuna_jobs,
+}
 
 
 @app.route("/")
@@ -27,28 +42,27 @@ def index():
 def search():
     data = request.get_json() or {}
     keywords = data.get("keywords", [])
-    filters = data.get("filters", {})
+    filters  = data.get("filters", {})
 
     all_jobs = []
-    errors = []
+    errors   = []
 
-    with ThreadPoolExecutor(max_workers=3) as executor:
+    with ThreadPoolExecutor(max_workers=5) as executor:
         futures = {
-            executor.submit(fetch_greenhouse_jobs, keywords): "Greenhouse",
-            executor.submit(fetch_lever_jobs, keywords): "Lever",
-            executor.submit(fetch_adzuna_jobs, keywords): "Adzuna",
+            executor.submit(fn, keywords): name
+            for name, fn in FETCHERS.items()
         }
         for future in as_completed(futures):
             source = futures[future]
             try:
-                jobs = future.result(timeout=20)
+                jobs = future.result(timeout=25)
                 all_jobs.extend(jobs)
             except Exception as e:
                 errors.append(f"{source}: {str(e)}")
 
-    # Apply tag filters
+    # Apply tag filters (only if user deselected some)
     if filters.get("tags"):
-        selected_tags = filters["tags"]
+        selected_tags = set(filters["tags"])
         all_jobs = [
             j for j in all_jobs
             if any(tag in j.get("tags", []) for tag in selected_tags)
@@ -69,24 +83,32 @@ def search():
         elif not url:
             unique_jobs.append(job)
 
-    # Sort: newest first, then by company name
+    # Sort: newest first
     unique_jobs.sort(key=lambda x: (x.get("days_ago", 999), x.get("company", "")))
 
     return jsonify({
-        "jobs": unique_jobs,
-        "total": len(unique_jobs),
+        "jobs":   unique_jobs,
+        "total":  len(unique_jobs),
         "errors": errors,
     })
 
 
 @app.route("/api/sources")
 def sources():
-    from sources.company_lists import GREENHOUSE_COMPANIES, LEVER_COMPANIES
+    from sources.company_lists import (
+        GREENHOUSE_COMPANIES, LEVER_COMPANIES,
+        ASHBY_COMPANIES, WORKDAY_COMPANIES,
+    )
     return jsonify({
         "greenhouse_count": len(GREENHOUSE_COMPANIES),
-        "lever_count": len(LEVER_COMPANIES),
-        "adzuna_enabled": bool(os.getenv("ADZUNA_APP_ID")),
-        "total_companies": len(GREENHOUSE_COMPANIES) + len(LEVER_COMPANIES),
+        "lever_count":      len(LEVER_COMPANIES),
+        "ashby_count":      len(ASHBY_COMPANIES),
+        "workday_count":    len(WORKDAY_COMPANIES),
+        "adzuna_enabled":   bool(os.getenv("ADZUNA_APP_ID")),
+        "total_companies": (
+            len(GREENHOUSE_COMPANIES) + len(LEVER_COMPANIES)
+            + len(ASHBY_COMPANIES) + len(WORKDAY_COMPANIES)
+        ),
     })
 
 

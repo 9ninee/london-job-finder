@@ -7,7 +7,7 @@ Docs: https://github.com/lever/lever-postings-api
 import requests
 from datetime import datetime, timezone
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from .company_lists import LEVER_COMPANIES, RELEVANT_TITLE_KEYWORDS, LONDON_LOCATION_KEYWORDS
+from .company_lists import LEVER_COMPANIES, RELEVANT_TITLE_KEYWORDS, is_uk_location
 
 BASE_URL = "https://api.lever.co/v0/postings/{slug}"
 TIMEOUT = 8
@@ -15,9 +15,8 @@ TIMEOUT = 8
 
 def _is_relevant(title: str, team: str, location: str) -> bool:
     combined = (title + " " + team).lower()
-    location_lower = location.lower()
     has_keyword = any(kw in combined for kw in RELEVANT_TITLE_KEYWORDS)
-    is_london = any(loc in location_lower for loc in LONDON_LOCATION_KEYWORDS) or location == ""
+    is_london = is_uk_location(location)
     return has_keyword and is_london
 
 
