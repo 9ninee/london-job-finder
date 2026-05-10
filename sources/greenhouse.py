@@ -10,7 +10,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from .company_lists import GREENHOUSE_COMPANIES, RELEVANT_TITLE_KEYWORDS, is_uk_location
 
 BASE_URL = "https://boards-api.greenhouse.io/v1/boards/{slug}/jobs"
-TIMEOUT = 8
+TIMEOUT = 5
 
 
 def _is_relevant(title: str, location: str) -> bool:

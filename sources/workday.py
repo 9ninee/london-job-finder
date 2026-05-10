@@ -14,7 +14,7 @@ from datetime import datetime, timezone
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from .company_lists import WORKDAY_COMPANIES, is_uk_location
 
-TIMEOUT = 10
+TIMEOUT = 5
 SEARCH_TERMS = [
     "analyst", "graduate", "associate", "consultant", "finance", "data",
 ]

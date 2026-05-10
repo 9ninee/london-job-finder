@@ -52,10 +52,10 @@ def search():
             executor.submit(fn, keywords): name
             for name, fn in FETCHERS.items()
         }
-        for future in as_completed(futures):
+        for future in as_completed(futures, timeout=22):
             source = futures[future]
             try:
-                jobs = future.result(timeout=25)
+                jobs = future.result(timeout=22)
                 all_jobs.extend(jobs)
             except Exception as e:
                 errors.append(f"{source}: {str(e)}")

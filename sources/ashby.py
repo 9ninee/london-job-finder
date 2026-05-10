@@ -11,7 +11,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from .company_lists import ASHBY_COMPANIES, RELEVANT_TITLE_KEYWORDS, is_uk_location
 
 BASE_URL = "https://api.ashbyhq.com/posting-api/job-board/{slug}"
-TIMEOUT = 8
+TIMEOUT = 5
 
 
 def _is_relevant(title: str, department: str, location: str) -> bool:

@@ -10,7 +10,7 @@ from datetime import datetime
 from .company_lists import RELEVANT_TITLE_KEYWORDS
 
 BASE_URL = "https://api.adzuna.com/v1/api/jobs/gb/search/{page}"
-TIMEOUT = 10
+TIMEOUT = 5
 
 SEARCH_QUERIES = [
     "graduate finance london",

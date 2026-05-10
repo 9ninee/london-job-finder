@@ -97,7 +97,12 @@ async function doSearch() {
       body:    JSON.stringify({ keywords, filters }),
     });
 
-    const data = await res.json();
+    let data;
+    try {
+      data = await res.json();
+    } catch (_) {
+      throw new Error(`Server error (${res.status}) — try again in a moment`);
+    }
     allJobs = sortJobs(data.jobs || []);
     displayedCount = 0;
 
