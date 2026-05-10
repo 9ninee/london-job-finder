@@ -1,11 +1,12 @@
 """
 London Graduate Job Search Platform
 Aggregates jobs directly from company career pages via:
-  - Greenhouse ATS (public API, no key needed)
-  - Lever ATS     (public API, no key needed)
-  - Ashby ATS     (public API, no key needed) — discovered via github.com/santifer/career-ops
-  - Workday ATS   (public POST API, no key needed) — Goldman, JP Morgan, McKinsey, BCG…
-  - Adzuna UK     (optional free API key)
+  - Greenhouse ATS  (public API, no key needed)
+  - Lever ATS       (public API, no key needed)
+  - Ashby ATS       (public API, no key needed) — discovered via github.com/santifer/career-ops
+  - Workday ATS     (public POST API, no key needed) — Goldman, JP Morgan, McKinsey, BCG…
+  - Adzuna UK       (optional free API key)
+  - Find a Job Gov  (UK Government official job board, no key needed)
 """
 
 from flask import Flask, render_template, request, jsonify
@@ -20,6 +21,7 @@ from sources.lever import fetch_lever_jobs
 from sources.ashby import fetch_ashby_jobs
 from sources.workday import fetch_workday_jobs
 from sources.adzuna import fetch_adzuna_jobs
+from sources.findajob import fetch_findajob_jobs
 
 app = Flask(__name__)
 
@@ -29,6 +31,7 @@ FETCHERS = {
     "Ashby":      fetch_ashby_jobs,
     "Workday":    fetch_workday_jobs,
     "Adzuna":     fetch_adzuna_jobs,
+    "FindAJob":   fetch_findajob_jobs,
 }
 
 
@@ -47,7 +50,7 @@ def search():
     all_jobs = []
     errors   = []
 
-    with ThreadPoolExecutor(max_workers=5) as executor:
+    with ThreadPoolExecutor(max_workers=6) as executor:
         futures = {
             executor.submit(fn, keywords): name
             for name, fn in FETCHERS.items()

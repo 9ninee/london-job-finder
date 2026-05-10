@@ -100,6 +100,7 @@
         <option value="Ashby">Ashby ATS</option>
         <option value="Workday">Workday (Banks &amp; Big 4)</option>
         <option value="Adzuna">Adzuna</option>
+        <option value="FindAJob">Find a Job (Gov.uk)</option>
       </select>
       <p class="source-note">All results link directly to company career pages</p>
     </div>
@@ -131,7 +132,7 @@
     <div id="loading" class="loading-state hidden">
       <div class="spinner"></div>
       <p>Searching company career pages&hellip;</p>
-      <p class="loading-sub">Querying Greenhouse, Lever &amp; Adzuna boards simultaneously</p>
+      <p class="loading-sub">Querying Greenhouse, Lever, Adzuna &amp; Gov.uk jobs simultaneously</p>
     </div>
 
     <div id="empty-state" class="empty-state hidden">
@@ -184,7 +185,7 @@
 </template>
 
 <footer class="site-footer">
-  <p>Jobs sourced directly from company career pages via Greenhouse ATS, Lever ATS, and Adzuna UK &mdash; no job board middlemen.</p>
+  <p>Jobs sourced directly from company career pages via Greenhouse ATS, Lever ATS, Adzuna UK, and Find a Job (Gov.uk) &mdash; no job board middlemen.</p>
 </footer>
 
 <script src="{{ url_for('static', filename='js/app.js') }}"></script>
