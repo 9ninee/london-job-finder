@@ -117,7 +117,7 @@ def fetch_greenhouse_jobs(user_keywords: list[str] = None) -> list[dict]:
     all_jobs = []
     user_keywords = user_keywords or []
 
-    with ThreadPoolExecutor(max_workers=20) as executor:
+    with ThreadPoolExecutor(max_workers=30) as executor:
         futures = {
             executor.submit(_fetch_one, slug, name, user_keywords): (slug, name)
             for slug, name in GREENHOUSE_COMPANIES.items()

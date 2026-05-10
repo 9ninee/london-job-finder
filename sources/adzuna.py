@@ -2,24 +2,22 @@
 Fetches jobs from Adzuna API (aggregates from UK company career pages).
 Requires free API credentials from https://developer.adzuna.com/
 Set ADZUNA_APP_ID and ADZUNA_APP_KEY in your .env file.
+Queries run in parallel to stay within Render's 30s request limit.
 """
 
 import os
 import requests
 from datetime import datetime
-from .company_lists import RELEVANT_TITLE_KEYWORDS
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 BASE_URL = "https://api.adzuna.com/v1/api/jobs/gb/search/{page}"
 TIMEOUT = 5
 
+# Kept to 3 broad queries — each returns up to 20 results, run in parallel
 SEARCH_QUERIES = [
-    "graduate finance london",
-    "graduate data analyst london",
-    "graduate banking london",
-    "analyst consulting london",
-    "graduate investment banking london",
-    "data analyst finance london",
-    "business analyst banking london",
+    "graduate analyst finance banking london",
+    "graduate data analyst consulting london",
+    "entry level investment analyst london",
 ]
 
 
@@ -77,11 +75,11 @@ def _fetch_query(query: str, app_id: str, app_key: str) -> list[dict]:
         data = resp.json()
         results = []
         for job in data.get("results", []):
-            title = job.get("title", "")
-            company = job.get("company", {}).get("display_name", "Unknown")
+            title    = job.get("title", "")
+            company  = job.get("company", {}).get("display_name", "Unknown")
             location = job.get("location", {}).get("display_name", "London, UK")
-            redirect_url = job.get("redirect_url", "")
-            created = job.get("created", "")
+            url      = job.get("redirect_url", "")
+            created  = job.get("created", "")
             category = job.get("category", {}).get("label", "")
             description = job.get("description", "")[:200] + "..."
 
@@ -90,18 +88,18 @@ def _fetch_query(query: str, app_id: str, app_key: str) -> list[dict]:
                 continue
 
             results.append({
-                "id": f"az_{job.get('id', '')}",
-                "title": title,
-                "company": company,
-                "location": location,
-                "department": category,
-                "description": description,
-                "posted_date": _parse_date(created),
-                "days_ago": days,
-                "url": redirect_url,
-                "source": "Company Career Page (via Adzuna)",
+                "id":           f"az_{job.get('id', '')}",
+                "title":        title,
+                "company":      company,
+                "location":     location,
+                "department":   category,
+                "description":  description,
+                "posted_date":  _parse_date(created),
+                "days_ago":     days,
+                "url":          url,
+                "source":       "Company Career Page (via Adzuna)",
                 "source_system": "Adzuna",
-                "tags": _extract_tags(title, category),
+                "tags":         _extract_tags(title, category),
             })
 
         return results
@@ -111,24 +109,29 @@ def _fetch_query(query: str, app_id: str, app_key: str) -> list[dict]:
 
 
 def fetch_adzuna_jobs(user_keywords: list[str] = None) -> list[dict]:
-    app_id = os.getenv("ADZUNA_APP_ID", "")
+    app_id  = os.getenv("ADZUNA_APP_ID", "")
     app_key = os.getenv("ADZUNA_APP_KEY", "")
 
     if not app_id or not app_key:
         return []
 
-    all_jobs = []
-    seen_ids = set()
-
     queries = SEARCH_QUERIES.copy()
     if user_keywords:
         queries.insert(0, " ".join(user_keywords) + " london")
 
-    for query in queries:
-        jobs = _fetch_query(query, app_id, app_key)
-        for job in jobs:
-            if job["id"] not in seen_ids:
-                seen_ids.add(job["id"])
-                all_jobs.append(job)
+    all_jobs = []
+    seen_ids = set()
+
+    # Run all queries in parallel instead of sequentially
+    with ThreadPoolExecutor(max_workers=len(queries)) as executor:
+        futures = [executor.submit(_fetch_query, q, app_id, app_key) for q in queries]
+        for future in as_completed(futures):
+            try:
+                for job in future.result():
+                    if job["id"] not in seen_ids:
+                        seen_ids.add(job["id"])
+                        all_jobs.append(job)
+            except Exception:
+                pass
 
     return all_jobs
