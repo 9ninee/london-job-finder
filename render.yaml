@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: london-job-finder
+    runtime: python
+    region: frankfurt
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    envVars:
+      - key: ADZUNA_APP_ID
+        sync: false
+      - key: ADZUNA_APP_KEY
+        sync: false
