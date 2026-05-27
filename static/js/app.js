@@ -226,9 +226,18 @@ function buildCard(job) {
     Adzuna:     '#ff6b35',
     FindAJob:   '#003078',   // GOV.UK navy blue
   };
+  const sourceLabel = {
+    Greenhouse: 'Greenhouse',
+    Lever:      'Lever',
+    Ashby:      'Ashby',
+    Workday:    'Workday',
+    Adzuna:     'Adzuna',
+    FindAJob:   'Gov.uk',
+  };
   clone.querySelector('.source-dot').style.background =
     sourceColor[job.source_system] || '#aaa';
-  clone.querySelector('.source-text').textContent = job.source_system || 'Company';
+  clone.querySelector('.source-text').textContent =
+    sourceLabel[job.source_system] || job.source_system || 'Company';
 
   // Apply button
   const applyBtn = clone.querySelector('.apply-btn');

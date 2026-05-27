@@ -81,25 +81,23 @@ def _fetch_query(query: str, app_id: str, app_key: str) -> list[dict]:
             url      = job.get("redirect_url", "")
             created  = job.get("created", "")
             category = job.get("category", {}).get("label", "")
-            description = job.get("description", "")[:200] + "..."
 
             days = _days_ago(created)
             if days > 90:
                 continue
 
             results.append({
-                "id":           f"az_{job.get('id', '')}",
-                "title":        title,
-                "company":      company,
-                "location":     location,
-                "department":   category,
-                "description":  description,
-                "posted_date":  _parse_date(created),
-                "days_ago":     days,
-                "url":          url,
-                "source":       "Company Career Page (via Adzuna)",
+                "id":            f"az_{job.get('id', '')}",
+                "title":         title,
+                "company":       company,
+                "location":      location,
+                "department":    category,
+                "posted_date":   _parse_date(created),
+                "days_ago":      days,
+                "url":           url,
+                "source":        "Company Career Page",
                 "source_system": "Adzuna",
-                "tags":         _extract_tags(title, category),
+                "tags":          _extract_tags(title, category),
             })
 
         return results
