@@ -1,0 +1,723 @@
+{
+  "last_updated": "2026-05-27T17:26:56.138390+00:00",
+  "total": 47,
+  "errors": [],
+  "meta": {
+    "greenhouse_count": 64,
+    "lever_count": 30,
+    "ashby_count": 50,
+    "workday_count": 38,
+    "total_companies": 182,
+    "adzuna_enabled": true
+  },
+  "jobs": [
+    {
+      "id": "gh_complyadvantage_8547070002",
+      "title": "Business Development Representative - Calling all Graduates!",
+      "company": "ComplyAdvantage",
+      "location": "London, England, United Kingdom",
+      "department": "Commercial",
+      "posted_date": "27 May 2026",
+      "days_ago": 0,
+      "url": "https://complyadvantage.com/careers/jobs/8547070002?gh_jid=8547070002",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Graduate"
+      ]
+    },
+    {
+      "id": "gh_complyadvantage_8547072002",
+      "title": "Business Development Representative - Calling all Graduates!",
+      "company": "ComplyAdvantage",
+      "location": "London, England, United Kingdom",
+      "department": "Commercial",
+      "posted_date": "27 May 2026",
+      "days_ago": 0,
+      "url": "https://complyadvantage.com/careers/jobs/8547072002?gh_jid=8547072002",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Graduate"
+      ]
+    },
+    {
+      "id": "faj_18397182",
+      "title": "Planning, Governance and Reporting Officer",
+      "company": "Government Recruitment Service",
+      "location": "Westminster",
+      "department": "",
+      "posted_date": "27 May 2026",
+      "days_ago": 0,
+      "url": "https://findajob.dwp.gov.uk/details/18397182",
+      "source": "Find a Job (Gov.uk)",
+      "source_system": "FindAJob",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_7959730",
+      "title": "Enterprise Risk Analyst",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Risk & Compliance",
+      "posted_date": "27 May 2026",
+      "days_ago": 0,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7959730",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_7957299",
+      "title": "Financial Controls Manager ",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Finance",
+      "posted_date": "27 May 2026",
+      "days_ago": 0,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7957299",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_7771697",
+      "title": "Senior Director of Marketing, Business Banking",
+      "company": "Monzo",
+      "location": "London",
+      "department": "Marketing & Community",
+      "posted_date": "27 May 2026",
+      "days_ago": 0,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7771697",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Banking"
+      ]
+    },
+    {
+      "id": "gh_monzo_7959925",
+      "title": "Senior Financial Crime Investigator - Screening",
+      "company": "Monzo",
+      "location": "Remote (UK)",
+      "department": "Customer Operations",
+      "posted_date": "27 May 2026",
+      "days_ago": 0,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7959925",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_7953732",
+      "title": "Financial Reporting Manager ",
+      "company": "Monzo",
+      "location": "London",
+      "department": "Finance",
+      "posted_date": "26 May 2026",
+      "days_ago": 1,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7953732",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "faj_18384040",
+      "title": "Financial Planning & Analysis (FP&A) Analyst",
+      "company": "Gov Facility Services Limited",
+      "location": "london, SW1H 9AJ",
+      "department": "",
+      "posted_date": "22 May 2026",
+      "days_ago": 5,
+      "url": "https://findajob.dwp.gov.uk/details/18384040",
+      "source": "Find a Job (Gov.uk)",
+      "source_system": "FindAJob",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "faj_18385060",
+      "title": "Business Analyst (Talent Pool)",
+      "company": "Inploi",
+      "location": "London, W10 5BU",
+      "department": "",
+      "posted_date": "22 May 2026",
+      "days_ago": 5,
+      "url": "https://findajob.dwp.gov.uk/details/18385060",
+      "source": "Find a Job (Gov.uk)",
+      "source_system": "FindAJob",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_7916595",
+      "title": "Lead Insurance Pricing Analyst",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Data",
+      "posted_date": "22 May 2026",
+      "days_ago": 5,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7916595",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "gh_tide_7714691003",
+      "title": " Senior Commercial Finance Broker - Account Management",
+      "company": "Tide",
+      "location": "United Kingdom",
+      "department": "One Platform - PCS Sales",
+      "posted_date": "22 May 2026",
+      "days_ago": 5,
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7714691003",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_complyadvantage_8524546002",
+      "title": "Solutions Consultant - French Speaking",
+      "company": "ComplyAdvantage",
+      "location": "London, England, United Kingdom",
+      "department": "Commercial",
+      "posted_date": "20 May 2026",
+      "days_ago": 7,
+      "url": "https://complyadvantage.com/careers/jobs/8524546002?gh_jid=8524546002",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Consulting"
+      ]
+    },
+    {
+      "id": "faj_18369276",
+      "title": "Data Analyst",
+      "company": "Iss Facilities Services",
+      "location": "E14 9SH",
+      "department": "",
+      "posted_date": "20 May 2026",
+      "days_ago": 7,
+      "url": "https://findajob.dwp.gov.uk/details/18369276",
+      "source": "Find a Job (Gov.uk)",
+      "source_system": "FindAJob",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "gh_verifone_7595680003",
+      "title": "Lead MySQL Database Administrator ",
+      "company": "Verifone",
+      "location": "Ashford, England, United Kingdom; Bucharest; London, England, United Kingdom; Riga, Riga, Latvia; Warszawa, Masovian Voivodeship, Poland",
+      "department": "Global Engineering",
+      "posted_date": "19 May 2026",
+      "days_ago": 7,
+      "url": "https://ats.comparably.com/api/v2/verifone/post/7595680003?gh_jid=7595680003",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "faj_18360003",
+      "title": "EPR Specialist Data Migration Analyst | South London and Maudsley NHS Foundation Trust",
+      "company": "South London And Maudsley Nhs Foundation Trust",
+      "location": "Denmark Hill, SE5 8AD",
+      "department": "",
+      "posted_date": "19 May 2026",
+      "days_ago": 8,
+      "url": "https://findajob.dwp.gov.uk/details/18360003",
+      "source": "Find a Job (Gov.uk)",
+      "source_system": "FindAJob",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "faj_18354040",
+      "title": "Junior Cyber Security Consultant / Analyst",
+      "company": "Awd Online",
+      "location": "City of London, London",
+      "department": "",
+      "posted_date": "18 May 2026",
+      "days_ago": 9,
+      "url": "https://findajob.dwp.gov.uk/details/18354040",
+      "source": "Find a Job (Gov.uk)",
+      "source_system": "FindAJob",
+      "tags": [
+        "Graduate",
+        "Consulting"
+      ]
+    },
+    {
+      "id": "gh_monzo_7601950",
+      "title": "Finance Internal Controls Manager ",
+      "company": "Monzo",
+      "location": "London",
+      "department": "Finance",
+      "posted_date": "18 May 2026",
+      "days_ago": 9,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7601950",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_tide_7692065003",
+      "title": "Business Finance Specialist (Unsecured)",
+      "company": "Tide",
+      "location": "United Kingdom",
+      "department": "One Platform - PCS Sales",
+      "posted_date": "18 May 2026",
+      "days_ago": 9,
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7692065003",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_tide_7640169003",
+      "title": "VP of Finance",
+      "company": "Tide",
+      "location": "United Kingdom",
+      "department": "Enablement",
+      "posted_date": "18 May 2026",
+      "days_ago": 9,
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7640169003",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "faj_18346304",
+      "title": "Data & Insights Analyst",
+      "company": "Ecruit",
+      "location": "WC2A 1AL",
+      "department": "",
+      "posted_date": "15 May 2026",
+      "days_ago": 12,
+      "url": "https://findajob.dwp.gov.uk/details/18346304",
+      "source": "Find a Job (Gov.uk)",
+      "source_system": "FindAJob",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "gh_monzo_7921307",
+      "title": "Senior Finance Business Partner",
+      "company": "Monzo",
+      "location": "London",
+      "department": "Finance",
+      "posted_date": "15 May 2026",
+      "days_ago": 12,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7921307",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_gocardless_7661485",
+      "title": "Senior Data Scientist, Fraud Prevention",
+      "company": "GoCardless",
+      "location": "London, UK",
+      "department": "Product Development",
+      "posted_date": "13 May 2026",
+      "days_ago": 14,
+      "url": "https://job-boards.greenhouse.io/gocardless/jobs/7661485",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "faj_18329266",
+      "title": "Junior Data Analyst",
+      "company": "Government Recruitment Service",
+      "location": "Croydon",
+      "department": "",
+      "posted_date": "13 May 2026",
+      "days_ago": 14,
+      "url": "https://findajob.dwp.gov.uk/details/18329266",
+      "source": "Find a Job (Gov.uk)",
+      "source_system": "FindAJob",
+      "tags": [
+        "Graduate",
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "gh_monzo_7655258",
+      "title": "Senior Credit Analyst",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Borrowing",
+      "posted_date": "11 May 2026",
+      "days_ago": 16,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7655258",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "faj_18319305",
+      "title": "Data Analyst",
+      "company": "Sodexo Ltd",
+      "location": "Remote - with regular travel to Salford/London, SW1A 1AA",
+      "department": "",
+      "posted_date": "11 May 2026",
+      "days_ago": 16,
+      "url": "https://findajob.dwp.gov.uk/details/18319305",
+      "source": "Find a Job (Gov.uk)",
+      "source_system": "FindAJob",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "gh_monzo_7904675",
+      "title": "Finance Forecasting Modeller",
+      "company": "Monzo",
+      "location": "UK",
+      "department": "Finance",
+      "posted_date": "08 May 2026",
+      "days_ago": 19,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7904675",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_7893506",
+      "title": "Senior Regulatory Reporting Analyst",
+      "company": "Monzo",
+      "location": "London",
+      "department": "Finance",
+      "posted_date": "08 May 2026",
+      "days_ago": 19,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7893506",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_tide_7630894003",
+      "title": "Senior Commercial Finance Broker",
+      "company": "Tide",
+      "location": "United Kingdom",
+      "department": "One Platform - PCS Sales",
+      "posted_date": "07 May 2026",
+      "days_ago": 20,
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7630894003",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_tide_7667360003",
+      "title": "Senior Sales Finance Specialist",
+      "company": "Tide",
+      "location": "United Kingdom",
+      "department": "One Platform - PCS Sales",
+      "posted_date": "07 May 2026",
+      "days_ago": 20,
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7667360003",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "faj_18284378",
+      "title": "Asset Management Analyst (Property / Housing)",
+      "company": "Awd Online",
+      "location": "Ealing, West London",
+      "department": "",
+      "posted_date": "05 May 2026",
+      "days_ago": 22,
+      "url": "https://findajob.dwp.gov.uk/details/18284378",
+      "source": "Find a Job (Gov.uk)",
+      "source_system": "FindAJob",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "faj_18286433",
+      "title": "Credit Risk Analyst (Trading / Financial Services)",
+      "company": "Awd Online",
+      "location": "City of London, London",
+      "department": "",
+      "posted_date": "05 May 2026",
+      "days_ago": 22,
+      "url": "https://findajob.dwp.gov.uk/details/18286433",
+      "source": "Find a Job (Gov.uk)",
+      "source_system": "FindAJob",
+      "tags": [
+        "Finance",
+        "Quantitative"
+      ]
+    },
+    {
+      "id": "gh_modulrfinance_8534401002",
+      "title": "Financial Crime Screening Analyst",
+      "company": "Modulr Finance",
+      "location": "Edinburgh",
+      "department": "Financial Crime Operations",
+      "posted_date": "04 May 2026",
+      "days_ago": 23,
+      "url": "https://boards.greenhouse.io/modulrfinance/jobs/8534401002?gh_jid=8534401002",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_7873998",
+      "title": "Lead Analytics Engineer, Borrowing",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Data",
+      "posted_date": "01 May 2026",
+      "days_ago": 26,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7873998",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "gh_complyadvantage_8524517002",
+      "title": "Solutions Consultant",
+      "company": "ComplyAdvantage",
+      "location": "London, England, United Kingdom",
+      "department": "Commercial",
+      "posted_date": "29 Apr 2026",
+      "days_ago": 28,
+      "url": "https://complyadvantage.com/careers/jobs/8524517002?gh_jid=8524517002",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Consulting"
+      ]
+    },
+    {
+      "id": "gh_gocardless_7462219",
+      "title": "Sales Ops and Commissions Analyst",
+      "company": "GoCardless",
+      "location": "Leeds, UK",
+      "department": "Sales",
+      "posted_date": "28 Apr 2026",
+      "days_ago": 29,
+      "url": "https://job-boards.greenhouse.io/gocardless/jobs/7462219",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_6758600",
+      "title": "Credit Analyst",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Borrowing",
+      "posted_date": "28 Apr 2026",
+      "days_ago": 29,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/6758600",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_6369658",
+      "title": "Lead Data Scientist",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Data",
+      "posted_date": "23 Apr 2026",
+      "days_ago": 33,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/6369658",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "gh_monzo_7355930",
+      "title": "Senior Finance Business Partner",
+      "company": "Monzo",
+      "location": "London",
+      "department": "Finance",
+      "posted_date": "24 Apr 2026",
+      "days_ago": 33,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7355930",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_gocardless_7841021",
+      "title": "Financial Crime Risk Manager - 12 month FTC",
+      "company": "GoCardless",
+      "location": "Leeds, UK",
+      "department": "Risk",
+      "posted_date": "22 Apr 2026",
+      "days_ago": 35,
+      "url": "https://job-boards.greenhouse.io/gocardless/jobs/7841021",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_6180814",
+      "title": "Senior Data Scientist",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Data",
+      "posted_date": "15 Apr 2026",
+      "days_ago": 42,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/6180814",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "gh_monzo_6930501",
+      "title": "Senior Data Scientist - Marketing and Growth",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Data",
+      "posted_date": "15 Apr 2026",
+      "days_ago": 42,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/6930501",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "gh_monzo_7621692",
+      "title": "Senior Legal Counsel, Business Banking",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Legal",
+      "posted_date": "15 Apr 2026",
+      "days_ago": 42,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7621692",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Banking"
+      ]
+    },
+    {
+      "id": "gh_form3_8378407002",
+      "title": "Head of Financial Planning & Analysis (FP&A)",
+      "company": "Form3",
+      "location": "100% Remote (UK)",
+      "department": "Finance",
+      "posted_date": "13 Apr 2026",
+      "days_ago": 44,
+      "url": "https://www.form3.tech/careers/vacancies/8378407002?gh_jid=8378407002",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_7732437",
+      "title": "Senior Product Director, Business Banking",
+      "company": "Monzo",
+      "location": "London",
+      "department": "Product",
+      "posted_date": "07 Apr 2026",
+      "days_ago": 50,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7732437",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Banking"
+      ]
+    },
+    {
+      "id": "gh_monzo_7768022",
+      "title": "Treasury FX Manager",
+      "company": "Monzo",
+      "location": "London",
+      "department": "Finance",
+      "posted_date": "07 Apr 2026",
+      "days_ago": 50,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7768022",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_gocardless_7526068",
+      "title": "Senior Data Scientist, Payment Intelligence",
+      "company": "GoCardless",
+      "location": "London, UK",
+      "department": "Product Development",
+      "posted_date": "27 Feb 2026",
+      "days_ago": 89,
+      "url": "https://job-boards.greenhouse.io/gocardless/jobs/7526068",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
+      ]
+    }
+  ]
+}
