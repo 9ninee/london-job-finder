@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-27T17:26:56.138390+00:00",
-  "total": 47,
+  "last_updated": "2026-05-27T20:27:13.120735+00:00",
+  "total": 36,
   "errors": [],
   "meta": {
     "greenhouse_count": 64,
@@ -8,7 +8,7 @@
     "ashby_count": 50,
     "workday_count": 38,
     "total_companies": 182,
-    "adzuna_enabled": true
+    "adzuna_enabled": false
   },
   "jobs": [
     {
@@ -39,21 +39,6 @@
       "source_system": "Greenhouse",
       "tags": [
         "Graduate"
-      ]
-    },
-    {
-      "id": "faj_18397182",
-      "title": "Planning, Governance and Reporting Officer",
-      "company": "Government Recruitment Service",
-      "location": "Westminster",
-      "department": "",
-      "posted_date": "27 May 2026",
-      "days_ago": 0,
-      "url": "https://findajob.dwp.gov.uk/details/18397182",
-      "source": "Find a Job (Gov.uk)",
-      "source_system": "FindAJob",
-      "tags": [
-        "Finance"
       ]
     },
     {
@@ -132,36 +117,6 @@
       ]
     },
     {
-      "id": "faj_18384040",
-      "title": "Financial Planning & Analysis (FP&A) Analyst",
-      "company": "Gov Facility Services Limited",
-      "location": "london, SW1H 9AJ",
-      "department": "",
-      "posted_date": "22 May 2026",
-      "days_ago": 5,
-      "url": "https://findajob.dwp.gov.uk/details/18384040",
-      "source": "Find a Job (Gov.uk)",
-      "source_system": "FindAJob",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "faj_18385060",
-      "title": "Business Analyst (Talent Pool)",
-      "company": "Inploi",
-      "location": "London, W10 5BU",
-      "department": "",
-      "posted_date": "22 May 2026",
-      "days_ago": 5,
-      "url": "https://findajob.dwp.gov.uk/details/18385060",
-      "source": "Find a Job (Gov.uk)",
-      "source_system": "FindAJob",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "gh_monzo_7916595",
       "title": "Lead Insurance Pricing Analyst",
       "company": "Monzo",
@@ -207,21 +162,6 @@
       ]
     },
     {
-      "id": "faj_18369276",
-      "title": "Data Analyst",
-      "company": "Iss Facilities Services",
-      "location": "E14 9SH",
-      "department": "",
-      "posted_date": "20 May 2026",
-      "days_ago": 7,
-      "url": "https://findajob.dwp.gov.uk/details/18369276",
-      "source": "Find a Job (Gov.uk)",
-      "source_system": "FindAJob",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
       "id": "gh_verifone_7595680003",
       "title": "Lead MySQL Database Administrator ",
       "company": "Verifone",
@@ -234,37 +174,6 @@
       "source_system": "Greenhouse",
       "tags": [
         "Data & Analytics"
-      ]
-    },
-    {
-      "id": "faj_18360003",
-      "title": "EPR Specialist Data Migration Analyst | South London and Maudsley NHS Foundation Trust",
-      "company": "South London And Maudsley Nhs Foundation Trust",
-      "location": "Denmark Hill, SE5 8AD",
-      "department": "",
-      "posted_date": "19 May 2026",
-      "days_ago": 8,
-      "url": "https://findajob.dwp.gov.uk/details/18360003",
-      "source": "Find a Job (Gov.uk)",
-      "source_system": "FindAJob",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
-      "id": "faj_18354040",
-      "title": "Junior Cyber Security Consultant / Analyst",
-      "company": "Awd Online",
-      "location": "City of London, London",
-      "department": "",
-      "posted_date": "18 May 2026",
-      "days_ago": 9,
-      "url": "https://findajob.dwp.gov.uk/details/18354040",
-      "source": "Find a Job (Gov.uk)",
-      "source_system": "FindAJob",
-      "tags": [
-        "Graduate",
-        "Consulting"
       ]
     },
     {
@@ -313,21 +222,6 @@
       ]
     },
     {
-      "id": "faj_18346304",
-      "title": "Data & Insights Analyst",
-      "company": "Ecruit",
-      "location": "WC2A 1AL",
-      "department": "",
-      "posted_date": "15 May 2026",
-      "days_ago": 12,
-      "url": "https://findajob.dwp.gov.uk/details/18346304",
-      "source": "Find a Job (Gov.uk)",
-      "source_system": "FindAJob",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
       "id": "gh_monzo_7921307",
       "title": "Senior Finance Business Partner",
       "company": "Monzo",
@@ -358,22 +252,6 @@
       ]
     },
     {
-      "id": "faj_18329266",
-      "title": "Junior Data Analyst",
-      "company": "Government Recruitment Service",
-      "location": "Croydon",
-      "department": "",
-      "posted_date": "13 May 2026",
-      "days_ago": 14,
-      "url": "https://findajob.dwp.gov.uk/details/18329266",
-      "source": "Find a Job (Gov.uk)",
-      "source_system": "FindAJob",
-      "tags": [
-        "Graduate",
-        "Data & Analytics"
-      ]
-    },
-    {
       "id": "gh_monzo_7655258",
       "title": "Senior Credit Analyst",
       "company": "Monzo",
@@ -386,21 +264,6 @@
       "source_system": "Greenhouse",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "faj_18319305",
-      "title": "Data Analyst",
-      "company": "Sodexo Ltd",
-      "location": "Remote - with regular travel to Salford/London, SW1A 1AA",
-      "department": "",
-      "posted_date": "11 May 2026",
-      "days_ago": 16,
-      "url": "https://findajob.dwp.gov.uk/details/18319305",
-      "source": "Find a Job (Gov.uk)",
-      "source_system": "FindAJob",
-      "tags": [
-        "Data & Analytics"
       ]
     },
     {
@@ -461,37 +324,6 @@
       "source_system": "Greenhouse",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "faj_18284378",
-      "title": "Asset Management Analyst (Property / Housing)",
-      "company": "Awd Online",
-      "location": "Ealing, West London",
-      "department": "",
-      "posted_date": "05 May 2026",
-      "days_ago": 22,
-      "url": "https://findajob.dwp.gov.uk/details/18284378",
-      "source": "Find a Job (Gov.uk)",
-      "source_system": "FindAJob",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "faj_18286433",
-      "title": "Credit Risk Analyst (Trading / Financial Services)",
-      "company": "Awd Online",
-      "location": "City of London, London",
-      "department": "",
-      "posted_date": "05 May 2026",
-      "days_ago": 22,
-      "url": "https://findajob.dwp.gov.uk/details/18286433",
-      "source": "Find a Job (Gov.uk)",
-      "source_system": "FindAJob",
-      "tags": [
-        "Finance",
-        "Quantitative"
       ]
     },
     {
@@ -570,21 +402,6 @@
       ]
     },
     {
-      "id": "gh_monzo_6369658",
-      "title": "Lead Data Scientist",
-      "company": "Monzo",
-      "location": "Cardiff, London or Remote (UK)",
-      "department": "Data",
-      "posted_date": "23 Apr 2026",
-      "days_ago": 33,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/6369658",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
       "id": "gh_monzo_7355930",
       "title": "Senior Finance Business Partner",
       "company": "Monzo",
@@ -597,6 +414,21 @@
       "source_system": "Greenhouse",
       "tags": [
         "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_6369658",
+      "title": "Lead Data Scientist",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Data",
+      "posted_date": "23 Apr 2026",
+      "days_ago": 34,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/6369658",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
       ]
     },
     {
