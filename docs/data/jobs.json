@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-28T04:18:05.433729+00:00",
-  "total": 32,
+  "last_updated": "2026-05-28T10:19:31.224127+00:00",
+  "total": 35,
   "errors": [],
   "meta": {
     "greenhouse_count": 64,
@@ -58,32 +58,17 @@
     },
     {
       "id": "gh_monzo_7957299",
-      "title": "Financial Controls Manager ",
+      "title": "Financial Control Manager ",
       "company": "Monzo",
       "location": "Cardiff, London or Remote (UK)",
       "department": "Finance",
-      "posted_date": "27 May 2026",
+      "posted_date": "28 May 2026",
       "days_ago": 0,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7957299",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "gh_monzo_7771697",
-      "title": "Senior Director of Marketing, Business Banking",
-      "company": "Monzo",
-      "location": "London",
-      "department": "Marketing & Community",
-      "posted_date": "27 May 2026",
-      "days_ago": 0,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7771697",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Banking"
       ]
     },
     {
@@ -102,13 +87,28 @@
       ]
     },
     {
+      "id": "gh_monzo_7771697",
+      "title": "Senior Director of Marketing, Business Banking",
+      "company": "Monzo",
+      "location": "London",
+      "department": "Marketing & Community",
+      "posted_date": "27 May 2026",
+      "days_ago": 1,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7771697",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Banking"
+      ]
+    },
+    {
       "id": "gh_monzo_7953732",
       "title": "Financial Reporting Manager ",
       "company": "Monzo",
       "location": "London",
       "department": "Finance",
       "posted_date": "26 May 2026",
-      "days_ago": 1,
+      "days_ago": 2,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7953732",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -138,7 +138,7 @@
       "location": "United Kingdom",
       "department": "One Platform - PCS Sales",
       "posted_date": "22 May 2026",
-      "days_ago": 5,
+      "days_ago": 6,
       "url": "https://job-boards.greenhouse.io/tide/jobs/7714691003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -237,6 +237,21 @@
       ]
     },
     {
+      "id": "gh_gocardless_7661485",
+      "title": "Senior Data Scientist, Fraud Prevention",
+      "company": "GoCardless",
+      "location": "London, UK",
+      "department": "Product Development",
+      "posted_date": "13 May 2026",
+      "days_ago": 15,
+      "url": "https://job-boards.greenhouse.io/gocardless/jobs/7661485",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
       "id": "gh_monzo_7655258",
       "title": "Senior Credit Analyst",
       "company": "Monzo",
@@ -288,7 +303,7 @@
       "location": "United Kingdom",
       "department": "One Platform - PCS Sales",
       "posted_date": "07 May 2026",
-      "days_ago": 20,
+      "days_ago": 21,
       "url": "https://job-boards.greenhouse.io/tide/jobs/7630894003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -303,7 +318,7 @@
       "location": "United Kingdom",
       "department": "One Platform - PCS Sales",
       "posted_date": "07 May 2026",
-      "days_ago": 20,
+      "days_ago": 21,
       "url": "https://job-boards.greenhouse.io/tide/jobs/7667360003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -402,6 +417,21 @@
       ]
     },
     {
+      "id": "gh_gocardless_7841021",
+      "title": "Financial Crime Risk Manager - 12 month FTC",
+      "company": "GoCardless",
+      "location": "Leeds, UK",
+      "department": "Risk",
+      "posted_date": "22 Apr 2026",
+      "days_ago": 36,
+      "url": "https://job-boards.greenhouse.io/gocardless/jobs/7841021",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "gh_monzo_6180814",
       "title": "Senior Data Scientist",
       "company": "Monzo",
@@ -438,7 +468,7 @@
       "location": "Cardiff, London or Remote (UK)",
       "department": "Legal",
       "posted_date": "15 Apr 2026",
-      "days_ago": 42,
+      "days_ago": 43,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7621692",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -489,6 +519,21 @@
       "source_system": "Greenhouse",
       "tags": [
         "Finance"
+      ]
+    },
+    {
+      "id": "gh_gocardless_7526068",
+      "title": "Senior Data Scientist, Payment Intelligence",
+      "company": "GoCardless",
+      "location": "London, UK",
+      "department": "Product Development",
+      "posted_date": "27 Feb 2026",
+      "days_ago": 89,
+      "url": "https://job-boards.greenhouse.io/gocardless/jobs/7526068",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
       ]
     }
   ]
