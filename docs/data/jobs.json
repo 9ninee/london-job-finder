@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-27T20:27:13.120735+00:00",
-  "total": 36,
+  "last_updated": "2026-05-28T04:18:05.433729+00:00",
+  "total": 32,
   "errors": [],
   "meta": {
     "greenhouse_count": 64,
@@ -168,7 +168,7 @@
       "location": "Ashford, England, United Kingdom; Bucharest; London, England, United Kingdom; Riga, Riga, Latvia; Warszawa, Masovian Voivodeship, Poland",
       "department": "Global Engineering",
       "posted_date": "19 May 2026",
-      "days_ago": 7,
+      "days_ago": 8,
       "url": "https://ats.comparably.com/api/v2/verifone/post/7595680003?gh_jid=7595680003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -234,21 +234,6 @@
       "source_system": "Greenhouse",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "gh_gocardless_7661485",
-      "title": "Senior Data Scientist, Fraud Prevention",
-      "company": "GoCardless",
-      "location": "London, UK",
-      "department": "Product Development",
-      "posted_date": "13 May 2026",
-      "days_ago": 14,
-      "url": "https://job-boards.greenhouse.io/gocardless/jobs/7661485",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Data & Analytics"
       ]
     },
     {
@@ -372,21 +357,6 @@
       ]
     },
     {
-      "id": "gh_gocardless_7462219",
-      "title": "Sales Ops and Commissions Analyst",
-      "company": "GoCardless",
-      "location": "Leeds, UK",
-      "department": "Sales",
-      "posted_date": "28 Apr 2026",
-      "days_ago": 29,
-      "url": "https://job-boards.greenhouse.io/gocardless/jobs/7462219",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "gh_monzo_6758600",
       "title": "Credit Analyst",
       "company": "Monzo",
@@ -429,21 +399,6 @@
       "source_system": "Greenhouse",
       "tags": [
         "Data & Analytics"
-      ]
-    },
-    {
-      "id": "gh_gocardless_7841021",
-      "title": "Financial Crime Risk Manager - 12 month FTC",
-      "company": "GoCardless",
-      "location": "Leeds, UK",
-      "department": "Risk",
-      "posted_date": "22 Apr 2026",
-      "days_ago": 35,
-      "url": "https://job-boards.greenhouse.io/gocardless/jobs/7841021",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
       ]
     },
     {
@@ -534,21 +489,6 @@
       "source_system": "Greenhouse",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "gh_gocardless_7526068",
-      "title": "Senior Data Scientist, Payment Intelligence",
-      "company": "GoCardless",
-      "location": "London, UK",
-      "department": "Product Development",
-      "posted_date": "27 Feb 2026",
-      "days_ago": 89,
-      "url": "https://job-boards.greenhouse.io/gocardless/jobs/7526068",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Data & Analytics"
       ]
     }
   ]
