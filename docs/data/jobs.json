@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T20:33:44.787731+00:00",
+  "last_updated": "2026-05-29T04:20:36.969613+00:00",
   "total": 36,
   "errors": [],
   "meta": {
@@ -327,21 +327,6 @@
       ]
     },
     {
-      "id": "gh_complyadvantage_8547072002",
-      "title": "Business Development Representative - Calling all Graduates!",
-      "company": "ComplyAdvantage",
-      "location": "London, England, United Kingdom",
-      "department": "Commercial",
-      "posted_date": "27 May 2026",
-      "days_ago": 1,
-      "url": "https://complyadvantage.com/careers/jobs/8547072002?gh_jid=8547072002",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Graduate"
-      ]
-    },
-    {
       "id": "gh_complyadvantage_8547070002",
       "title": "Business Development Representative - Calling all Graduates!",
       "company": "ComplyAdvantage",
@@ -350,6 +335,21 @@
       "posted_date": "27 May 2026",
       "days_ago": 1,
       "url": "https://complyadvantage.com/careers/jobs/8547070002?gh_jid=8547070002",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Graduate"
+      ]
+    },
+    {
+      "id": "gh_complyadvantage_8547072002",
+      "title": "Business Development Representative - Calling all Graduates!",
+      "company": "ComplyAdvantage",
+      "location": "London, England, United Kingdom",
+      "department": "Commercial",
+      "posted_date": "27 May 2026",
+      "days_ago": 1,
+      "url": "https://complyadvantage.com/careers/jobs/8547072002?gh_jid=8547072002",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -393,7 +393,7 @@
       "location": "Ashford, England, United Kingdom; Bucharest; London, England, United Kingdom; Riga, Riga, Latvia; Warszawa, Masovian Voivodeship, Poland",
       "department": "Global Engineering",
       "posted_date": "19 May 2026",
-      "days_ago": 8,
+      "days_ago": 9,
       "url": "https://ats.comparably.com/api/v2/verifone/post/7595680003?gh_jid=7595680003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
