@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T17:56:22.442109+00:00",
+  "last_updated": "2026-06-01T21:41:39.369981+00:00",
   "total": 36,
   "errors": [],
   "meta": {
@@ -409,7 +409,7 @@
       "location": "Ashford, England, United Kingdom; Bucharest; London, England, United Kingdom; Riga, Riga, Latvia; Warszawa, Masovian Voivodeship, Poland",
       "department": "Global Engineering",
       "posted_date": "19 May 2026",
-      "days_ago": 12,
+      "days_ago": 13,
       "url": "https://ats.comparably.com/api/v2/verifone/post/7595680003?gh_jid=7595680003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
