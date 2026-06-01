@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-01T05:02:39.017177+00:00",
-  "total": 35,
+  "last_updated": "2026-06-01T11:50:51.529239+00:00",
+  "total": 34,
   "errors": [],
   "meta": {
     "greenhouse_count": 64,
@@ -11,21 +11,6 @@
     "adzuna_enabled": false
   },
   "jobs": [
-    {
-      "id": "gh_monzo_7965914",
-      "title": "Integrated Marketing Lead, Business Banking",
-      "company": "Monzo",
-      "location": "London",
-      "department": "Marketing & Community",
-      "posted_date": "29 May 2026",
-      "days_ago": 2,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7965914",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Banking"
-      ]
-    },
     {
       "id": "gh_monzo_7966820",
       "title": "Product Marketing Lead, Core Banking",
@@ -102,21 +87,6 @@
       ]
     },
     {
-      "id": "gh_monzo_7953732",
-      "title": "Financial Reporting Manager ",
-      "company": "Monzo",
-      "location": "London",
-      "department": "Finance",
-      "posted_date": "28 May 2026",
-      "days_ago": 3,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7953732",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "gh_monzo_7962678",
       "title": "Head of Credit Strategy Oversight",
       "company": "Monzo",
@@ -129,6 +99,21 @@
       "source_system": "Greenhouse",
       "tags": [
         "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_7965914",
+      "title": "Integrated Marketing Lead, Business Banking",
+      "company": "Monzo",
+      "location": "London",
+      "department": "Marketing & Community",
+      "posted_date": "29 May 2026",
+      "days_ago": 3,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7965914",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Banking"
       ]
     },
     {
@@ -363,7 +348,7 @@
       "location": "United Kingdom",
       "department": "One Platform - PCS Sales",
       "posted_date": "22 May 2026",
-      "days_ago": 9,
+      "days_ago": 10,
       "url": "https://job-boards.greenhouse.io/tide/jobs/7714691003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -408,7 +393,7 @@
       "location": "United Kingdom",
       "department": "One Platform - PCS Sales",
       "posted_date": "18 May 2026",
-      "days_ago": 13,
+      "days_ago": 14,
       "url": "https://job-boards.greenhouse.io/tide/jobs/7692065003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -423,7 +408,7 @@
       "location": "United Kingdom",
       "department": "Enablement",
       "posted_date": "18 May 2026",
-      "days_ago": 13,
+      "days_ago": 14,
       "url": "https://job-boards.greenhouse.io/tide/jobs/7640169003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -438,7 +423,7 @@
       "location": "London, UK",
       "department": "Product Development",
       "posted_date": "13 May 2026",
-      "days_ago": 18,
+      "days_ago": 19,
       "url": "https://job-boards.greenhouse.io/gocardless/jobs/7661485",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -453,7 +438,7 @@
       "location": "United Kingdom",
       "department": "One Platform - PCS Sales",
       "posted_date": "07 May 2026",
-      "days_ago": 24,
+      "days_ago": 25,
       "url": "https://job-boards.greenhouse.io/tide/jobs/7630894003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -468,7 +453,7 @@
       "location": "United Kingdom",
       "department": "One Platform - PCS Sales",
       "posted_date": "07 May 2026",
-      "days_ago": 24,
+      "days_ago": 25,
       "url": "https://job-boards.greenhouse.io/tide/jobs/7667360003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -513,7 +498,7 @@
       "location": "Leeds, UK",
       "department": "Risk",
       "posted_date": "22 Apr 2026",
-      "days_ago": 39,
+      "days_ago": 40,
       "url": "https://job-boards.greenhouse.io/gocardless/jobs/7841021",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
