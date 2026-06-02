@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T04:48:58.954931+00:00",
+  "last_updated": "2026-06-02T10:49:25.545458+00:00",
   "total": 36,
   "errors": [],
   "meta": {
@@ -17,7 +17,7 @@
       "company": "Monzo",
       "location": "Cardiff, London or Remote (UK)",
       "department": "Customer Operations",
-      "posted_date": "01 Jun 2026",
+      "posted_date": "02 Jun 2026",
       "days_ago": 0,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7908745",
       "source": "Company Career Page",
@@ -43,18 +43,18 @@
       ]
     },
     {
-      "id": "gh_monzo_7965914",
-      "title": "Integrated Marketing Lead, Business Banking",
-      "company": "Monzo",
-      "location": "London",
-      "department": "Marketing & Community",
-      "posted_date": "29 May 2026",
-      "days_ago": 3,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7965914",
+      "id": "gh_tide_7692065003",
+      "title": "Finance Sales Specialist",
+      "company": "Tide",
+      "location": "United Kingdom",
+      "department": "One Platform - PCS Sales",
+      "posted_date": "02 Jun 2026",
+      "days_ago": 0,
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7692065003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
-        "Banking"
+        "Finance"
       ]
     },
     {
@@ -145,6 +145,21 @@
       "source_system": "Greenhouse",
       "tags": [
         "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_7965914",
+      "title": "Integrated Marketing Lead, Business Banking",
+      "company": "Monzo",
+      "location": "London",
+      "department": "Marketing & Community",
+      "posted_date": "29 May 2026",
+      "days_ago": 4,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7965914",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Banking"
       ]
     },
     {
@@ -253,21 +268,6 @@
       ]
     },
     {
-      "id": "gh_monzo_7355930",
-      "title": "Senior Finance Business Partner",
-      "company": "Monzo",
-      "location": "London",
-      "department": "Finance",
-      "posted_date": "28 May 2026",
-      "days_ago": 4,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7355930",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "gh_monzo_7921307",
       "title": "Senior Finance Business Partner",
       "company": "Monzo",
@@ -276,6 +276,21 @@
       "posted_date": "28 May 2026",
       "days_ago": 4,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7921307",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_7355930",
+      "title": "Senior Finance Business Partner",
+      "company": "Monzo",
+      "location": "London",
+      "department": "Finance",
+      "posted_date": "28 May 2026",
+      "days_ago": 4,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7355930",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -379,7 +394,7 @@
       "location": "United Kingdom",
       "department": "One Platform - PCS Sales",
       "posted_date": "22 May 2026",
-      "days_ago": 10,
+      "days_ago": 11,
       "url": "https://job-boards.greenhouse.io/tide/jobs/7714691003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -418,21 +433,6 @@
       ]
     },
     {
-      "id": "gh_tide_7692065003",
-      "title": "Business Finance Specialist (Unsecured)",
-      "company": "Tide",
-      "location": "United Kingdom",
-      "department": "One Platform - PCS Sales",
-      "posted_date": "18 May 2026",
-      "days_ago": 14,
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7692065003",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "gh_tide_7640169003",
       "title": "VP of Finance",
       "company": "Tide",
@@ -454,7 +454,7 @@
       "location": "London, UK",
       "department": "Product Development",
       "posted_date": "13 May 2026",
-      "days_ago": 19,
+      "days_ago": 20,
       "url": "https://job-boards.greenhouse.io/gocardless/jobs/7661485",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -469,7 +469,7 @@
       "location": "United Kingdom",
       "department": "One Platform - PCS Sales",
       "posted_date": "07 May 2026",
-      "days_ago": 25,
+      "days_ago": 26,
       "url": "https://job-boards.greenhouse.io/tide/jobs/7630894003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -484,7 +484,7 @@
       "location": "United Kingdom",
       "department": "One Platform - PCS Sales",
       "posted_date": "07 May 2026",
-      "days_ago": 25,
+      "days_ago": 26,
       "url": "https://job-boards.greenhouse.io/tide/jobs/7667360003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -529,7 +529,7 @@
       "location": "Leeds, UK",
       "department": "Risk",
       "posted_date": "22 Apr 2026",
-      "days_ago": 40,
+      "days_ago": 41,
       "url": "https://job-boards.greenhouse.io/gocardless/jobs/7841021",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
