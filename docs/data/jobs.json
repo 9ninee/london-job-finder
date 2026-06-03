@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-03T04:59:24.262385+00:00",
-  "total": 36,
+  "last_updated": "2026-06-03T11:17:19.372750+00:00",
+  "total": 38,
   "errors": [],
   "meta": {
     "greenhouse_count": 64,
@@ -11,6 +11,21 @@
     "adzuna_enabled": false
   },
   "jobs": [
+    {
+      "id": "gh_complyadvantage_8576136002",
+      "title": "Principal Data Engineer",
+      "company": "ComplyAdvantage",
+      "location": "London, England, United Kingdom",
+      "department": "Technology",
+      "posted_date": "03 Jun 2026",
+      "days_ago": 0,
+      "url": "https://complyadvantage.com/careers/jobs/8576136002?gh_jid=8576136002",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
     {
       "id": "gh_monzo_7908745",
       "title": "Card Acquiring, Business Banking Customer Operations Advisor ",
@@ -27,6 +42,22 @@
       ]
     },
     {
+      "id": "gh_monzo_7971941",
+      "title": "Technical Accounting & Advisory Senior Manager",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Finance",
+      "posted_date": "03 Jun 2026",
+      "days_ago": 0,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7971941",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance",
+        "Consulting"
+      ]
+    },
+    {
       "id": "gh_monzo_7893700",
       "title": "Third Party Risk Manager (FTC)",
       "company": "Monzo",
@@ -35,21 +66,6 @@
       "posted_date": "02 Jun 2026",
       "days_ago": 0,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7893700",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_tide_7692065003",
-      "title": "Finance Sales Specialist",
-      "company": "Tide",
-      "location": "United Kingdom",
-      "department": "One Platform - PCS Sales",
-      "posted_date": "02 Jun 2026",
-      "days_ago": 0,
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7692065003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -72,18 +88,18 @@
       ]
     },
     {
-      "id": "gh_monzo_7965914",
-      "title": "Integrated Marketing Lead, Business Banking",
-      "company": "Monzo",
-      "location": "London",
-      "department": "Marketing & Community",
-      "posted_date": "29 May 2026",
-      "days_ago": 4,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7965914",
+      "id": "gh_tide_7692065003",
+      "title": "Finance Sales Specialist",
+      "company": "Tide",
+      "location": "United Kingdom",
+      "department": "One Platform - PCS Sales",
+      "posted_date": "02 Jun 2026",
+      "days_ago": 1,
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7692065003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
-        "Banking"
+        "Finance"
       ]
     },
     {
@@ -174,6 +190,21 @@
       "source_system": "Greenhouse",
       "tags": [
         "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_7965914",
+      "title": "Integrated Marketing Lead, Business Banking",
+      "company": "Monzo",
+      "location": "London",
+      "department": "Marketing & Community",
+      "posted_date": "29 May 2026",
+      "days_ago": 5,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7965914",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Banking"
       ]
     },
     {
@@ -357,21 +388,6 @@
       ]
     },
     {
-      "id": "gh_complyadvantage_8547070002",
-      "title": "Business Development Representative - Calling all Graduates!",
-      "company": "ComplyAdvantage",
-      "location": "London, England, United Kingdom",
-      "department": "Commercial",
-      "posted_date": "27 May 2026",
-      "days_ago": 6,
-      "url": "https://complyadvantage.com/careers/jobs/8547070002?gh_jid=8547070002",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Graduate"
-      ]
-    },
-    {
       "id": "gh_complyadvantage_8547072002",
       "title": "Business Development Representative - Calling all Graduates!",
       "company": "ComplyAdvantage",
@@ -387,13 +403,28 @@
       ]
     },
     {
+      "id": "gh_complyadvantage_8547070002",
+      "title": "Business Development Representative - Calling all Graduates!",
+      "company": "ComplyAdvantage",
+      "location": "London, England, United Kingdom",
+      "department": "Commercial",
+      "posted_date": "27 May 2026",
+      "days_ago": 6,
+      "url": "https://complyadvantage.com/careers/jobs/8547070002?gh_jid=8547070002",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Graduate"
+      ]
+    },
+    {
       "id": "gh_tide_7714691003",
       "title": " Senior Commercial Finance Broker - Account Management",
       "company": "Tide",
       "location": "United Kingdom",
       "department": "One Platform - PCS Sales",
       "posted_date": "22 May 2026",
-      "days_ago": 11,
+      "days_ago": 12,
       "url": "https://job-boards.greenhouse.io/tide/jobs/7714691003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -453,7 +484,7 @@
       "location": "London, UK",
       "department": "Product Development",
       "posted_date": "13 May 2026",
-      "days_ago": 20,
+      "days_ago": 21,
       "url": "https://job-boards.greenhouse.io/gocardless/jobs/7661485",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -468,7 +499,7 @@
       "location": "United Kingdom",
       "department": "One Platform - PCS Sales",
       "posted_date": "07 May 2026",
-      "days_ago": 26,
+      "days_ago": 27,
       "url": "https://job-boards.greenhouse.io/tide/jobs/7630894003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -483,7 +514,7 @@
       "location": "United Kingdom",
       "department": "One Platform - PCS Sales",
       "posted_date": "07 May 2026",
-      "days_ago": 26,
+      "days_ago": 27,
       "url": "https://job-boards.greenhouse.io/tide/jobs/7667360003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -528,7 +559,7 @@
       "location": "Leeds, UK",
       "department": "Risk",
       "posted_date": "22 Apr 2026",
-      "days_ago": 41,
+      "days_ago": 42,
       "url": "https://job-boards.greenhouse.io/gocardless/jobs/7841021",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
