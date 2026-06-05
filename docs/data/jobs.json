@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T10:05:13.464136+00:00",
+  "last_updated": "2026-06-05T15:21:37.496279+00:00",
   "total": 35,
   "errors": [],
   "meta": {
@@ -18,7 +18,7 @@
       "location": "Leeds, UK",
       "department": "Risk",
       "posted_date": "04 Jun 2026",
-      "days_ago": 0,
+      "days_ago": 1,
       "url": "https://job-boards.greenhouse.io/gocardless/jobs/7972997",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -57,21 +57,6 @@
       ]
     },
     {
-      "id": "gh_monzo_7908745",
-      "title": "Card Acquiring, Business Banking Customer Operations Advisor ",
-      "company": "Monzo",
-      "location": "Cardiff, London or Remote (UK)",
-      "department": "Customer Operations",
-      "posted_date": "02 Jun 2026",
-      "days_ago": 2,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7908745",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Banking"
-      ]
-    },
-    {
       "id": "gh_monzo_7971941",
       "title": "Technical Accounting & Advisory Senior Manager",
       "company": "Monzo",
@@ -88,18 +73,18 @@
       ]
     },
     {
-      "id": "gh_verifone_7615009003",
-      "title": "Data Engineer (Kafka)",
-      "company": "Verifone",
-      "location": "Ashford, England, United Kingdom; Bucharest; London, England, United Kingdom; Riga, Riga, Latvia; Warszawa, Masovian Voivodeship, Poland",
-      "department": "Global Tech Ops & Cybersecurity",
+      "id": "gh_monzo_7908745",
+      "title": "Card Acquiring, Business Banking Customer Operations Advisor ",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Customer Operations",
       "posted_date": "02 Jun 2026",
-      "days_ago": 2,
-      "url": "https://ats.comparably.com/api/v2/verifone/post/7615009003?gh_jid=7615009003",
+      "days_ago": 3,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7908745",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
-        "Data & Analytics"
+        "Banking"
       ]
     },
     {
@@ -118,18 +103,18 @@
       ]
     },
     {
-      "id": "gh_monzo_7966820",
-      "title": "Product Marketing Lead, Core Banking",
-      "company": "Monzo",
-      "location": "London",
-      "department": "Marketing & Community",
-      "posted_date": "29 May 2026",
-      "days_ago": 6,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7966820",
+      "id": "gh_verifone_7615009003",
+      "title": "Data Engineer (Kafka)",
+      "company": "Verifone",
+      "location": "Ashford, England, United Kingdom; Bucharest; London, England, United Kingdom; Riga, Riga, Latvia; Warszawa, Masovian Voivodeship, Poland",
+      "department": "Global Tech Ops & Cybersecurity",
+      "posted_date": "02 Jun 2026",
+      "days_ago": 3,
+      "url": "https://ats.comparably.com/api/v2/verifone/post/7615009003?gh_jid=7615009003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
-        "Banking"
+        "Data & Analytics"
       ]
     },
     {
@@ -235,6 +220,21 @@
       "source_system": "Greenhouse",
       "tags": [
         "Data & Analytics"
+      ]
+    },
+    {
+      "id": "gh_monzo_7966820",
+      "title": "Product Marketing Lead, Core Banking",
+      "company": "Monzo",
+      "location": "London",
+      "department": "Marketing & Community",
+      "posted_date": "29 May 2026",
+      "days_ago": 7,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7966820",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Banking"
       ]
     },
     {
@@ -358,14 +358,14 @@
       ]
     },
     {
-      "id": "gh_complyadvantage_8547072002",
+      "id": "gh_complyadvantage_8547070002",
       "title": "Business Development Representative - Calling all Graduates!",
       "company": "ComplyAdvantage",
       "location": "London, England, United Kingdom",
       "department": "Commercial",
       "posted_date": "27 May 2026",
-      "days_ago": 8,
-      "url": "https://complyadvantage.com/careers/jobs/8547072002?gh_jid=8547072002",
+      "days_ago": 9,
+      "url": "https://complyadvantage.com/careers/jobs/8547070002?gh_jid=8547070002",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -373,14 +373,14 @@
       ]
     },
     {
-      "id": "gh_complyadvantage_8547070002",
+      "id": "gh_complyadvantage_8547072002",
       "title": "Business Development Representative - Calling all Graduates!",
       "company": "ComplyAdvantage",
       "location": "London, England, United Kingdom",
       "department": "Commercial",
       "posted_date": "27 May 2026",
-      "days_ago": 8,
-      "url": "https://complyadvantage.com/careers/jobs/8547070002?gh_jid=8547070002",
+      "days_ago": 9,
+      "url": "https://complyadvantage.com/careers/jobs/8547072002?gh_jid=8547072002",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -394,7 +394,7 @@
       "location": "London, England, United Kingdom",
       "department": "Commercial",
       "posted_date": "20 May 2026",
-      "days_ago": 15,
+      "days_ago": 16,
       "url": "https://complyadvantage.com/careers/jobs/8524546002?gh_jid=8524546002",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -424,7 +424,7 @@
       "location": "United Kingdom",
       "department": "Enablement",
       "posted_date": "18 May 2026",
-      "days_ago": 17,
+      "days_ago": 18,
       "url": "https://job-boards.greenhouse.io/tide/jobs/7640169003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -454,7 +454,7 @@
       "location": "United Kingdom",
       "department": "One Platform - PCS Sales",
       "posted_date": "07 May 2026",
-      "days_ago": 28,
+      "days_ago": 29,
       "url": "https://job-boards.greenhouse.io/tide/jobs/7630894003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -469,7 +469,7 @@
       "location": "United Kingdom",
       "department": "One Platform - PCS Sales",
       "posted_date": "07 May 2026",
-      "days_ago": 28,
+      "days_ago": 29,
       "url": "https://job-boards.greenhouse.io/tide/jobs/7667360003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -484,7 +484,7 @@
       "location": "Edinburgh",
       "department": "Financial Crime Operations",
       "posted_date": "04 May 2026",
-      "days_ago": 31,
+      "days_ago": 32,
       "url": "https://boards.greenhouse.io/modulrfinance/jobs/8534401002?gh_jid=8534401002",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -499,7 +499,7 @@
       "location": "London, England, United Kingdom",
       "department": "Commercial",
       "posted_date": "29 Apr 2026",
-      "days_ago": 36,
+      "days_ago": 37,
       "url": "https://complyadvantage.com/careers/jobs/8524517002?gh_jid=8524517002",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -529,7 +529,7 @@
       "location": "100% Remote (UK)",
       "department": "Finance",
       "posted_date": "13 Apr 2026",
-      "days_ago": 52,
+      "days_ago": 53,
       "url": "https://www.form3.tech/careers/vacancies/8378407002?gh_jid=8378407002",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
