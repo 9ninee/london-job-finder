@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T04:09:16.668129+00:00",
+  "last_updated": "2026-06-06T08:43:34.808355+00:00",
   "total": 34,
   "errors": [],
   "meta": {
@@ -78,28 +78,13 @@
       "location": "Cardiff, London or Remote (UK)",
       "department": "Finance",
       "posted_date": "03 Jun 2026",
-      "days_ago": 2,
+      "days_ago": 3,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7971941",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
         "Finance",
         "Consulting"
-      ]
-    },
-    {
-      "id": "gh_tide_7692065003",
-      "title": "Finance Sales Specialist",
-      "company": "Tide",
-      "location": "United Kingdom",
-      "department": "One Platform - PCS Sales",
-      "posted_date": "02 Jun 2026",
-      "days_ago": 3,
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7692065003",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
       ]
     },
     {
@@ -115,6 +100,21 @@
       "source_system": "Greenhouse",
       "tags": [
         "Data & Analytics"
+      ]
+    },
+    {
+      "id": "gh_tide_7692065003",
+      "title": "Finance Sales Specialist",
+      "company": "Tide",
+      "location": "United Kingdom",
+      "department": "One Platform - PCS Sales",
+      "posted_date": "02 Jun 2026",
+      "days_ago": 4,
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7692065003",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
       ]
     },
     {
