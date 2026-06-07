@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T04:45:32.965403+00:00",
+  "last_updated": "2026-06-07T09:28:11.297205+00:00",
   "total": 34,
   "errors": [],
   "meta": {
@@ -42,21 +42,6 @@
       ]
     },
     {
-      "id": "gh_monzo_7893700",
-      "title": "Third Party Risk Manager (FTC)",
-      "company": "Monzo",
-      "location": "London; Remote (UK)",
-      "department": "Finance",
-      "posted_date": "04 Jun 2026",
-      "days_ago": 2,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7893700",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "gh_complyadvantage_8576136002",
       "title": "Principal Data Engineer",
       "company": "ComplyAdvantage",
@@ -72,34 +57,34 @@
       ]
     },
     {
+      "id": "gh_monzo_7893700",
+      "title": "Third Party Risk Manager (FTC)",
+      "company": "Monzo",
+      "location": "London; Remote (UK)",
+      "department": "Finance",
+      "posted_date": "04 Jun 2026",
+      "days_ago": 3,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7893700",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "gh_monzo_7971941",
       "title": "Technical Accounting & Advisory Senior Manager",
       "company": "Monzo",
       "location": "Cardiff, London or Remote (UK)",
       "department": "Finance",
       "posted_date": "03 Jun 2026",
-      "days_ago": 3,
+      "days_ago": 4,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7971941",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
         "Finance",
         "Consulting"
-      ]
-    },
-    {
-      "id": "gh_tide_7692065003",
-      "title": "Finance Sales Specialist",
-      "company": "Tide",
-      "location": "United Kingdom",
-      "department": "One Platform - PCS Sales",
-      "posted_date": "02 Jun 2026",
-      "days_ago": 4,
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7692065003",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
       ]
     },
     {
@@ -115,6 +100,21 @@
       "source_system": "Greenhouse",
       "tags": [
         "Data & Analytics"
+      ]
+    },
+    {
+      "id": "gh_tide_7692065003",
+      "title": "Finance Sales Specialist",
+      "company": "Tide",
+      "location": "United Kingdom",
+      "department": "One Platform - PCS Sales",
+      "posted_date": "02 Jun 2026",
+      "days_ago": 5,
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7692065003",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
       ]
     },
     {
