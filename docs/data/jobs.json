@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T09:28:11.297205+00:00",
+  "last_updated": "2026-06-07T14:10:31.328532+00:00",
   "total": 34,
   "errors": [],
   "meta": {
@@ -33,27 +33,12 @@
       "location": "Leeds, UK",
       "department": "Risk",
       "posted_date": "04 Jun 2026",
-      "days_ago": 2,
+      "days_ago": 3,
       "url": "https://job-boards.greenhouse.io/gocardless/jobs/7972997",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "gh_complyadvantage_8576136002",
-      "title": "Principal Data Engineer",
-      "company": "ComplyAdvantage",
-      "location": "London, England, United Kingdom",
-      "department": "Technology",
-      "posted_date": "03 Jun 2026",
-      "days_ago": 3,
-      "url": "https://complyadvantage.com/careers/jobs/8576136002?gh_jid=8576136002",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Data & Analytics"
       ]
     },
     {
@@ -69,6 +54,21 @@
       "source_system": "Greenhouse",
       "tags": [
         "Finance"
+      ]
+    },
+    {
+      "id": "gh_complyadvantage_8576136002",
+      "title": "Principal Data Engineer",
+      "company": "ComplyAdvantage",
+      "location": "London, England, United Kingdom",
+      "department": "Technology",
+      "posted_date": "03 Jun 2026",
+      "days_ago": 4,
+      "url": "https://complyadvantage.com/careers/jobs/8576136002?gh_jid=8576136002",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
       ]
     },
     {
@@ -349,7 +349,7 @@
       "location": "London, England, United Kingdom",
       "department": "Commercial",
       "posted_date": "27 May 2026",
-      "days_ago": 10,
+      "days_ago": 11,
       "url": "https://complyadvantage.com/careers/jobs/8547070002?gh_jid=8547070002",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -364,7 +364,7 @@
       "location": "London, England, United Kingdom",
       "department": "Commercial",
       "posted_date": "27 May 2026",
-      "days_ago": 10,
+      "days_ago": 11,
       "url": "https://complyadvantage.com/careers/jobs/8547072002?gh_jid=8547072002",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -379,7 +379,7 @@
       "location": "London, England, United Kingdom",
       "department": "Commercial",
       "posted_date": "20 May 2026",
-      "days_ago": 17,
+      "days_ago": 18,
       "url": "https://complyadvantage.com/careers/jobs/8524546002?gh_jid=8524546002",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -409,7 +409,7 @@
       "location": "United Kingdom",
       "department": "Enablement",
       "posted_date": "18 May 2026",
-      "days_ago": 19,
+      "days_ago": 20,
       "url": "https://job-boards.greenhouse.io/tide/jobs/7640169003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -424,7 +424,7 @@
       "location": "London, UK",
       "department": "Product Development",
       "posted_date": "13 May 2026",
-      "days_ago": 24,
+      "days_ago": 25,
       "url": "https://job-boards.greenhouse.io/gocardless/jobs/7661485",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -439,7 +439,7 @@
       "location": "United Kingdom",
       "department": "One Platform - PCS Sales",
       "posted_date": "07 May 2026",
-      "days_ago": 30,
+      "days_ago": 31,
       "url": "https://job-boards.greenhouse.io/tide/jobs/7630894003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -454,7 +454,7 @@
       "location": "United Kingdom",
       "department": "One Platform - PCS Sales",
       "posted_date": "07 May 2026",
-      "days_ago": 30,
+      "days_ago": 31,
       "url": "https://job-boards.greenhouse.io/tide/jobs/7667360003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -469,7 +469,7 @@
       "location": "Edinburgh",
       "department": "Financial Crime Operations",
       "posted_date": "04 May 2026",
-      "days_ago": 33,
+      "days_ago": 34,
       "url": "https://boards.greenhouse.io/modulrfinance/jobs/8534401002?gh_jid=8534401002",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -484,7 +484,7 @@
       "location": "London, England, United Kingdom",
       "department": "Commercial",
       "posted_date": "29 Apr 2026",
-      "days_ago": 38,
+      "days_ago": 39,
       "url": "https://complyadvantage.com/careers/jobs/8524517002?gh_jid=8524517002",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -499,7 +499,7 @@
       "location": "Leeds, UK",
       "department": "Risk",
       "posted_date": "22 Apr 2026",
-      "days_ago": 45,
+      "days_ago": 46,
       "url": "https://job-boards.greenhouse.io/gocardless/jobs/7841021",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -514,7 +514,7 @@
       "location": "100% Remote (UK)",
       "department": "Finance",
       "posted_date": "13 Apr 2026",
-      "days_ago": 54,
+      "days_ago": 55,
       "url": "https://www.form3.tech/careers/vacancies/8378407002?gh_jid=8378407002",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
