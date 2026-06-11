@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T16:16:11.379276+00:00",
+  "last_updated": "2026-06-11T20:31:04.075347+00:00",
   "total": 35,
   "errors": [],
   "meta": {
@@ -254,66 +254,6 @@
       ]
     },
     {
-      "id": "gh_monzo_6758600",
-      "title": "Credit Analyst",
-      "company": "Monzo",
-      "location": "Cardiff, London or Remote (UK)",
-      "department": "Borrowing",
-      "posted_date": "28 May 2026",
-      "days_ago": 13,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/6758600",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_monzo_7904675",
-      "title": "Finance Forecasting Modeller",
-      "company": "Monzo",
-      "location": "UK",
-      "department": "Finance",
-      "posted_date": "28 May 2026",
-      "days_ago": 13,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7904675",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_monzo_7962678",
-      "title": "Head of Credit Strategy Oversight",
-      "company": "Monzo",
-      "location": "Cardiff, London or Remote (UK)",
-      "department": "Risk & Compliance",
-      "posted_date": "28 May 2026",
-      "days_ago": 13,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7962678",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_monzo_7873998",
-      "title": "Lead Analytics Engineer, Borrowing",
-      "company": "Monzo",
-      "location": "Cardiff, London or Remote (UK)",
-      "department": "Data",
-      "posted_date": "28 May 2026",
-      "days_ago": 13,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7873998",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
       "id": "gh_monzo_7966820",
       "title": "Product Marketing Lead, Core Banking",
       "company": "Monzo",
@@ -329,13 +269,73 @@
       ]
     },
     {
+      "id": "gh_monzo_6758600",
+      "title": "Credit Analyst",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Borrowing",
+      "posted_date": "28 May 2026",
+      "days_ago": 14,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/6758600",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_7904675",
+      "title": "Finance Forecasting Modeller",
+      "company": "Monzo",
+      "location": "UK",
+      "department": "Finance",
+      "posted_date": "28 May 2026",
+      "days_ago": 14,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7904675",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_7962678",
+      "title": "Head of Credit Strategy Oversight",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Risk & Compliance",
+      "posted_date": "28 May 2026",
+      "days_ago": 14,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7962678",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_7873998",
+      "title": "Lead Analytics Engineer, Borrowing",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Data",
+      "posted_date": "28 May 2026",
+      "days_ago": 14,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7873998",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
       "id": "gh_monzo_7655258",
       "title": "Senior Credit Analyst",
       "company": "Monzo",
       "location": "Cardiff, London or Remote (UK)",
       "department": "Borrowing",
       "posted_date": "28 May 2026",
-      "days_ago": 13,
+      "days_ago": 14,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7655258",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -350,7 +350,7 @@
       "location": "London",
       "department": "Finance",
       "posted_date": "28 May 2026",
-      "days_ago": 13,
+      "days_ago": 14,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7921307",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -365,7 +365,7 @@
       "location": "London",
       "department": "Finance",
       "posted_date": "28 May 2026",
-      "days_ago": 13,
+      "days_ago": 14,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7355930",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -380,7 +380,7 @@
       "location": "Cardiff, London or Remote (UK)",
       "department": "Legal",
       "posted_date": "28 May 2026",
-      "days_ago": 13,
+      "days_ago": 14,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7621692",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -395,7 +395,7 @@
       "location": "London",
       "department": "Product",
       "posted_date": "28 May 2026",
-      "days_ago": 13,
+      "days_ago": 14,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7732437",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
