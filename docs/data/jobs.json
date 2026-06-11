@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T04:46:32.634952+00:00",
+  "last_updated": "2026-06-11T10:51:04.127288+00:00",
   "total": 34,
   "errors": [],
   "meta": {
@@ -12,18 +12,33 @@
   },
   "jobs": [
     {
-      "id": "gh_monzo_7995037",
-      "title": "Senior Product Manager, Business Banking",
+      "id": "gh_monzo_7908745",
+      "title": "Card Acquiring, Business Banking Customer Operations Advisor ",
       "company": "Monzo",
-      "location": "London",
-      "department": "Product",
-      "posted_date": "10 Jun 2026",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Customer Operations",
+      "posted_date": "11 Jun 2026",
       "days_ago": 0,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7995037",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7908745",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
         "Banking"
+      ]
+    },
+    {
+      "id": "gh_monzo_7997156",
+      "title": "Customer Insight Analyst",
+      "company": "Monzo",
+      "location": "Remote (UK)",
+      "department": "Customer Operations",
+      "posted_date": "11 Jun 2026",
+      "days_ago": 0,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7997156",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
       ]
     },
     {
@@ -39,21 +54,6 @@
       "source_system": "Greenhouse",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "gh_monzo_7908745",
-      "title": "Card Acquiring, Business Banking Customer Operations Advisor ",
-      "company": "Monzo",
-      "location": "Cardiff, London or Remote (UK)",
-      "department": "Customer Operations",
-      "posted_date": "09 Jun 2026",
-      "days_ago": 1,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7908745",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Banking"
       ]
     },
     {
@@ -84,6 +84,21 @@
       "source_system": "Greenhouse",
       "tags": [
         "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_7995037",
+      "title": "Senior Product Manager, Business Banking",
+      "company": "Monzo",
+      "location": "London",
+      "department": "Product",
+      "posted_date": "10 Jun 2026",
+      "days_ago": 1,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7995037",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Banking"
       ]
     },
     {
@@ -170,7 +185,7 @@
       "location": "London; Remote (UK)",
       "department": "Finance",
       "posted_date": "04 Jun 2026",
-      "days_ago": 6,
+      "days_ago": 7,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7893700",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -185,7 +200,7 @@
       "location": "London, England, United Kingdom",
       "department": "Technology",
       "posted_date": "03 Jun 2026",
-      "days_ago": 7,
+      "days_ago": 8,
       "url": "https://complyadvantage.com/careers/jobs/8576136002?gh_jid=8576136002",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -200,7 +215,7 @@
       "location": "United Kingdom",
       "department": "One Platform - PCS Sales",
       "posted_date": "02 Jun 2026",
-      "days_ago": 8,
+      "days_ago": 9,
       "url": "https://job-boards.greenhouse.io/tide/jobs/7692065003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -299,21 +314,6 @@
       ]
     },
     {
-      "id": "gh_monzo_7355930",
-      "title": "Senior Finance Business Partner",
-      "company": "Monzo",
-      "location": "London",
-      "department": "Finance",
-      "posted_date": "28 May 2026",
-      "days_ago": 13,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7355930",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "gh_monzo_7921307",
       "title": "Senior Finance Business Partner",
       "company": "Monzo",
@@ -322,6 +322,21 @@
       "posted_date": "28 May 2026",
       "days_ago": 13,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7921307",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_7355930",
+      "title": "Senior Finance Business Partner",
+      "company": "Monzo",
+      "location": "London",
+      "department": "Finance",
+      "posted_date": "28 May 2026",
+      "days_ago": 13,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7355930",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -359,21 +374,6 @@
       ]
     },
     {
-      "id": "gh_complyadvantage_8547070002",
-      "title": "Business Development Representative - Calling all Graduates!",
-      "company": "ComplyAdvantage",
-      "location": "London, England, United Kingdom",
-      "department": "Commercial",
-      "posted_date": "27 May 2026",
-      "days_ago": 14,
-      "url": "https://complyadvantage.com/careers/jobs/8547070002?gh_jid=8547070002",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Graduate"
-      ]
-    },
-    {
       "id": "gh_complyadvantage_8547072002",
       "title": "Business Development Representative - Calling all Graduates!",
       "company": "ComplyAdvantage",
@@ -382,6 +382,21 @@
       "posted_date": "27 May 2026",
       "days_ago": 14,
       "url": "https://complyadvantage.com/careers/jobs/8547072002?gh_jid=8547072002",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Graduate"
+      ]
+    },
+    {
+      "id": "gh_complyadvantage_8547070002",
+      "title": "Business Development Representative - Calling all Graduates!",
+      "company": "ComplyAdvantage",
+      "location": "London, England, United Kingdom",
+      "department": "Commercial",
+      "posted_date": "27 May 2026",
+      "days_ago": 14,
+      "url": "https://complyadvantage.com/careers/jobs/8547070002?gh_jid=8547070002",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -425,7 +440,7 @@
       "location": "London, UK",
       "department": "Product Development",
       "posted_date": "13 May 2026",
-      "days_ago": 28,
+      "days_ago": 29,
       "url": "https://job-boards.greenhouse.io/gocardless/jobs/7661485",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -440,7 +455,7 @@
       "location": "United Kingdom",
       "department": "One Platform - PCS Sales",
       "posted_date": "07 May 2026",
-      "days_ago": 34,
+      "days_ago": 35,
       "url": "https://job-boards.greenhouse.io/tide/jobs/7630894003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -455,7 +470,7 @@
       "location": "United Kingdom",
       "department": "One Platform - PCS Sales",
       "posted_date": "07 May 2026",
-      "days_ago": 34,
+      "days_ago": 35,
       "url": "https://job-boards.greenhouse.io/tide/jobs/7667360003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -479,28 +494,13 @@
       ]
     },
     {
-      "id": "gh_complyadvantage_8524517002",
-      "title": "Solutions Consultant",
-      "company": "ComplyAdvantage",
-      "location": "London, England, United Kingdom",
-      "department": "Commercial",
-      "posted_date": "29 Apr 2026",
-      "days_ago": 42,
-      "url": "https://complyadvantage.com/careers/jobs/8524517002?gh_jid=8524517002",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Consulting"
-      ]
-    },
-    {
       "id": "gh_gocardless_7841021",
       "title": "Financial Crime Risk Manager - 12 month FTC",
       "company": "GoCardless",
       "location": "Leeds, UK",
       "department": "Risk",
       "posted_date": "22 Apr 2026",
-      "days_ago": 49,
+      "days_ago": 50,
       "url": "https://job-boards.greenhouse.io/gocardless/jobs/7841021",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
