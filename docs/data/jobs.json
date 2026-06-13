@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T04:37:30.606766+00:00",
+  "last_updated": "2026-06-13T09:27:47.960347+00:00",
   "total": 36,
   "errors": [],
   "meta": {
@@ -24,36 +24,6 @@
       "source_system": "Greenhouse",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "gh_monzo_7908745",
-      "title": "Card Acquiring, Business Banking Customer Operations Advisor ",
-      "company": "Monzo",
-      "location": "Cardiff, London or Remote (UK)",
-      "department": "Customer Operations",
-      "posted_date": "11 Jun 2026",
-      "days_ago": 1,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7908745",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Banking"
-      ]
-    },
-    {
-      "id": "gh_monzo_7997156",
-      "title": "Customer Insight Analyst",
-      "company": "Monzo",
-      "location": "Remote (UK)",
-      "department": "Customer Operations",
-      "posted_date": "11 Jun 2026",
-      "days_ago": 1,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7997156",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Data & Analytics"
       ]
     },
     {
@@ -87,18 +57,33 @@
       ]
     },
     {
-      "id": "gh_monzo_7995037",
-      "title": "Senior Product Manager, Business Banking",
+      "id": "gh_monzo_7908745",
+      "title": "Card Acquiring, Business Banking Customer Operations Advisor ",
       "company": "Monzo",
-      "location": "London",
-      "department": "Product",
-      "posted_date": "10 Jun 2026",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Customer Operations",
+      "posted_date": "11 Jun 2026",
       "days_ago": 2,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7995037",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7908745",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
         "Banking"
+      ]
+    },
+    {
+      "id": "gh_monzo_7997156",
+      "title": "Customer Insight Analyst",
+      "company": "Monzo",
+      "location": "Remote (UK)",
+      "department": "Customer Operations",
+      "posted_date": "11 Jun 2026",
+      "days_ago": 2,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7997156",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
       ]
     },
     {
@@ -144,6 +129,21 @@
       "source_system": "Greenhouse",
       "tags": [
         "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_7995037",
+      "title": "Senior Product Manager, Business Banking",
+      "company": "Monzo",
+      "location": "London",
+      "department": "Product",
+      "posted_date": "10 Jun 2026",
+      "days_ago": 3,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7995037",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Banking"
       ]
     },
     {
@@ -224,21 +224,6 @@
       ]
     },
     {
-      "id": "gh_monzo_7893700",
-      "title": "Third Party Risk Manager (FTC)",
-      "company": "Monzo",
-      "location": "London; Remote (UK)",
-      "department": "Finance",
-      "posted_date": "04 Jun 2026",
-      "days_ago": 8,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7893700",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "gh_complyadvantage_8576136002",
       "title": "Principal Data Engineer",
       "company": "ComplyAdvantage",
@@ -254,13 +239,28 @@
       ]
     },
     {
+      "id": "gh_monzo_7893700",
+      "title": "Third Party Risk Manager (FTC)",
+      "company": "Monzo",
+      "location": "London; Remote (UK)",
+      "department": "Finance",
+      "posted_date": "04 Jun 2026",
+      "days_ago": 9,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7893700",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "gh_tide_7692065003",
       "title": "Finance Sales Specialist",
       "company": "Tide",
       "location": "United Kingdom",
       "department": "One Platform - PCS Sales",
       "posted_date": "02 Jun 2026",
-      "days_ago": 10,
+      "days_ago": 11,
       "url": "https://job-boards.greenhouse.io/tide/jobs/7692065003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
