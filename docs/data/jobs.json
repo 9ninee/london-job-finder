@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-17T04:58:00.420965+00:00",
-  "total": 35,
+  "last_updated": "2026-06-17T11:10:45.035363+00:00",
+  "total": 32,
   "errors": [],
   "meta": {
     "greenhouse_count": 64,
@@ -11,21 +11,6 @@
     "adzuna_enabled": true
   },
   "jobs": [
-    {
-      "id": "gh_monzo_7916598",
-      "title": "Insurance Pricing Analyst",
-      "company": "Monzo",
-      "location": "Cardiff, London or Remote (UK)",
-      "department": "Data",
-      "posted_date": "16 Jun 2026",
-      "days_ago": 0,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7916598",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
     {
       "id": "gh_monzo_7996433",
       "title": "Senior Investigator, Operations Analyst, Financial Crime (Multilingual) ",
@@ -72,6 +57,21 @@
       ]
     },
     {
+      "id": "gh_monzo_7916598",
+      "title": "Insurance Pricing Analyst",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Data",
+      "posted_date": "16 Jun 2026",
+      "days_ago": 1,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7916598",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
       "id": "gh_verifone_7615009003",
       "title": "Data Platform Engineer",
       "company": "Verifone",
@@ -102,21 +102,6 @@
       ]
     },
     {
-      "id": "gh_monzo_7908745",
-      "title": "Card Acquiring, Business Banking Customer Operations Advisor ",
-      "company": "Monzo",
-      "location": "Cardiff, London or Remote (UK)",
-      "department": "Customer Operations",
-      "posted_date": "11 Jun 2026",
-      "days_ago": 5,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7908745",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Banking"
-      ]
-    },
-    {
       "id": "gh_monzo_7996449",
       "title": "Operations Leadership, Financial Crime (Multilingual) ",
       "company": "Monzo",
@@ -132,14 +117,14 @@
       ]
     },
     {
-      "id": "gh_monzo_7995037",
-      "title": "Senior Product Manager, Business Banking",
+      "id": "gh_monzo_7908745",
+      "title": "Card Acquiring, Business Banking Customer Operations Advisor ",
       "company": "Monzo",
-      "location": "London",
-      "department": "Product",
-      "posted_date": "10 Jun 2026",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Customer Operations",
+      "posted_date": "11 Jun 2026",
       "days_ago": 6,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7995037",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7908745",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -189,6 +174,21 @@
       "source_system": "Greenhouse",
       "tags": [
         "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_7995037",
+      "title": "Senior Product Manager, Business Banking",
+      "company": "Monzo",
+      "location": "London",
+      "department": "Product",
+      "posted_date": "10 Jun 2026",
+      "days_ago": 7,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7995037",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Banking"
       ]
     },
     {
@@ -245,7 +245,7 @@
       "location": "London; Remote (UK)",
       "department": "Finance",
       "posted_date": "04 Jun 2026",
-      "days_ago": 12,
+      "days_ago": 13,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7893700",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -260,7 +260,7 @@
       "location": "London, England, United Kingdom",
       "department": "Technology",
       "posted_date": "03 Jun 2026",
-      "days_ago": 13,
+      "days_ago": 14,
       "url": "https://complyadvantage.com/careers/jobs/8576136002?gh_jid=8576136002",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -281,21 +281,6 @@
       "source_system": "Greenhouse",
       "tags": [
         "Banking"
-      ]
-    },
-    {
-      "id": "gh_monzo_6758600",
-      "title": "Credit Analyst",
-      "company": "Monzo",
-      "location": "Cardiff, London or Remote (UK)",
-      "department": "Borrowing",
-      "posted_date": "28 May 2026",
-      "days_ago": 19,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/6758600",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
       ]
     },
     {
@@ -404,36 +389,6 @@
       ]
     },
     {
-      "id": "gh_complyadvantage_8547070002",
-      "title": "Business Development Representative - Calling all Graduates!",
-      "company": "ComplyAdvantage",
-      "location": "London, England, United Kingdom",
-      "department": "Commercial",
-      "posted_date": "27 May 2026",
-      "days_ago": 20,
-      "url": "https://complyadvantage.com/careers/jobs/8547070002?gh_jid=8547070002",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Graduate"
-      ]
-    },
-    {
-      "id": "gh_complyadvantage_8547072002",
-      "title": "Business Development Representative - Calling all Graduates!",
-      "company": "ComplyAdvantage",
-      "location": "London, England, United Kingdom",
-      "department": "Commercial",
-      "posted_date": "27 May 2026",
-      "days_ago": 20,
-      "url": "https://complyadvantage.com/careers/jobs/8547072002?gh_jid=8547072002",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Graduate"
-      ]
-    },
-    {
       "id": "gh_complyadvantage_8524546002",
       "title": "Solutions Consultant - French Speaking",
       "company": "ComplyAdvantage",
@@ -470,7 +425,7 @@
       "location": "London, UK",
       "department": "Product Development",
       "posted_date": "13 May 2026",
-      "days_ago": 34,
+      "days_ago": 35,
       "url": "https://job-boards.greenhouse.io/gocardless/jobs/7661485",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -485,7 +440,7 @@
       "location": "United Kingdom",
       "department": "One Platform - PCS Sales",
       "posted_date": "07 May 2026",
-      "days_ago": 40,
+      "days_ago": 41,
       "url": "https://job-boards.greenhouse.io/tide/jobs/7630894003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -500,7 +455,7 @@
       "location": "United Kingdom",
       "department": "One Platform - PCS Sales",
       "posted_date": "07 May 2026",
-      "days_ago": 40,
+      "days_ago": 41,
       "url": "https://job-boards.greenhouse.io/tide/jobs/7667360003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
