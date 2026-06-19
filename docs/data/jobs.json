@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-19T10:51:08.764753+00:00",
-  "total": 33,
+  "last_updated": "2026-06-19T15:35:56.115530+00:00",
+  "total": 37,
   "errors": [],
   "meta": {
     "greenhouse_count": 64,
@@ -12,18 +12,78 @@
   },
   "jobs": [
     {
-      "id": "gh_monzo_7582354",
-      "title": "Lead Analytics Engineer",
-      "company": "Monzo",
-      "location": "Cardiff, London or Remote (UK)",
-      "department": "Data",
-      "posted_date": "18 Jun 2026",
+      "id": "gh_complyadvantage_8576136002",
+      "title": "Principal Data Engineer",
+      "company": "ComplyAdvantage",
+      "location": "London, England, United Kingdom",
+      "department": "Technology",
+      "posted_date": "19 Jun 2026",
       "days_ago": 0,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7582354",
+      "url": "https://complyadvantage.com/careers/jobs/8576136002?gh_jid=8576136002",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
         "Data & Analytics"
+      ]
+    },
+    {
+      "id": "gh_complyadvantage_8592099002",
+      "title": "Site Reliability Engineering Manager (Data Infra)",
+      "company": "ComplyAdvantage",
+      "location": "London, England, United Kingdom",
+      "department": "Technology",
+      "posted_date": "19 Jun 2026",
+      "days_ago": 0,
+      "url": "https://complyadvantage.com/careers/jobs/8592099002?gh_jid=8592099002",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "gh_complyadvantage_8524546002",
+      "title": "Solutions Consultant - French Speaking",
+      "company": "ComplyAdvantage",
+      "location": "London, England, United Kingdom",
+      "department": "Commercial",
+      "posted_date": "19 Jun 2026",
+      "days_ago": 0,
+      "url": "https://complyadvantage.com/careers/jobs/8524546002?gh_jid=8524546002",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Consulting"
+      ]
+    },
+    {
+      "id": "gh_monzo_8015626",
+      "title": "Compliance Assurance Analyst",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Risk & Compliance",
+      "posted_date": "19 Jun 2026",
+      "days_ago": 0,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8015626",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_8018222",
+      "title": "CRM Manager, Core Banking",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Marketing & Community",
+      "posted_date": "19 Jun 2026",
+      "days_ago": 0,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8018222",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Banking"
       ]
     },
     {
@@ -42,13 +102,59 @@
       ]
     },
     {
+      "id": "gh_monzo_8018267",
+      "title": "Senior Financial Crime Investigator - Business Banking",
+      "company": "Monzo",
+      "location": "Remote (UK)",
+      "department": "Customer Operations",
+      "posted_date": "19 Jun 2026",
+      "days_ago": 0,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8018267",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance",
+        "Banking"
+      ]
+    },
+    {
+      "id": "gh_monzo_8007314",
+      "title": "Treasury Risk Manager",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Risk & Compliance",
+      "posted_date": "19 Jun 2026",
+      "days_ago": 0,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8007314",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_7582354",
+      "title": "Lead Analytics Engineer",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Data",
+      "posted_date": "18 Jun 2026",
+      "days_ago": 1,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7582354",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
       "id": "gh_monzo_7850667",
       "title": "Operations Strategy Associate (Customer Experience) ",
       "company": "Monzo",
       "location": "London",
       "department": "Customer Operations",
       "posted_date": "18 Jun 2026",
-      "days_ago": 0,
+      "days_ago": 1,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7850667",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -63,23 +169,8 @@
       "location": "Cardiff, London or Remote (UK)",
       "department": "Data",
       "posted_date": "18 Jun 2026",
-      "days_ago": 0,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/6076740",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
-      "id": "gh_complyadvantage_8592099002",
-      "title": "Site Reliability Engineering Manager (Data Infra)",
-      "company": "ComplyAdvantage",
-      "location": "London, England, United Kingdom",
-      "department": "Technology",
-      "posted_date": "17 Jun 2026",
       "days_ago": 1,
-      "url": "https://complyadvantage.com/careers/jobs/8592099002?gh_jid=8592099002",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/6076740",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -93,7 +184,7 @@
       "location": "Remote (UK)",
       "department": "Customer Operations",
       "posted_date": "16 Jun 2026",
-      "days_ago": 2,
+      "days_ago": 3,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7996433",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -108,7 +199,7 @@
       "location": "London, United Kingdom",
       "department": "Finance",
       "posted_date": "16 Jun 2026",
-      "days_ago": 2,
+      "days_ago": 3,
       "url": "https://job-boards.eu.greenhouse.io/truelayer/jobs/4888733101",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -138,7 +229,7 @@
       "location": "Cardiff, London or Remote (UK)",
       "department": "Finance",
       "posted_date": "12 Jun 2026",
-      "days_ago": 6,
+      "days_ago": 7,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/8000900",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -153,53 +244,8 @@
       "location": "Remote (UK)",
       "department": "Customer Operations",
       "posted_date": "11 Jun 2026",
-      "days_ago": 7,
+      "days_ago": 8,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7996449",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_gocardless_7972997",
-      "title": "Regulatory Compliance Associate",
-      "company": "GoCardless",
-      "location": "Leeds, UK",
-      "department": "Risk",
-      "posted_date": "09 Jun 2026",
-      "days_ago": 9,
-      "url": "https://job-boards.greenhouse.io/gocardless/jobs/7972997",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_monzo_7991200",
-      "title": "Credit Risk Manager, Flex Originations ",
-      "company": "Monzo",
-      "location": "Cardiff, London or Remote (UK)",
-      "department": "Borrowing",
-      "posted_date": "09 Jun 2026",
-      "days_ago": 9,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7991200",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_monzo_7991227",
-      "title": "Credit Risk Manager, Portfolio Management",
-      "company": "Monzo",
-      "location": "London; Remote (UK)",
-      "department": "Borrowing",
-      "posted_date": "09 Jun 2026",
-      "days_ago": 9,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7991227",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -238,6 +284,51 @@
       ]
     },
     {
+      "id": "gh_gocardless_7972997",
+      "title": "Regulatory Compliance Associate",
+      "company": "GoCardless",
+      "location": "Leeds, UK",
+      "department": "Risk",
+      "posted_date": "09 Jun 2026",
+      "days_ago": 10,
+      "url": "https://job-boards.greenhouse.io/gocardless/jobs/7972997",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_7991200",
+      "title": "Credit Risk Manager, Flex Originations ",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Borrowing",
+      "posted_date": "09 Jun 2026",
+      "days_ago": 10,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7991200",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_7991227",
+      "title": "Credit Risk Manager, Portfolio Management",
+      "company": "Monzo",
+      "location": "London; Remote (UK)",
+      "department": "Borrowing",
+      "posted_date": "09 Jun 2026",
+      "days_ago": 10,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7991227",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "gh_monzo_7988048",
       "title": "Senior Manager, Control Process Automation & Data",
       "company": "Monzo",
@@ -260,7 +351,7 @@
       "location": "Ashford, England, United Kingdom; Bucharest; London, England, United Kingdom; Riga, Riga, Latvia; Warszawa, Masovian Voivodeship, Poland",
       "department": "Global Engineering",
       "posted_date": "08 Jun 2026",
-      "days_ago": 10,
+      "days_ago": 11,
       "url": "https://ats.comparably.com/api/v2/verifone/post/7595680003?gh_jid=7595680003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -281,36 +372,6 @@
       "source_system": "Greenhouse",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "gh_complyadvantage_8576136002",
-      "title": "Principal Data Engineer",
-      "company": "ComplyAdvantage",
-      "location": "London, England, United Kingdom",
-      "department": "Technology",
-      "posted_date": "03 Jun 2026",
-      "days_ago": 16,
-      "url": "https://complyadvantage.com/careers/jobs/8576136002?gh_jid=8576136002",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
-      "id": "gh_monzo_7966820",
-      "title": "Product Marketing Lead, Core Banking",
-      "company": "Monzo",
-      "location": "London",
-      "department": "Marketing & Community",
-      "posted_date": "29 May 2026",
-      "days_ago": 20,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7966820",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Banking"
       ]
     },
     {
@@ -341,6 +402,21 @@
       "source_system": "Greenhouse",
       "tags": [
         "Data & Analytics"
+      ]
+    },
+    {
+      "id": "gh_monzo_7966820",
+      "title": "Product Marketing Lead, Core Banking",
+      "company": "Monzo",
+      "location": "London",
+      "department": "Marketing & Community",
+      "posted_date": "29 May 2026",
+      "days_ago": 21,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7966820",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Banking"
       ]
     },
     {
@@ -419,21 +495,6 @@
       ]
     },
     {
-      "id": "gh_complyadvantage_8524546002",
-      "title": "Solutions Consultant - French Speaking",
-      "company": "ComplyAdvantage",
-      "location": "London, England, United Kingdom",
-      "department": "Commercial",
-      "posted_date": "20 May 2026",
-      "days_ago": 29,
-      "url": "https://complyadvantage.com/careers/jobs/8524546002?gh_jid=8524546002",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Consulting"
-      ]
-    },
-    {
       "id": "gh_gocardless_7661485",
       "title": "Senior Data Scientist, Fraud Prevention",
       "company": "GoCardless",
@@ -485,7 +546,7 @@
       "location": "Edinburgh",
       "department": "Financial Crime Operations",
       "posted_date": "04 May 2026",
-      "days_ago": 45,
+      "days_ago": 46,
       "url": "https://boards.greenhouse.io/modulrfinance/jobs/8534401002?gh_jid=8534401002",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -500,7 +561,7 @@
       "location": "100% Remote (UK)",
       "department": "Finance",
       "posted_date": "13 Apr 2026",
-      "days_ago": 66,
+      "days_ago": 67,
       "url": "https://www.form3.tech/careers/vacancies/8378407002?gh_jid=8378407002",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
