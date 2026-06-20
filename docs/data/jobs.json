@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T04:20:37.040473+00:00",
+  "last_updated": "2026-06-20T09:30:10.666793+00:00",
   "total": 37,
   "errors": [],
   "meta": {
@@ -87,21 +87,6 @@
       ]
     },
     {
-      "id": "gh_monzo_7916595",
-      "title": "Lead Insurance Pricing Analyst",
-      "company": "Monzo",
-      "location": "Cardiff, London or Remote (UK)",
-      "department": "Data",
-      "posted_date": "19 Jun 2026",
-      "days_ago": 0,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7916595",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
       "id": "gh_monzo_8018267",
       "title": "Senior Financial Crime Investigator - Business Banking",
       "company": "Monzo",
@@ -141,6 +126,21 @@
       "posted_date": "18 Jun 2026",
       "days_ago": 1,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7582354",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "gh_monzo_7916595",
+      "title": "Lead Insurance Pricing Analyst",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Data",
+      "posted_date": "19 Jun 2026",
+      "days_ago": 1,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7916595",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -253,21 +253,6 @@
       ]
     },
     {
-      "id": "gh_monzo_7995037",
-      "title": "Senior Product Manager, Business Banking",
-      "company": "Monzo",
-      "location": "London",
-      "department": "Product",
-      "posted_date": "10 Jun 2026",
-      "days_ago": 9,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7995037",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Banking"
-      ]
-    },
-    {
       "id": "gh_gocardless_7972997",
       "title": "Regulatory Compliance Associate",
       "company": "GoCardless",
@@ -310,6 +295,21 @@
       "source_system": "Greenhouse",
       "tags": [
         "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_7995037",
+      "title": "Senior Product Manager, Business Banking",
+      "company": "Monzo",
+      "location": "London",
+      "department": "Product",
+      "posted_date": "10 Jun 2026",
+      "days_ago": 10,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7995037",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Banking"
       ]
     },
     {
@@ -366,7 +366,7 @@
       "location": "London; Remote (UK)",
       "department": "Finance",
       "posted_date": "04 Jun 2026",
-      "days_ago": 15,
+      "days_ago": 16,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7893700",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
