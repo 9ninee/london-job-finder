@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T19:54:52.568729+00:00",
+  "last_updated": "2026-06-22T05:13:42.775009+00:00",
   "total": 36,
   "errors": [],
   "meta": {
@@ -419,21 +419,6 @@
       ]
     },
     {
-      "id": "gh_monzo_7355930",
-      "title": "Senior Finance Business Partner",
-      "company": "Monzo",
-      "location": "London",
-      "department": "Finance",
-      "posted_date": "28 May 2026",
-      "days_ago": 24,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7355930",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "gh_monzo_7921307",
       "title": "Senior Finance Business Partner",
       "company": "Monzo",
@@ -442,6 +427,21 @@
       "posted_date": "28 May 2026",
       "days_ago": 24,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7921307",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_7355930",
+      "title": "Senior Finance Business Partner",
+      "company": "Monzo",
+      "location": "London",
+      "department": "Finance",
+      "posted_date": "28 May 2026",
+      "days_ago": 24,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7355930",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
