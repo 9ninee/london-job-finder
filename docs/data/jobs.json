@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-23T04:10:04.790615+00:00",
-  "total": 35,
+  "last_updated": "2026-06-23T09:57:48.504044+00:00",
+  "total": 33,
   "errors": [],
   "meta": {
     "greenhouse_count": 64,
@@ -18,7 +18,7 @@
       "location": "London, United Kingdom",
       "department": "Finance",
       "posted_date": "22 Jun 2026",
-      "days_ago": 0,
+      "days_ago": 1,
       "url": "https://job-boards.eu.greenhouse.io/truelayer/jobs/4888733101",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -87,21 +87,6 @@
       ]
     },
     {
-      "id": "gh_monzo_7916595",
-      "title": "Lead Insurance Pricing Analyst",
-      "company": "Monzo",
-      "location": "Cardiff, London or Remote (UK)",
-      "department": "Data",
-      "posted_date": "19 Jun 2026",
-      "days_ago": 3,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7916595",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
       "id": "gh_monzo_8018267",
       "title": "Senior Financial Crime Investigator - Business Banking",
       "company": "Monzo",
@@ -148,18 +133,18 @@
       ]
     },
     {
-      "id": "gh_monzo_7850667",
-      "title": "Operations Strategy Associate (Customer Experience) ",
+      "id": "gh_monzo_7916595",
+      "title": "Lead Insurance Pricing Analyst",
       "company": "Monzo",
-      "location": "London",
-      "department": "Customer Operations",
-      "posted_date": "18 Jun 2026",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Data",
+      "posted_date": "19 Jun 2026",
       "days_ago": 4,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7850667",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7916595",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
-        "Finance"
+        "Data & Analytics"
       ]
     },
     {
@@ -238,21 +223,6 @@
       ]
     },
     {
-      "id": "gh_monzo_7995037",
-      "title": "Senior Product Manager, Business Banking",
-      "company": "Monzo",
-      "location": "London",
-      "department": "Product",
-      "posted_date": "10 Jun 2026",
-      "days_ago": 12,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7995037",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Banking"
-      ]
-    },
-    {
       "id": "gh_gocardless_7972997",
       "title": "Regulatory Compliance Associate",
       "company": "GoCardless",
@@ -298,6 +268,21 @@
       ]
     },
     {
+      "id": "gh_monzo_7995037",
+      "title": "Senior Product Manager, Business Banking",
+      "company": "Monzo",
+      "location": "London",
+      "department": "Product",
+      "posted_date": "10 Jun 2026",
+      "days_ago": 13,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7995037",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Banking"
+      ]
+    },
+    {
       "id": "gh_monzo_7971941",
       "title": "Technical Accounting & Advisory Senior Manager",
       "company": "Monzo",
@@ -326,21 +311,6 @@
       "source_system": "Greenhouse",
       "tags": [
         "Data & Analytics"
-      ]
-    },
-    {
-      "id": "gh_monzo_7893700",
-      "title": "Third Party Risk Manager (FTC)",
-      "company": "Monzo",
-      "location": "London; Remote (UK)",
-      "department": "Finance",
-      "posted_date": "04 Jun 2026",
-      "days_ago": 18,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7893700",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
       ]
     },
     {
@@ -470,7 +440,7 @@
       "location": "London, UK",
       "department": "Product Development",
       "posted_date": "13 May 2026",
-      "days_ago": 40,
+      "days_ago": 41,
       "url": "https://job-boards.greenhouse.io/gocardless/jobs/7661485",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
