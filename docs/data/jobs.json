@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T14:47:29.480427+00:00",
+  "last_updated": "2026-06-25T20:12:51.377149+00:00",
   "total": 39,
   "errors": [],
   "meta": {
@@ -11,6 +11,21 @@
     "adzuna_enabled": true
   },
   "jobs": [
+    {
+      "id": "gh_complyadvantage_8524546002",
+      "title": "Solutions Consultant - French Speaking",
+      "company": "ComplyAdvantage",
+      "location": "London, England, United Kingdom",
+      "department": "Commercial",
+      "posted_date": "25 Jun 2026",
+      "days_ago": 0,
+      "url": "https://complyadvantage.com/careers/jobs/8524546002?gh_jid=8524546002",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Consulting"
+      ]
+    },
     {
       "id": "gh_monzo_7946774",
       "title": "People Operations Associate",
@@ -35,21 +50,6 @@
       "posted_date": "25 Jun 2026",
       "days_ago": 0,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/8025947",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_monzo_7893700",
-      "title": "Third Party Risk Manager (FTC)",
-      "company": "Monzo",
-      "location": "London; Remote (UK)",
-      "department": "Finance",
-      "posted_date": "24 Jun 2026",
-      "days_ago": 0,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7893700",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -84,21 +84,6 @@
       "source_system": "Greenhouse",
       "tags": [
         "Data & Analytics"
-      ]
-    },
-    {
-      "id": "gh_complyadvantage_8524546002",
-      "title": "Solutions Consultant - French Speaking",
-      "company": "ComplyAdvantage",
-      "location": "London, England, United Kingdom",
-      "department": "Commercial",
-      "posted_date": "24 Jun 2026",
-      "days_ago": 1,
-      "url": "https://complyadvantage.com/careers/jobs/8524546002?gh_jid=8524546002",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Consulting"
       ]
     },
     {
@@ -144,6 +129,21 @@
       "source_system": "Greenhouse",
       "tags": [
         "Data & Analytics"
+      ]
+    },
+    {
+      "id": "gh_monzo_7893700",
+      "title": "Third Party Risk Manager (FTC)",
+      "company": "Monzo",
+      "location": "London; Remote (UK)",
+      "department": "Finance",
+      "posted_date": "24 Jun 2026",
+      "days_ago": 1,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7893700",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
       ]
     },
     {
@@ -207,21 +207,6 @@
       ]
     },
     {
-      "id": "gh_monzo_8007314",
-      "title": "Treasury Risk Manager",
-      "company": "Monzo",
-      "location": "Cardiff, London or Remote (UK)",
-      "department": "Risk & Compliance",
-      "posted_date": "19 Jun 2026",
-      "days_ago": 5,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/8007314",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "gh_monzo_7916595",
       "title": "Lead Insurance Pricing Analyst",
       "company": "Monzo",
@@ -250,6 +235,21 @@
       "tags": [
         "Finance",
         "Banking"
+      ]
+    },
+    {
+      "id": "gh_monzo_8007314",
+      "title": "Treasury Risk Manager",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Risk & Compliance",
+      "posted_date": "19 Jun 2026",
+      "days_ago": 6,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8007314",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
       ]
     },
     {
@@ -304,7 +304,7 @@
       "location": "Ashford, England, United Kingdom; Bucharest; London, England, United Kingdom; Riga, Riga, Latvia; Warszawa, Masovian Voivodeship, Poland",
       "department": "Global Tech Ops & Cybersecurity",
       "posted_date": "15 Jun 2026",
-      "days_ago": 9,
+      "days_ago": 10,
       "url": "https://ats.comparably.com/api/v2/verifone/post/7615009003?gh_jid=7615009003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -319,7 +319,7 @@
       "location": "Cardiff, London or Remote (UK)",
       "department": "Finance",
       "posted_date": "12 Jun 2026",
-      "days_ago": 12,
+      "days_ago": 13,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/8000900",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -349,28 +349,12 @@
       "location": "Leeds, UK",
       "department": "Risk",
       "posted_date": "09 Jun 2026",
-      "days_ago": 15,
+      "days_ago": 16,
       "url": "https://job-boards.greenhouse.io/gocardless/jobs/7972997",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "gh_monzo_7971941",
-      "title": "Technical Accounting & Advisory Senior Manager",
-      "company": "Monzo",
-      "location": "Cardiff, London or Remote (UK)",
-      "department": "Finance",
-      "posted_date": "09 Jun 2026",
-      "days_ago": 15,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7971941",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance",
-        "Consulting"
       ]
     },
     {
@@ -404,6 +388,22 @@
       ]
     },
     {
+      "id": "gh_monzo_7971941",
+      "title": "Technical Accounting & Advisory Senior Manager",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Finance",
+      "posted_date": "09 Jun 2026",
+      "days_ago": 16,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7971941",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance",
+        "Consulting"
+      ]
+    },
+    {
       "id": "gh_verifone_7595680003",
       "title": "Lead MySQL Database Administrator ",
       "company": "Verifone",
@@ -425,7 +425,7 @@
       "location": "London",
       "department": "Marketing & Community",
       "posted_date": "29 May 2026",
-      "days_ago": 26,
+      "days_ago": 27,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7966820",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -440,7 +440,7 @@
       "location": "UK",
       "department": "Finance",
       "posted_date": "28 May 2026",
-      "days_ago": 27,
+      "days_ago": 28,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7904675",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -455,7 +455,7 @@
       "location": "Cardiff, London or Remote (UK)",
       "department": "Borrowing",
       "posted_date": "28 May 2026",
-      "days_ago": 27,
+      "days_ago": 28,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7655258",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -470,7 +470,7 @@
       "location": "London",
       "department": "Finance",
       "posted_date": "28 May 2026",
-      "days_ago": 27,
+      "days_ago": 28,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7921307",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -485,7 +485,7 @@
       "location": "London",
       "department": "Finance",
       "posted_date": "28 May 2026",
-      "days_ago": 27,
+      "days_ago": 28,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7355930",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -500,7 +500,7 @@
       "location": "Cardiff, London or Remote (UK)",
       "department": "Legal",
       "posted_date": "28 May 2026",
-      "days_ago": 27,
+      "days_ago": 28,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7621692",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -515,7 +515,7 @@
       "location": "London",
       "department": "Product",
       "posted_date": "28 May 2026",
-      "days_ago": 27,
+      "days_ago": 28,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7732437",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
