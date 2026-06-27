@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T04:06:27.983931+00:00",
+  "last_updated": "2026-06-27T08:46:20.857612+00:00",
   "total": 40,
   "errors": [],
   "meta": {
@@ -252,21 +252,6 @@
       ]
     },
     {
-      "id": "gh_monzo_7916595",
-      "title": "Lead Insurance Pricing Analyst",
-      "company": "Monzo",
-      "location": "Cardiff, London or Remote (UK)",
-      "department": "Data",
-      "posted_date": "19 Jun 2026",
-      "days_ago": 7,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7916595",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
       "id": "gh_monzo_8018267",
       "title": "Senior Financial Crime Investigator - Business Banking",
       "company": "Monzo",
@@ -306,6 +291,21 @@
       "posted_date": "18 Jun 2026",
       "days_ago": 8,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7582354",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "gh_monzo_7916595",
+      "title": "Lead Insurance Pricing Analyst",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Data",
+      "posted_date": "19 Jun 2026",
+      "days_ago": 8,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7916595",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
