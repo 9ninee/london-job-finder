@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-26T20:00:31.904133+00:00",
-  "total": 38,
+  "last_updated": "2026-06-27T04:06:27.983931+00:00",
+  "total": 40,
   "errors": [],
   "meta": {
     "greenhouse_count": 64,
@@ -551,6 +551,36 @@
       "source_system": "Greenhouse",
       "tags": [
         "Data & Analytics"
+      ]
+    },
+    {
+      "id": "gh_tide_7630894003",
+      "title": "Senior Commercial Finance Broker",
+      "company": "Tide",
+      "location": "United Kingdom",
+      "department": "One Platform - PCS Sales",
+      "posted_date": "07 May 2026",
+      "days_ago": 50,
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7630894003",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_tide_7667360003",
+      "title": "Senior Sales Finance Specialist",
+      "company": "Tide",
+      "location": "United Kingdom",
+      "department": "One Platform - PCS Sales",
+      "posted_date": "07 May 2026",
+      "days_ago": 50,
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7667360003",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
       ]
     },
     {
