@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T10:03:45.237458+00:00",
+  "last_updated": "2026-07-01T14:51:45.484885+00:00",
   "total": 43,
   "errors": [],
   "meta": {
@@ -11,66 +11,6 @@
     "adzuna_enabled": true
   },
   "jobs": [
-    {
-      "id": "gh_complyadvantage_8613225002",
-      "title": "Financial Strategy Analyst",
-      "company": "ComplyAdvantage",
-      "location": "London, England, United Kingdom",
-      "department": "Finance",
-      "posted_date": "30 Jun 2026",
-      "days_ago": 0,
-      "url": "https://complyadvantage.com/careers/jobs/8613225002?gh_jid=8613225002",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_complyadvantage_8613378002",
-      "title": "Senior Financial Strategy Analyst",
-      "company": "ComplyAdvantage",
-      "location": "London, England, United Kingdom",
-      "department": "Finance",
-      "posted_date": "30 Jun 2026",
-      "days_ago": 0,
-      "url": "https://complyadvantage.com/careers/jobs/8613378002?gh_jid=8613378002",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_monzo_8038132",
-      "title": "Financial Control Analyst ",
-      "company": "Monzo",
-      "location": "Cardiff; London",
-      "department": "Finance",
-      "posted_date": "30 Jun 2026",
-      "days_ago": 0,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/8038132",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_monzo_8038212",
-      "title": "Operational Risk Manager",
-      "company": "Monzo",
-      "location": "Cardiff, London or Remote (UK)",
-      "department": "Risk & Compliance",
-      "posted_date": "30 Jun 2026",
-      "days_ago": 0,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/8038212",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
     {
       "id": "gh_monzo_8038447",
       "title": "Security Awareness Analyst",
@@ -102,6 +42,36 @@
       ]
     },
     {
+      "id": "gh_complyadvantage_8613225002",
+      "title": "Financial Strategy Analyst",
+      "company": "ComplyAdvantage",
+      "location": "London, England, United Kingdom",
+      "department": "Finance",
+      "posted_date": "30 Jun 2026",
+      "days_ago": 1,
+      "url": "https://complyadvantage.com/careers/jobs/8613225002?gh_jid=8613225002",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_complyadvantage_8613378002",
+      "title": "Senior Financial Strategy Analyst",
+      "company": "ComplyAdvantage",
+      "location": "London, England, United Kingdom",
+      "department": "Finance",
+      "posted_date": "30 Jun 2026",
+      "days_ago": 1,
+      "url": "https://complyadvantage.com/careers/jobs/8613378002?gh_jid=8613378002",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "gh_modulrfinance_8609873002",
       "title": "Compliance Onboarding Analyst",
       "company": "Modulr Finance",
@@ -117,6 +87,21 @@
       ]
     },
     {
+      "id": "gh_monzo_8038132",
+      "title": "Financial Control Analyst ",
+      "company": "Monzo",
+      "location": "Cardiff; London",
+      "department": "Finance",
+      "posted_date": "30 Jun 2026",
+      "days_ago": 1,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8038132",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "gh_monzo_7866426",
       "title": "Financial Crime Model Validation Manager",
       "company": "Monzo",
@@ -125,6 +110,21 @@
       "posted_date": "29 Jun 2026",
       "days_ago": 1,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7866426",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_8038212",
+      "title": "Operational Risk Manager",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Risk & Compliance",
+      "posted_date": "30 Jun 2026",
+      "days_ago": 1,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8038212",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -153,7 +153,7 @@
       "location": "London, England, United Kingdom",
       "department": "Legal/BusDev",
       "posted_date": "26 Jun 2026",
-      "days_ago": 4,
+      "days_ago": 5,
       "url": "https://ats.comparably.com/api/v2/verifone/post/7781207003?gh_jid=7781207003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -168,7 +168,7 @@
       "location": "Ashford, England, United Kingdom; Bucharest; London, England, United Kingdom; Riga, Riga, Latvia; Warszawa, Masovian Voivodeship, Poland",
       "department": "Global Tech Ops & Cybersecurity",
       "posted_date": "26 Jun 2026",
-      "days_ago": 4,
+      "days_ago": 5,
       "url": "https://ats.comparably.com/api/v2/verifone/post/7615009003?gh_jid=7615009003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -183,72 +183,12 @@
       "location": "Ashford, England, United Kingdom; Bucharest; London, England, United Kingdom; Riga, Riga, Latvia; Warszawa, Masovian Voivodeship, Poland",
       "department": "Global Engineering",
       "posted_date": "26 Jun 2026",
-      "days_ago": 4,
+      "days_ago": 5,
       "url": "https://ats.comparably.com/api/v2/verifone/post/7595680003?gh_jid=7595680003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
         "Data & Analytics"
-      ]
-    },
-    {
-      "id": "gh_complyadvantage_8576136002",
-      "title": "Principal Data Engineer",
-      "company": "ComplyAdvantage",
-      "location": "London, England, United Kingdom",
-      "department": "Technology",
-      "posted_date": "24 Jun 2026",
-      "days_ago": 6,
-      "url": "https://complyadvantage.com/careers/jobs/8576136002?gh_jid=8576136002",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
-      "id": "gh_complyadvantage_8592099002",
-      "title": "Site Reliability Engineering Manager (Data Infra)",
-      "company": "ComplyAdvantage",
-      "location": "London, England, United Kingdom",
-      "department": "Technology",
-      "posted_date": "24 Jun 2026",
-      "days_ago": 6,
-      "url": "https://complyadvantage.com/careers/jobs/8592099002?gh_jid=8592099002",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
-      "id": "gh_monzo_7564605",
-      "title": "Analytics Engineer",
-      "company": "Monzo",
-      "location": "Cardiff, London or Remote (UK)",
-      "department": "Data",
-      "posted_date": "24 Jun 2026",
-      "days_ago": 6,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7564605",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
-      "id": "gh_monzo_8023162",
-      "title": "Credit Model Validation Manager",
-      "company": "Monzo",
-      "location": "Cardiff, London or Remote (UK)",
-      "department": "Risk & Compliance",
-      "posted_date": "24 Jun 2026",
-      "days_ago": 6,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/8023162",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
       ]
     },
     {
@@ -267,13 +207,88 @@
       ]
     },
     {
+      "id": "gh_complyadvantage_8576136002",
+      "title": "Principal Data Engineer",
+      "company": "ComplyAdvantage",
+      "location": "London, England, United Kingdom",
+      "department": "Technology",
+      "posted_date": "24 Jun 2026",
+      "days_ago": 7,
+      "url": "https://complyadvantage.com/careers/jobs/8576136002?gh_jid=8576136002",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "gh_complyadvantage_8592099002",
+      "title": "Site Reliability Engineering Manager (Data Infra)",
+      "company": "ComplyAdvantage",
+      "location": "London, England, United Kingdom",
+      "department": "Technology",
+      "posted_date": "24 Jun 2026",
+      "days_ago": 7,
+      "url": "https://complyadvantage.com/careers/jobs/8592099002?gh_jid=8592099002",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "gh_monzo_7564605",
+      "title": "Analytics Engineer",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Data",
+      "posted_date": "24 Jun 2026",
+      "days_ago": 7,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7564605",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "gh_monzo_8023162",
+      "title": "Credit Model Validation Manager",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Risk & Compliance",
+      "posted_date": "24 Jun 2026",
+      "days_ago": 7,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8023162",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_8013699",
+      "title": "Staff Analytics Engineer",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Data",
+      "posted_date": "24 Jun 2026",
+      "days_ago": 7,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8013699",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
       "id": "gh_monzo_8020414",
       "title": "Credit Risk Director, Business Borrowing",
       "company": "Monzo",
       "location": "Cardiff, London or Remote (UK)",
       "department": "Borrowing",
       "posted_date": "23 Jun 2026",
-      "days_ago": 7,
+      "days_ago": 8,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/8020414",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -288,23 +303,8 @@
       "location": "Cardiff, London or Remote (UK); London",
       "department": "Data",
       "posted_date": "23 Jun 2026",
-      "days_ago": 7,
+      "days_ago": 8,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7694525",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
-      "id": "gh_monzo_8013699",
-      "title": "Staff Analytics Engineer",
-      "company": "Monzo",
-      "location": "Cardiff, London or Remote (UK)",
-      "department": "Data",
-      "posted_date": "24 Jun 2026",
-      "days_ago": 7,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/8013699",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -342,21 +342,6 @@
       ]
     },
     {
-      "id": "gh_monzo_7582354",
-      "title": "Lead Analytics Engineer",
-      "company": "Monzo",
-      "location": "Cardiff, London or Remote (UK)",
-      "department": "Data",
-      "posted_date": "18 Jun 2026",
-      "days_ago": 12,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7582354",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
       "id": "gh_monzo_7916595",
       "title": "Lead Insurance Pricing Analyst",
       "company": "Monzo",
@@ -372,13 +357,28 @@
       ]
     },
     {
+      "id": "gh_monzo_7582354",
+      "title": "Lead Analytics Engineer",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Data",
+      "posted_date": "18 Jun 2026",
+      "days_ago": 13,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7582354",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
       "id": "gh_monzo_6076740",
       "title": "Senior Analytics Engineer",
       "company": "Monzo",
       "location": "Cardiff, London or Remote (UK)",
       "department": "Data",
       "posted_date": "18 Jun 2026",
-      "days_ago": 12,
+      "days_ago": 13,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/6076740",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -393,7 +393,7 @@
       "location": "Remote (UK)",
       "department": "Customer Operations",
       "posted_date": "16 Jun 2026",
-      "days_ago": 14,
+      "days_ago": 15,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7996433",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -423,7 +423,7 @@
       "location": "Remote (UK)",
       "department": "Customer Operations",
       "posted_date": "11 Jun 2026",
-      "days_ago": 19,
+      "days_ago": 20,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7996449",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -447,13 +447,29 @@
       ]
     },
     {
+      "id": "gh_monzo_7971941",
+      "title": "Technical Accounting & Advisory Senior Manager",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Finance",
+      "posted_date": "09 Jun 2026",
+      "days_ago": 21,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7971941",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance",
+        "Consulting"
+      ]
+    },
+    {
       "id": "gh_monzo_7991200",
       "title": "Credit Risk Manager, Flex Originations ",
       "company": "Monzo",
       "location": "Cardiff, London or Remote (UK)",
       "department": "Borrowing",
       "posted_date": "09 Jun 2026",
-      "days_ago": 21,
+      "days_ago": 22,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7991200",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -468,28 +484,12 @@
       "location": "London; Remote (UK)",
       "department": "Borrowing",
       "posted_date": "09 Jun 2026",
-      "days_ago": 21,
+      "days_ago": 22,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7991227",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "gh_monzo_7971941",
-      "title": "Technical Accounting & Advisory Senior Manager",
-      "company": "Monzo",
-      "location": "Cardiff, London or Remote (UK)",
-      "department": "Finance",
-      "posted_date": "09 Jun 2026",
-      "days_ago": 21,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7971941",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance",
-        "Consulting"
       ]
     },
     {
@@ -538,21 +538,6 @@
       ]
     },
     {
-      "id": "gh_monzo_7921307",
-      "title": "Senior Finance Business Partner",
-      "company": "Monzo",
-      "location": "London",
-      "department": "Finance",
-      "posted_date": "28 May 2026",
-      "days_ago": 33,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7921307",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "gh_monzo_7355930",
       "title": "Senior Finance Business Partner",
       "company": "Monzo",
@@ -561,6 +546,21 @@
       "posted_date": "28 May 2026",
       "days_ago": 33,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7355930",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_7921307",
+      "title": "Senior Finance Business Partner",
+      "company": "Monzo",
+      "location": "London",
+      "department": "Finance",
+      "posted_date": "28 May 2026",
+      "days_ago": 33,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7921307",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -619,7 +619,7 @@
       "location": "United Kingdom",
       "department": "One Platform - PCS Sales",
       "posted_date": "07 May 2026",
-      "days_ago": 54,
+      "days_ago": 55,
       "url": "https://job-boards.greenhouse.io/tide/jobs/7630894003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -634,7 +634,7 @@
       "location": "United Kingdom",
       "department": "One Platform - PCS Sales",
       "posted_date": "07 May 2026",
-      "days_ago": 54,
+      "days_ago": 55,
       "url": "https://job-boards.greenhouse.io/tide/jobs/7667360003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -649,7 +649,7 @@
       "location": "Edinburgh",
       "department": "Financial Crime Operations",
       "posted_date": "04 May 2026",
-      "days_ago": 57,
+      "days_ago": 58,
       "url": "https://boards.greenhouse.io/modulrfinance/jobs/8534401002?gh_jid=8534401002",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
