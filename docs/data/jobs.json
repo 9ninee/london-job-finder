@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T04:43:10.815733+00:00",
+  "last_updated": "2026-07-01T10:03:45.237458+00:00",
   "total": 43,
   "errors": [],
   "meta": {
@@ -42,21 +42,6 @@
       ]
     },
     {
-      "id": "gh_modulrfinance_8609873002",
-      "title": "Compliance Onboarding Analyst",
-      "company": "Modulr Finance",
-      "location": "Edinburgh",
-      "department": "CDD Operations",
-      "posted_date": "30 Jun 2026",
-      "days_ago": 0,
-      "url": "https://boards.greenhouse.io/modulrfinance/jobs/8609873002?gh_jid=8609873002",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "gh_monzo_8038132",
       "title": "Financial Control Analyst ",
       "company": "Monzo",
@@ -87,6 +72,21 @@
       ]
     },
     {
+      "id": "gh_monzo_8038447",
+      "title": "Security Awareness Analyst",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Information Security",
+      "posted_date": "01 Jul 2026",
+      "days_ago": 0,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8038447",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "gh_monzo_8025947",
       "title": "Service Analyst, Workforce Management",
       "company": "Monzo",
@@ -102,14 +102,14 @@
       ]
     },
     {
-      "id": "gh_tide_7652032003",
-      "title": "Senior Commercial Finance Broker",
-      "company": "Tide",
-      "location": "United Kingdom",
-      "department": "One Platform - PCS Sales",
+      "id": "gh_modulrfinance_8609873002",
+      "title": "Compliance Onboarding Analyst",
+      "company": "Modulr Finance",
+      "location": "Edinburgh",
+      "department": "CDD Operations",
       "posted_date": "30 Jun 2026",
-      "days_ago": 0,
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7652032003",
+      "days_ago": 1,
+      "url": "https://boards.greenhouse.io/modulrfinance/jobs/8609873002?gh_jid=8609873002",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -125,6 +125,21 @@
       "posted_date": "29 Jun 2026",
       "days_ago": 1,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7866426",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_tide_7652032003",
+      "title": "Senior Commercial Finance Broker",
+      "company": "Tide",
+      "location": "United Kingdom",
+      "department": "One Platform - PCS Sales",
+      "posted_date": "30 Jun 2026",
+      "days_ago": 1,
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7652032003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -237,21 +252,6 @@
       ]
     },
     {
-      "id": "gh_monzo_8013699",
-      "title": "Staff Analytics Engineer",
-      "company": "Monzo",
-      "location": "Cardiff, London or Remote (UK)",
-      "department": "Data",
-      "posted_date": "24 Jun 2026",
-      "days_ago": 6,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/8013699",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
       "id": "gh_monzo_7893700",
       "title": "Third Party Risk Manager (FTC)",
       "company": "Monzo",
@@ -297,33 +297,33 @@
       ]
     },
     {
+      "id": "gh_monzo_8013699",
+      "title": "Staff Analytics Engineer",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Data",
+      "posted_date": "24 Jun 2026",
+      "days_ago": 7,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8013699",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
       "id": "gh_truelayer_4888733101",
       "title": "Business Intelligence & Automation Lead",
       "company": "TrueLayer",
       "location": "London, United Kingdom",
       "department": "Finance",
       "posted_date": "22 Jun 2026",
-      "days_ago": 8,
+      "days_ago": 9,
       "url": "https://job-boards.eu.greenhouse.io/truelayer/jobs/4888733101",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "gh_monzo_7916595",
-      "title": "Lead Insurance Pricing Analyst",
-      "company": "Monzo",
-      "location": "Cardiff, London or Remote (UK)",
-      "department": "Data",
-      "posted_date": "19 Jun 2026",
-      "days_ago": 11,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7916595",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Data & Analytics"
       ]
     },
     {
@@ -350,6 +350,21 @@
       "posted_date": "18 Jun 2026",
       "days_ago": 12,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7582354",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "gh_monzo_7916595",
+      "title": "Lead Insurance Pricing Analyst",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Data",
+      "posted_date": "19 Jun 2026",
+      "days_ago": 12,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7916595",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -589,7 +604,7 @@
       "location": "London, UK",
       "department": "Product Development",
       "posted_date": "13 May 2026",
-      "days_ago": 48,
+      "days_ago": 49,
       "url": "https://job-boards.greenhouse.io/gocardless/jobs/7661485",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -636,21 +651,6 @@
       "posted_date": "04 May 2026",
       "days_ago": 57,
       "url": "https://boards.greenhouse.io/modulrfinance/jobs/8534401002?gh_jid=8534401002",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_form3_8378407002",
-      "title": "Head of Financial Planning & Analysis (FP&A)",
-      "company": "Form3",
-      "location": "100% Remote (UK)",
-      "department": "Finance",
-      "posted_date": "13 Apr 2026",
-      "days_ago": 78,
-      "url": "https://www.form3.tech/careers/vacancies/8378407002?gh_jid=8378407002",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
