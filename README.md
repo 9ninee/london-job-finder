@@ -5,6 +5,10 @@ A job search platform that aggregates graduate roles in **Finance, Banking, Data
 **Live (GitHub Pages):** `https://9ninee.github.io/london-job-finder`
 **Live (Render):** `https://london-job-finder.onrender.com`
 
+> 💛 **Contributions welcome!** This is an open project — if you know of a company
+> career board we're missing or want to add a new job source, please jump in.
+> See [Contributing](#contributing) below. No contribution is too small.
+
 ---
 
 ## What it searches
@@ -126,11 +130,65 @@ Render auto-deploys on every push to `main`. The `render.yaml` and `Procfile` ar
 
 ---
 
-## Optional: Adzuna API (free)
+## Optional: API keys (all free)
 
-Register at [developer.adzuna.com](https://developer.adzuna.com/) for a free key. Adds ~20 extra aggregated job results per search beyond the direct ATS sources.
+Some aggregator sources need a free API key. The app works without them — those
+sources simply return nothing until a key is provided.
 
-```
-ADZUNA_APP_ID=your_app_id
-ADZUNA_APP_KEY=your_app_key
-```
+| Provider | Where to register | Env vars |
+|----------|-------------------|----------|
+| **Adzuna** | [developer.adzuna.com](https://developer.adzuna.com/) | `ADZUNA_APP_ID`, `ADZUNA_APP_KEY` |
+| **Reed** | [reed.co.uk/developers](https://www.reed.co.uk/developers/jobseeker) | `REED_API_KEY` |
+
+Add them to a local `.env` file (for local/Render use) or as GitHub Actions
+repository secrets (for the GitHub Pages auto-refresh).
+
+---
+
+## Contributing
+
+**This project is open to everyone — contributions of any size are genuinely welcome.**
+Whether you're fixing a typo, adding a company, or building a whole new job source,
+your help makes the tool better for every job seeker who uses it. 💛
+
+### Good first contributions
+
+- **➕ Add a company** — the single most useful thing you can do. If you know a
+  company hiring in London on Greenhouse, Lever, or Ashby, add its slug to the
+  relevant dict in [`sources/company_lists.py`](sources/company_lists.py).
+  - Greenhouse slug: the `xxx` in `boards.greenhouse.io/xxx`
+  - Lever slug: the `xxx` in `jobs.lever.co/xxx`
+  - Ashby slug: the `xxx` in `jobs.ashbyhq.com/xxx`
+- **🔌 Add a new source** — build a new fetcher in `sources/` that returns the
+  standard job dict (see any existing source for the shape), then register it in
+  both `app.py` and `fetch_jobs_static.py`. Ideas: Workable, SmartRecruiters,
+  Recruitee, Otta, Welcome to the Jungle.
+- **🏷️ Improve filtering** — better role tagging, senior-role detection, or
+  relevance keywords in `company_lists.py`.
+- **🎨 UI/UX** — design tweaks, accessibility, mobile layout, dark mode.
+- **🐛 Report bugs / dead sources** — open an issue if a source stops returning
+  results or a company slug 404s.
+
+### How to contribute
+
+1. **Fork** the repo and clone your fork.
+2. Create a branch: `git checkout -b add-my-company`.
+3. Make your change. To sanity-check a new source or company list locally:
+   ```bash
+   pip install -r requirements.txt
+   python fetch_jobs_static.py      # prints per-source job counts
+   ```
+4. **Commit** with a clear message and **open a Pull Request** describing what you
+   added and, for new companies, confirming they had London roles when you checked.
+
+### Contribution guidelines
+
+- Keep sources **key-free where possible** — prefer public ATS APIs so the tool
+  works out of the box.
+- Every source must **fail gracefully** (return `[]` on error/timeout) so one dead
+  source never breaks a search.
+- Match the existing job-dict shape and the ~5s per-request timeout budget.
+- Be kind in issues and reviews. We're all here to help people find jobs.
+
+New to open source? That's perfect — open a draft PR or an issue and we'll help you
+get it merged.
