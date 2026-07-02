@@ -1,9 +1,14 @@
 # London Graduate Job Finder
 
-A job search platform that aggregates graduate roles in **Finance, Banking, Data Analytics, and Consulting** directly from company career pages — no job board middlemen.
+A job search platform that aggregates graduate roles in **Finance, Banking, Data Analytics, and Consulting** directly from company career pages and major UK job boards — no job board middlemen.
 
-**Live (GitHub Pages):** `https://9ninee.github.io/london-job-finder`
-**Live (Render):** `https://london-job-finder.onrender.com`
+## 🚀 Just want to use it? Open the live site — no setup required
+
+### 👉 **[https://9ninee.github.io/london-job-finder/](https://9ninee.github.io/london-job-finder/)**
+
+It's free and hosted for everyone. Open the link, filter by category, and apply
+directly — the job list refreshes automatically every 6 hours with 1,000+ live
+London roles. Nothing to install, no account, no API keys.
 
 > 💛 **Contributions welcome!** This is an open project — if you know of a company
 > career board we're missing or want to add a new job source, please jump in.
@@ -24,59 +29,74 @@ A job search platform that aggregates graduate roles in **Finance, Banking, Data
 | **The Muse** | Aggregator (JPMorgan, BofA, TikTok…) | No |
 | **Reed.co.uk** | UK's largest job board | Optional (free) |
 
-Queries **182 company career pages** simultaneously across:
-- Fintech & Neobanks (Monzo, Wise, Checkout.com, Starling, Revolut…)
-- Investment Banks & Asset Managers (Barclays, Lloyds, Schroders, Janus Henderson…)
-- Consulting (Deloitte, PwC, EY, KPMG, McKinsey, BCG, Oliver Wyman…)
-- Quant / Trading (Citadel, Jane Street, Optiver, IMC Trading…)
-- Data & Analytics (Palantir, Quantexa, dunnhumby…)
+Pulls **1,000+ live London roles** at a time by combining direct company career
+boards with major UK aggregators, across:
+- Fintech & Payments (Monzo, Stripe, Adyen, SumUp, GoCardless, Ebury…)
+- Quant / Trading (Jane Street, Point72, Man Group, IMC, Flow Traders…)
+- Banks & Big Names via aggregators (JPMorgan, Bank of America…)
+- Consulting & Data (Capco, Teneo, Databricks, dunnhumby…)
+- Crypto / Digital Assets (Coinbase, Fireblocks, OKX, Bybit…)
 
 All results are filtered to **London-based** roles matching graduate / analyst / consulting / finance / banking criteria.
 
 ---
 
-## Hosting Options
+## How to use it
 
-### Option A — GitHub Pages (recommended, free, no server)
+### Option 1 — Use the live site (recommended for everyone)
 
-The `docs/` folder contains a fully static version of the site. GitHub Actions fetches fresh jobs every 6 hours and commits them as `docs/data/jobs.json`.
+Just open **[https://9ninee.github.io/london-job-finder/](https://9ninee.github.io/london-job-finder/)**.
 
-**Setup:**
-1. Go to repo **Settings → Pages**
-2. Set source to **Deploy from branch** → `main` → `/docs`
-3. Go to **Settings → Secrets and variables → Actions** and add:
-   - `ADZUNA_APP_ID` = your Adzuna app ID
-   - `ADZUNA_APP_KEY` = your Adzuna app key
-   - `REED_API_KEY` = your Reed API key (free from [reed.co.uk/developers](https://www.reed.co.uk/developers/jobseeker))
-4. Your site goes live at `https://<username>.github.io/london-job-finder`
+That's it. The site is hosted and maintained for you, refreshes every 6 hours, and
+requires zero setup. This is the right choice for the vast majority of users — you
+only need the options below if you want to run your *own* independent copy.
 
-Jobs refresh automatically every 6 hours via `.github/workflows/fetch-jobs.yml`.
-You can also trigger a manual refresh from the **Actions** tab → **Fetch & Update Jobs** → **Run workflow**.
+### Option 2 — Host your own copy
 
-### Option B — Run locally (Flask)
+Prefer to self-host (your own company lists, your own refresh schedule)? You can run
+it three ways:
+
+<details>
+<summary><strong>2a. Your own GitHub Pages site (free, no server)</strong></summary>
+
+The `docs/` folder is a fully static build. A GitHub Actions cron fetches fresh jobs
+every 6 hours and commits them to `docs/data/jobs.json`.
+
+1. **Fork** this repo.
+2. Go to your fork's **Settings → Pages** → source **Deploy from branch** → `main` → `/docs`.
+3. (Optional, for Adzuna + Reed results) **Settings → Secrets and variables → Actions**, add:
+   - `ADZUNA_APP_ID`, `ADZUNA_APP_KEY` — free from [developer.adzuna.com](https://developer.adzuna.com/)
+   - `REED_API_KEY` — free from [reed.co.uk/developers](https://www.reed.co.uk/developers/jobseeker)
+4. Your copy goes live at `https://<your-username>.github.io/london-job-finder`.
+
+Trigger a manual refresh anytime from the **Actions** tab → **Fetch & Update Jobs** → **Run workflow**.
+</details>
+
+<details>
+<summary><strong>2b. Run locally (Flask, live search)</strong></summary>
 
 ```bash
-# 1. Clone
 git clone https://github.com/9ninee/london-job-finder.git
 cd london-job-finder
-
-# 2. Install dependencies
 pip install -r requirements.txt
 
-# 3. (Optional) Add Adzuna API key
-echo "ADZUNA_APP_ID=your_id" >> .env
+# Optional — API keys for Adzuna & Reed
+echo "ADZUNA_APP_ID=your_id"   >> .env
 echo "ADZUNA_APP_KEY=your_key" >> .env
+echo "REED_API_KEY=your_key"   >> .env
 
-# 4. Run
 python app.py
-
-# 5. Open
 open http://localhost:5050
 ```
+</details>
 
-### Option C — Render (cloud, always-on)
+<details>
+<summary><strong>2c. Render (cloud, always-on Flask)</strong></summary>
 
-Render auto-deploys on every push to `main`. The `render.yaml` and `Procfile` are already configured.
+Render auto-deploys on every push to `main`. The `render.yaml` and `Procfile` are
+already configured — connect the repo in your Render dashboard and add the same API
+keys as environment variables.
+</details>
 
 ---
 
@@ -86,7 +106,7 @@ Render auto-deploys on every push to `main`. The `render.yaml` and `Procfile` ar
 - **"Updated X ago"** badge shows freshness of the data
 - Filter by category: Graduate / Data & Analytics / Finance / Banking / Consulting / Quantitative
 - **Hide Senior / Management roles** toggle (on by default)
-- Filter by source platform (Greenhouse / Lever / Ashby / Workday / Adzuna / Gov.uk)
+- Filter by source platform (Greenhouse / Lever / Adzuna / The Muse / Reed / Gov.uk)
 - Sort by newest, company name, or job title
 - Direct **Apply Now** links to the original job posting on each company's career site
 - Pagination (24 jobs per page, Load More)
