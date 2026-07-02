@@ -17,6 +17,8 @@ A job search platform that aggregates graduate roles in **Finance, Banking, Data
 | **Workday ATS** | Direct company jobs API | No |
 | **Adzuna UK** | Aggregates from company sites | Optional (free) |
 | **Find a Job (Gov.uk)** | UK Government official job board | No |
+| **The Muse** | Aggregator (JPMorgan, BofA, TikTok…) | No |
+| **Reed.co.uk** | UK's largest job board | Optional (free) |
 
 Queries **182 company career pages** simultaneously across:
 - Fintech & Neobanks (Monzo, Wise, Checkout.com, Starling, Revolut…)
@@ -41,6 +43,7 @@ The `docs/` folder contains a fully static version of the site. GitHub Actions f
 3. Go to **Settings → Secrets and variables → Actions** and add:
    - `ADZUNA_APP_ID` = your Adzuna app ID
    - `ADZUNA_APP_KEY` = your Adzuna app key
+   - `REED_API_KEY` = your Reed API key (free from [reed.co.uk/developers](https://www.reed.co.uk/developers/jobseeker))
 4. Your site goes live at `https://<username>.github.io/london-job-finder`
 
 Jobs refresh automatically every 6 hours via `.github/workflows/fetch-jobs.yml`.

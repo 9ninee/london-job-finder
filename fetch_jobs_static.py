@@ -21,6 +21,7 @@ from sources.workday import fetch_workday_jobs
 from sources.adzuna import fetch_adzuna_jobs
 from sources.findajob import fetch_findajob_jobs
 from sources.themuse import fetch_themuse_jobs
+from sources.reed import fetch_reed_jobs
 from sources.company_lists import (
     GREENHOUSE_COMPANIES, LEVER_COMPANIES,
     ASHBY_COMPANIES, WORKDAY_COMPANIES,
@@ -34,6 +35,7 @@ FETCHERS = {
     "Adzuna":     fetch_adzuna_jobs,
     "FindAJob":   fetch_findajob_jobs,
     "TheMuse":    fetch_themuse_jobs,
+    "Reed":       fetch_reed_jobs,
 }
 
 OUTPUT_PATH = Path(__file__).parent / "docs" / "data" / "jobs.json"
@@ -44,7 +46,7 @@ def main():
     all_jobs = []
     errors = []
 
-    with ThreadPoolExecutor(max_workers=7) as executor:
+    with ThreadPoolExecutor(max_workers=8) as executor:
         futures = {executor.submit(fn): name for name, fn in FETCHERS.items()}
         for future in as_completed(futures, timeout=60):
             source = futures[future]
@@ -84,6 +86,7 @@ def main():
                 + len(ASHBY_COMPANIES) + len(WORKDAY_COMPANIES)
             ),
             "adzuna_enabled": bool(os.getenv("ADZUNA_APP_ID")),
+            "reed_enabled":   bool(os.getenv("REED_API_KEY")),
         },
         "jobs": unique_jobs,
     }

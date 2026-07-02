@@ -94,7 +94,8 @@ async function loadJobs() {
         🟩 Workday: ${m.workday_count} companies<br>
         ${m.adzuna_enabled ? '🟡 Adzuna: ✅ enabled' : '⚪ Adzuna: disabled'}<br>
         🔵 Find a Job (Gov.uk): ✅ enabled<br>
-        🔴 The Muse: ✅ enabled
+        🔴 The Muse: ✅ enabled<br>
+        ${m.reed_enabled ? '🟥 Reed: ✅ enabled' : '⚪ Reed: add API key'}
       `;
     }
 
@@ -238,6 +239,7 @@ function buildCard(job) {
     Adzuna:     '#ff6b35',
     FindAJob:   '#003078',
     TheMuse:    '#e91e63',
+    Reed:       '#e0102f',
   };
   const sourceLabel = {
     Greenhouse: 'Greenhouse',
@@ -247,6 +249,7 @@ function buildCard(job) {
     Adzuna:     'Adzuna',
     FindAJob:   'Gov.uk',
     TheMuse:    'The Muse',
+    Reed:       'Reed',
   };
   clone.querySelector('.source-dot').style.background =
     sourceColor[job.source_system] || '#aaa';
