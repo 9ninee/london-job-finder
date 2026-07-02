@@ -138,6 +138,8 @@ function applyFilters() {
 
   loadingEl.classList.add('hidden');
   displayedCount = 0;
+  jobGrid.innerHTML = '';            // clear stale cards before re-rendering
+  loadMoreWrap.classList.add('hidden');
 
   const visible = getVisibleJobs();
   if (visible.length === 0) {

@@ -7,7 +7,7 @@ Docs: https://developers.greenhouse.io/job-board.html
 import requests
 from datetime import datetime, timezone
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from .company_lists import GREENHOUSE_COMPANIES, RELEVANT_TITLE_KEYWORDS, is_uk_location
+from .company_lists import GREENHOUSE_COMPANIES, RELEVANT_TITLE_KEYWORDS, is_uk_location, is_foreign_role
 
 BASE_URL = "https://boards-api.greenhouse.io/v1/boards/{slug}/jobs"
 TIMEOUT = 5
@@ -60,6 +60,9 @@ def _fetch_one(slug: str, company_name: str, user_keywords: list[str]) -> list[d
             departments = [d.get("name", "") for d in job.get("departments", [])]
 
             if not _is_relevant(title, location):
+                continue
+
+            if is_foreign_role(title, location):
                 continue
 
             if user_keywords:

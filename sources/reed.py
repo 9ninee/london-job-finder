@@ -10,7 +10,9 @@ import os
 import requests
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from .company_lists import RELEVANT_TITLE_KEYWORDS
+from .company_lists import (
+    RELEVANT_TITLE_KEYWORDS, is_foreign_role, requires_experience,
+)
 
 BASE_URL = "https://www.reed.co.uk/api/1.0/search"
 TIMEOUT = 6
@@ -102,8 +104,16 @@ def _fetch_query(query: str, api_key: str) -> list[dict]:
             location = job.get("locationName", "London")
             url      = job.get("jobUrl", "")
             created  = job.get("date", "")   # DD/MM/YYYY
+            description = job.get("jobDescription", "")
 
             if not _is_relevant(title):
+                continue
+
+            # Focus on graduate/entry-level: drop foreign & experienced roles.
+            # (Senior *titles* are handled by the client-side toggle.)
+            if is_foreign_role(title, location):
+                continue
+            if requires_experience(description):
                 continue
 
             days = _days_ago(created)

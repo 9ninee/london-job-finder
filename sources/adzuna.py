@@ -9,7 +9,9 @@ import os
 import requests
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from .company_lists import RELEVANT_TITLE_KEYWORDS
+from .company_lists import (
+    RELEVANT_TITLE_KEYWORDS, is_foreign_role, requires_experience,
+)
 
 BASE_URL = "https://api.adzuna.com/v1/api/jobs/gb/search/{page}"
 TIMEOUT = 5
@@ -105,8 +107,16 @@ def _fetch_query(query: str, app_id: str, app_key: str) -> list[dict]:
             url      = job.get("redirect_url", "")
             created  = job.get("created", "")
             category = job.get("category", {}).get("label", "")
+            description = job.get("description", "")
 
             if not _is_relevant(title, category):
+                continue
+
+            # Focus on graduate/entry-level: drop foreign & experienced roles.
+            # (Senior *titles* are handled by the client-side toggle.)
+            if is_foreign_role(title, location):
+                continue
+            if requires_experience(description):
                 continue
 
             days = _days_ago(created)

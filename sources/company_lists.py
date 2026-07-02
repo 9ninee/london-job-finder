@@ -350,3 +350,70 @@ def is_uk_location(location_str: str) -> bool:
     if re.search(r'\buk\b', loc):
         return True
     return False
+
+
+# Non-UK cities/countries that sometimes leak into titles or locations from
+# aggregators (e.g. "Analyst - Base in Beijing", "…Abu Dhabi Public Sector").
+FOREIGN_LOCATION_KEYWORDS = [
+    "beijing", "shanghai", "hong kong", "singapore", "tokyo", "seoul", "mumbai",
+    "bangalore", "bengaluru", "delhi", "dubai", "abu dhabi", "doha", "riyadh",
+    "new york", "san francisco", "chicago", "boston", "toronto", "sydney",
+    "melbourne", "paris", "berlin", "munich", "frankfurt", "madrid", "milan",
+    "amsterdam", "dublin", "zurich", "geneva", "warsaw", "lisbon", "prague",
+    "dallas", "austin", "seattle", "los angeles", "atlanta", "washington",
+    "shenzhen", "guangzhou", "kuala lumpur", "jakarta", "manila", "bangkok",
+]
+
+
+def is_foreign_role(title: str, location: str = "") -> bool:
+    """Return True if the title/location clearly points to a non-UK city.
+
+    A foreign city named in the *title* is a strong signal (e.g. "Analyst -
+    Abu Dhabi Public Sector" mislabelled as London), so it wins even if the
+    location says London. For the location, a London/UK anchor keeps the role
+    (many genuine multi-city listings read "Dubai, London, Paris").
+    """
+    t = (title or "").lower()
+    if any(city in t for city in FOREIGN_LOCATION_KEYWORDS) and "london" not in t:
+        return True
+    loc = (location or "").lower()
+    if "london" in loc or "united kingdom" in loc:
+        return False
+    return any(city in loc for city in FOREIGN_LOCATION_KEYWORDS)
+
+
+import re as _re
+# Matches "3+ years", "3-5 years", "minimum of 4 years", "at least 5 years'
+# experience", "5 yrs experience", etc. Captures the leading number.
+_EXPERIENCE_RE = _re.compile(
+    r'(\d+)\s*(?:\+|\-\s*\d+)?\s*(?:years?|yrs?)[\s\S]{0,20}?(?:experience|exp\b|in\b)',
+    _re.IGNORECASE,
+)
+
+
+def requires_experience(text: str, max_years: int = 2) -> bool:
+    """Return True if the text demands more than `max_years` years of experience."""
+    if not text:
+        return False
+    for m in _EXPERIENCE_RE.finditer(text):
+        try:
+            if int(m.group(1)) > max_years:
+                return True
+        except (ValueError, TypeError):
+            continue
+    return False
+
+
+# Senior / management title markers (kept in sync with the frontend toggle).
+SENIOR_TITLE_KEYWORDS = [
+    "senior", "sr.", " sr ", "lead ", " lead", "principal", "head of", "head,",
+    "director", " manager", "managing director", "vp ", " vp", "svp", "evp", "avp",
+    "vice president", "chief", "partner", "c-suite", "managing partner",
+    "managing consultant", "expert", "staff ",
+]
+
+
+def is_senior_title(title: str) -> bool:
+    """Return True if the job title indicates a senior/management role."""
+    t = " " + (title or "").lower() + " "
+    return any(kw in t for kw in SENIOR_TITLE_KEYWORDS)

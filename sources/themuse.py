@@ -7,7 +7,9 @@ Filtered to London + finance/data/consulting categories.
 import requests
 from datetime import datetime, timezone
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from .company_lists import RELEVANT_TITLE_KEYWORDS, is_uk_location
+from .company_lists import (
+    RELEVANT_TITLE_KEYWORDS, is_uk_location, is_foreign_role,
+)
 
 BASE_URL = "https://www.themuse.com/api/public/jobs"
 TIMEOUT = 8
@@ -77,6 +79,13 @@ def _fetch_page(category: str, page: int, user_keywords: list[str]) -> list[dict
 
             # Muse location filter can be loose — enforce UK/London
             if not any(is_uk_location(l) for l in locations):
+                continue
+            if is_foreign_role(title, loc_str):
+                continue
+
+            # Use The Muse's own experience levels — keep only entry/mid/intern
+            levels = [(l.get("short_name") or "").lower() for l in job.get("levels", [])]
+            if levels and not any(lv in ("entry_level", "mid_level", "internship") for lv in levels):
                 continue
 
             # Relevance by title keyword
