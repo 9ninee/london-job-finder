@@ -22,6 +22,7 @@ from sources.ashby import fetch_ashby_jobs
 from sources.workday import fetch_workday_jobs
 from sources.adzuna import fetch_adzuna_jobs
 from sources.findajob import fetch_findajob_jobs
+from sources.themuse import fetch_themuse_jobs
 
 app = Flask(__name__)
 
@@ -32,6 +33,7 @@ FETCHERS = {
     "Workday":    fetch_workday_jobs,
     "Adzuna":     fetch_adzuna_jobs,
     "FindAJob":   fetch_findajob_jobs,
+    "TheMuse":    fetch_themuse_jobs,
 }
 
 
@@ -50,7 +52,7 @@ def search():
     all_jobs = []
     errors   = []
 
-    with ThreadPoolExecutor(max_workers=6) as executor:
+    with ThreadPoolExecutor(max_workers=7) as executor:
         futures = {
             executor.submit(fn, keywords): name
             for name, fn in FETCHERS.items()

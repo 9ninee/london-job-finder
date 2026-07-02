@@ -5,125 +5,50 @@ Ashby source discovered via github.com/santifer/career-ops.
 """
 
 GREENHOUSE_COMPANIES = {
-    # ── Verified active ✓ (confirmed returning London finance roles) ──
+    # ── Verified live w/ London roles (auto-audited) ──
+    # Fintech & payments
     "monzo": "Monzo",
     "tide": "Tide",
     "gocardless": "GoCardless",
-    "complyadvantage": "ComplyAdvantage",
-    "form3": "Form3",
+    "sumup": "SumUp",
+    "ebury": "Ebury",
+    "stripe": "Stripe",
+    "adyen": "Adyen",
+    "marqeta": "Marqeta",
     "truelayer": "TrueLayer",
-    "modulrfinance": "Modulr Finance",
-    "behavox": "Behavox",
-    "cleo": "Cleo",
-    "salaryfinance": "Salary Finance",
-    "n26": "N26",
+    "form3": "Form3",
+    "liberis": "Liberis",
+    "complyadvantage": "ComplyAdvantage",
 
-    # ── Fintech & Neobanks (Greenhouse-confirmed) ──
-    "starlingbank": "Starling Bank",
-    "wise": "Wise",
-    "pensionbee": "PensionBee",
-    "oaknorth": "OakNorth Bank",
-    "zopa": "Zopa",
-    "funding-circle": "Funding Circle",
-    "iwoca": "iwoca",
-    "curve": "Curve",
-    "yapily": "Yapily",
-    "checkout": "Checkout.com",
-    "railsr": "Railsr",
-    "payhawk": "Payhawk",
-    "pleo": "Pleo",
-    "soldo": "Soldo",
-    "wagestream": "Wagestream",
-    "coconut": "Coconut",
-    "moneyhub": "Moneyhub",
-    "snyk": "Snyk",
+    # Trading / quant / market makers
+    "janestreet": "Jane Street",
+    "point72": "Point72",
+    "mangroup": "Man Group",
+    "winton": "Winton",
+    "imc": "IMC Trading",
+    "schonfeld": "Schonfeld",
+    "flowtraders": "Flow Traders",
+    "aqr": "AQR Capital",
 
-    # ── Payments & Infrastructure ──
-    "verifone": "Verifone",
-    "token-io": "Token.io",
+    # Data / analytics / consulting
+    "databricks": "Databricks",
+    "dunnhumby": "dunnhumby",
+    "teneo": "Teneo",
+    "capco": "Capco",
 
-    # ── Data / Analytics / RegTech ──
-    "palantir": "Palantir",
-    "quantexa": "Quantexa",
-    "eigen": "Eigen Technologies",
-    "onfido": "Onfido",
-    "sumsub": "Sumsub",
-    "callsign": "Callsign",
-    "featurespace": "Featurespace",
-    "amenity": "Amenity Analytics",
-    "fenergo": "Fenergo",
-    "neotas": "Neotas",
-    "acin": "ACIN",
-
-    # ── Investment & Asset Management ──
-    "schroders": "Schroders",
-    "janus-henderson": "Janus Henderson",
-    "polar-capital": "Polar Capital",
-    "liontrust": "Liontrust",
-
-    # ── FinTech Infrastructure / Capital Markets Tech ──
-    "simcorp": "SimCorp",
-    "murex": "Murex",
-    "finastra": "Finastra",
-    "temenos": "Temenos",
-    "broadridge": "Broadridge",
-    "kensho": "Kensho",
-    "tradeweb": "Tradeweb",
-
-    # ── Insurance / Risk ──
-    "cytora": "Cytora",
-    "hyperexponential": "Hyperexponential",
-    "concirrus": "Concirrus",
-    "superscript": "Superscript",
-
-    # ── Consulting & Advisory ──
-    "nera": "NERA Economic Consulting",
-    "analysisgroup": "Analysis Group",
-    "cornerstone-research": "Cornerstone Research",
-
-    # ── Exchanges & Market Infrastructure ──
-    "euronext": "Euronext",
-    "ice": "Intercontinental Exchange",
-    "cboe": "Cboe Global Markets",
-    "marex": "Marex",
+    # Crypto / digital assets
+    "coinbase": "Coinbase",
+    "blockchain": "Blockchain.com",
+    "fireblocks": "Fireblocks",
+    "bybit": "Bybit",
+    "okx": "OKX",
 }
 
+# ── Lever ATS companies (verified live w/ London roles) ──
+# Note: most finance firms have migrated off Lever; only a few remain active.
 LEVER_COMPANIES = {
-    # Quant / Trading
-    "citadel": "Citadel",
-    "jane-street": "Jane Street",
-    "virtu": "Virtu Financial",
-    "hrt": "Hudson River Trading",
-    "imc": "IMC Trading",
-    "optiver": "Optiver",
-    "akuna-capital": "Akuna Capital",
-    "drwtrading": "DRW",
-    "sig": "SIG",
-    # Fintech
-    "revolut": "Revolut",
-    "sumup": "SumUp",
-    "paysafe": "Paysafe",
-    "worldremit": "WorldRemit",
-    "caxton": "Caxton",
-    "currencycloud": "CurrencyCloud",
-    "airwallex": "Airwallex",
-    "transfermate": "TransferMate",
-    # Data / Analytics
-    "dunnhumby": "dunnhumby",
-    "datasparq": "Data SparQ",
-    "satalia": "Satalia",
-    "feedzai": "Feedzai",
-    # Consulting / Advisory
-    "cornerstone-research": "Cornerstone Research",
-    "cfra": "CFRA Research",
-    "ihs-markit": "S&P Global Market Intelligence",
-    # Banks / Finance
-    "lazard": "Lazard",
-    "evercore": "Evercore",
-    "stifel": "Stifel",
-    "berenberg": "Berenberg",
-    "numis": "Numis",
-    "liberum": "Liberum",
+    "zopa": "Zopa",
+    "palantir": "Palantir",
 }
 
 # ── Ashby ATS companies ──

@@ -225,6 +225,7 @@ function buildCard(job) {
     Workday:    '#2e7d32',
     Adzuna:     '#ff6b35',
     FindAJob:   '#003078',   // GOV.UK navy blue
+    TheMuse:    '#e91e63',   // Muse pink
   };
   const sourceLabel = {
     Greenhouse: 'Greenhouse',

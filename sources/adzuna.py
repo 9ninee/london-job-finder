@@ -9,15 +9,39 @@ import os
 import requests
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from .company_lists import RELEVANT_TITLE_KEYWORDS
 
 BASE_URL = "https://api.adzuna.com/v1/api/jobs/gb/search/{page}"
 TIMEOUT = 5
 
-# Kept to 3 broad queries — each returns up to 20 results, run in parallel
+# Exclude clearly-irrelevant sectors that share words like "analyst"/"consultant"
+EXCLUDE_KEYWORDS = [
+    "recruitment", "recruiter", "sales executive", "sales manager", "estate agent",
+    "cyber security", "security analyst", "soc analyst", "penetration",
+    "nurse", "care assistant", "carer", "teacher", "teaching", "tutor",
+    "warehouse", "driver", "delivery", "retail assistant", "hospitality",
+    "chef", "cleaner", "receptionist", "beauty", "mechanic", "electrician",
+]
+
+
+def _is_relevant(title: str, category: str) -> bool:
+    text = (title + " " + category).lower()
+    if any(bad in text for bad in EXCLUDE_KEYWORDS):
+        return False
+    return any(kw in text for kw in RELEVANT_TITLE_KEYWORDS)
+
+# Adzuna ANDs all words in `what`, so keep queries SHORT (2 words max) and
+# never include "london" here — location is handled by the `where` param.
+# Each query returns up to 50 results, all run in parallel.
 SEARCH_QUERIES = [
-    "graduate analyst finance banking london",
-    "graduate data analyst consulting london",
-    "entry level investment analyst london",
+    "graduate analyst",
+    "graduate scheme",
+    "data analyst",
+    "investment analyst",
+    "financial analyst",
+    "consulting analyst",
+    "business analyst",
+    "risk analyst",
 ]
 
 
@@ -62,10 +86,10 @@ def _fetch_query(query: str, app_id: str, app_key: str) -> list[dict]:
                 "app_key": app_key,
                 "what": query,
                 "where": "London",
-                "distance": 10,
-                "results_per_page": 20,
+                "distance": 15,
+                "results_per_page": 50,
                 "sort_by": "date",
-                "max_days_old": 90,
+                "max_days_old": 60,
             },
             timeout=TIMEOUT,
         )
@@ -81,6 +105,9 @@ def _fetch_query(query: str, app_id: str, app_key: str) -> list[dict]:
             url      = job.get("redirect_url", "")
             created  = job.get("created", "")
             category = job.get("category", {}).get("label", "")
+
+            if not _is_relevant(title, category):
+                continue
 
             days = _days_ago(created)
             if days > 90:

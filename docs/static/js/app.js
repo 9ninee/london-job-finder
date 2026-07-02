@@ -93,7 +93,8 @@ async function loadJobs() {
         🟠 Ashby: ${m.ashby_count} companies<br>
         🟩 Workday: ${m.workday_count} companies<br>
         ${m.adzuna_enabled ? '🟡 Adzuna: ✅ enabled' : '⚪ Adzuna: disabled'}<br>
-        🔵 Find a Job (Gov.uk): ✅ enabled
+        🔵 Find a Job (Gov.uk): ✅ enabled<br>
+        🔴 The Muse: ✅ enabled
       `;
     }
 
@@ -236,6 +237,7 @@ function buildCard(job) {
     Workday:    '#2e7d32',
     Adzuna:     '#ff6b35',
     FindAJob:   '#003078',
+    TheMuse:    '#e91e63',
   };
   const sourceLabel = {
     Greenhouse: 'Greenhouse',
@@ -244,6 +246,7 @@ function buildCard(job) {
     Workday:    'Workday',
     Adzuna:     'Adzuna',
     FindAJob:   'Gov.uk',
+    TheMuse:    'The Muse',
   };
   clone.querySelector('.source-dot').style.background =
     sourceColor[job.source_system] || '#aaa';
