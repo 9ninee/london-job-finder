@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-10T03:59:35.331114+00:00",
-  "total": 922,
+  "last_updated": "2026-07-10T09:48:27.531347+00:00",
+  "total": 999,
   "errors": [],
   "meta": {
     "greenhouse_count": 29,
@@ -13,48 +13,64 @@
   },
   "jobs": [
     {
-      "id": "az_5795038023",
-      "title": "Senior Business Analyst",
-      "company": "Harvey Nash",
-      "location": "South East London, London",
-      "department": "IT Jobs",
-      "posted_date": "10 Jul 2026",
-      "days_ago": -1,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795038023?se=VrH6uxN88RGD_JySugrbTQ&utm_medium=api&utm_source=348e4724&v=6DAD0E89F48DD95228449988015B07406C5B3C01",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "az_5795037604",
-      "title": "Senior Business Analyst",
-      "company": "Harvey Nash",
-      "location": "South East London, London",
-      "department": "IT Jobs",
-      "posted_date": "10 Jul 2026",
-      "days_ago": -1,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795037604?se=VrH6uxN88RGD_JySugrbTQ&utm_medium=api&utm_source=348e4724&v=391D1A7405846D22A0FED6AFA4033F76CFDF47AB",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "az_5793826910",
-      "title": "Finance Business Analyst / Process Designer",
-      "company": "AND Digital",
-      "location": "London, UK",
+      "id": "az_5794009068",
+      "title": "Analytics Governance Analyst - London",
+      "company": "ADECCO",
+      "location": "Spitalfields, East London",
       "department": "Accounting & Finance Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5793826910?se=yubxuxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=1068A20887376E2288500D23FCE69967B6F0F365",
+      "url": "https://www.adzuna.co.uk/jobs/details/5794009068?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
+        "Data & Analytics",
         "Finance"
+      ]
+    },
+    {
+      "id": "az_5794885446",
+      "title": "Advisory Consultant",
+      "company": "AECOM",
+      "location": "London, UK",
+      "department": "Consultancy Jobs",
+      "posted_date": "10 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5794885446?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Consulting"
+      ]
+    },
+    {
+      "id": "az_5794247439",
+      "title": "Sr. Ad Tech Consultant, Ad Tech Solutions (ATS)",
+      "company": "Advertising",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5794247439?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Consulting"
+      ]
+    },
+    {
+      "id": "az_5794468668",
+      "title": "Business Analyst",
+      "company": "Alexander Lloyd",
+      "location": "London, UK",
+      "department": "Consultancy Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5794468668?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Consulting"
       ]
     },
     {
@@ -74,6 +90,22 @@
       ]
     },
     {
+      "id": "az_5795166124",
+      "title": "Private Banking Executive - Portuguese and/or Spanish speaking",
+      "company": "Barclays",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "10 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795166124?se=Lq-qeER88RGD_JySugrbTQ&utm_medium=api&utm_source=348e4724&v=44505D772192F7D71F41A23DDB8162EC034ECD80",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance",
+        "Banking"
+      ]
+    },
+    {
       "id": "az_5794886790",
       "title": "Bloomberg Intelligence European Consumer Credit Research Analyst",
       "company": "Bloomberg",
@@ -82,6 +114,36 @@
       "posted_date": "10 Jul 2026",
       "days_ago": 0,
       "url": "https://www.adzuna.co.uk/jobs/details/5794886790?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5794886630",
+      "title": "Senior Data Engineer - Python",
+      "company": "Bloomberg",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "10 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5794886630?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "az_5794244553",
+      "title": "Bloomberg Intelligence European Consumer Credit Research Analyst",
+      "company": "Bloomberg",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5794244553?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -104,14 +166,14 @@
       ]
     },
     {
-      "id": "az_5794244553",
-      "title": "Bloomberg Intelligence European Consumer Credit Research Analyst",
+      "id": "az_5794244898",
+      "title": "Senior ML Research Engineer - Sustainable Finance",
       "company": "Bloomberg",
       "location": "London, UK",
-      "department": "Accounting & Finance Jobs",
+      "department": "Scientific & QA Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/details/5794244553?utm_medium=api&utm_source=348e4724",
+      "url": "https://www.adzuna.co.uk/jobs/details/5794244898?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -119,14 +181,14 @@
       ]
     },
     {
-      "id": "az_5794244042",
-      "title": "Technical Business Analyst",
-      "company": "Careerwise UK",
-      "location": "London, UK",
+      "id": "az_5794821545",
+      "title": "Financial Crime Operations Analyst",
+      "company": "Bound",
+      "location": "Borough, South East London",
       "department": "IT Jobs",
-      "posted_date": "09 Jul 2026",
+      "posted_date": "10 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/details/5794244042?utm_medium=api&utm_source=348e4724",
+      "url": "https://www.adzuna.co.uk/jobs/details/5794821545?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -181,6 +243,66 @@
       ]
     },
     {
+      "id": "az_5795219008",
+      "title": "Data & Operations Analyst",
+      "company": "Crone Corkill",
+      "location": "The City, Central London",
+      "department": "Admin Jobs",
+      "posted_date": "10 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5795219008?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "az_5794861378",
+      "title": "Data & Operations Analyst",
+      "company": "Crone Corkill",
+      "location": "London, UK",
+      "department": "Admin Jobs",
+      "posted_date": "10 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5794861378?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "az_5794010442",
+      "title": "Data Quality Analyst",
+      "company": "DGH Recruitment Ltd",
+      "location": "Southwark, South East London",
+      "department": "IT Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5794010442?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "az_5794007806",
+      "title": "Senior Data Analyst",
+      "company": "Data Idols",
+      "location": "Leamouth, East London",
+      "department": "IT Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5794007806?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
       "id": "az_5794247540",
       "title": "Senior Business and Functional Analyst – Transaction Monitoring (TM) Modelling",
       "company": "Deutsche Bank",
@@ -189,6 +311,66 @@
       "posted_date": "09 Jul 2026",
       "days_ago": 0,
       "url": "https://www.adzuna.co.uk/jobs/details/5794247540?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_ebury_4920992101",
+      "title": "Junior Client Portfolio Manager",
+      "company": "Ebury",
+      "location": "London",
+      "department": "FO - Customer Relations",
+      "posted_date": "10 Jul 2026",
+      "days_ago": 0,
+      "url": "https://job-boards.eu.greenhouse.io/ebury/jobs/4920992101",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5794244988",
+      "title": "Senior Credit Risk Analyst - Private Market Funds",
+      "company": "Ebury",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5794244988?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5794255997",
+      "title": "Senior Data Engineer",
+      "company": "Entain",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5794255997?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "az_5795101257",
+      "title": "Associate, Client Integrations Engineer",
+      "company": "Epsilon",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "10 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5795101257?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -226,21 +408,6 @@
       ]
     },
     {
-      "id": "az_5794241623",
-      "title": "IT Systems Business Analyst",
-      "company": "Forterro",
-      "location": "West End, West London",
-      "department": "IT Jobs",
-      "posted_date": "09 Jul 2026",
-      "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/details/5794241623?utm_medium=api&utm_source=348e4724",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "az_5794241861",
       "title": "Analyst - Enterprise Risk Advisory 5A",
       "company": "Genpact",
@@ -253,6 +420,21 @@
       "source_system": "Adzuna",
       "tags": [
         "Consulting"
+      ]
+    },
+    {
+      "id": "az_5794010352",
+      "title": "Data Analyst",
+      "company": "Gleeson Recruitment Group",
+      "location": "Farringdon, Central London",
+      "department": "IT Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5794010352?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Data & Analytics"
       ]
     },
     {
@@ -286,21 +468,6 @@
       ]
     },
     {
-      "id": "az_5793826891",
-      "title": "Senior Insights Analyst",
-      "company": "GlobalData Plc",
-      "location": "London, UK",
-      "department": "Consultancy Jobs",
-      "posted_date": "09 Jul 2026",
-      "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5793826891?se=yubxuxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=AC0EBB3778CF7ADF8A305BE7DD092D85E6662DF4",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Consulting"
-      ]
-    },
-    {
       "id": "az_5794271923",
       "title": "Finance Analyst, Global Music Technology Business",
       "company": "Harmonic Group Ltd",
@@ -308,7 +475,158 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794271923?se=yubxuxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=F0184B925563231716ED4C3BE4A1A0CEEE139B64",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794271923?se=uAp_eER88RGm9YHvQ8XokQ&utm_medium=api&utm_source=348e4724&v=F0184B925563231716ED4C3BE4A1A0CEEE139B64",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5794861958",
+      "title": "Senior Data Analyst",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "location": "London, UK",
+      "department": "PR, Advertising & Marketing Jobs",
+      "posted_date": "10 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5794861958?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "az_5794481210",
+      "title": "Data Analyst",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5794481210?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "az_5794476646",
+      "title": "Senior Data Analyst",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794476646?se=IAWLeER88RGd2bJgIYeXpg&utm_medium=api&utm_source=348e4724&v=1713A7828A09D75F689DB674A8ECE68DB9EDB6AC",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "az_5794475203",
+      "title": "Data and Insights Analyst",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "location": "London, UK",
+      "department": "PR, Advertising & Marketing Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794475203?se=IAWLeER88RGd2bJgIYeXpg&utm_medium=api&utm_source=348e4724&v=28FA25E1DC8576266CD782959AD85A00FC81A9FB",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "az_5794466089",
+      "title": "Data Analyst",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5794466089?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "az_5794289821",
+      "title": "Data Analyst - Commercial Insight",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794289821?se=IAWLeER88RGd2bJgIYeXpg&utm_medium=api&utm_source=348e4724&v=03316189C3E383BB351AE436EF66DA61499D57F5",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Data & Analytics",
+        "Finance"
+      ]
+    },
+    {
+      "id": "reed_57108933",
+      "title": "Business Planning Analyst",
+      "company": "Harrison Holgate",
+      "location": "London",
+      "department": "",
+      "posted_date": "10 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.reed.co.uk/jobs/business-planning-analyst/57108933",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5795214819",
+      "title": "Senior Business Analyst",
+      "company": "Harvey Nash",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "10 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5795214819?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5795038023",
+      "title": "Senior Business Analyst",
+      "company": "Harvey Nash",
+      "location": "South East London, London",
+      "department": "IT Jobs",
+      "posted_date": "10 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795038023?se=uAp_eER88RGm9YHvQ8XokQ&utm_medium=api&utm_source=348e4724&v=6DAD0E89F48DD95228449988015B07406C5B3C01",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5795037604",
+      "title": "Senior Business Analyst",
+      "company": "Harvey Nash",
+      "location": "South East London, London",
+      "department": "IT Jobs",
+      "posted_date": "10 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795037604?se=uAp_eER88RGm9YHvQ8XokQ&utm_medium=api&utm_source=348e4724&v=391D1A7405846D22A0FED6AFA4033F76CFDF47AB",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -339,6 +657,21 @@
       "posted_date": "10 Jul 2026",
       "days_ago": 0,
       "url": "https://www.adzuna.co.uk/jobs/details/5794839696?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5794468957",
+      "title": "Technical Business Analyst",
+      "company": "Hays Specialist Recruitment Limited",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5794468957?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -399,7 +732,7 @@
       "department": "IT Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794298103?se=yubxuxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=E19725A5258340ED9BE8D308778E5E3743740742",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794298103?se=uAp_eER88RGm9YHvQ8XokQ&utm_medium=api&utm_source=348e4724&v=E19725A5258340ED9BE8D308778E5E3743740742",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -414,7 +747,22 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794283396?se=yubxuxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=18885076D0A18FFBB93F63FCBB4200A5843A71F9",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794283396?se=uAp_eER88RGm9YHvQ8XokQ&utm_medium=api&utm_source=348e4724&v=18885076D0A18FFBB93F63FCBB4200A5843A71F9",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5794371131",
+      "title": "Business Analyst - Systems",
+      "company": "Intec Select Ltd",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794371131?se=uAp_eER88RGm9YHvQ8XokQ&utm_medium=api&utm_source=348e4724&v=781F6E43BFD79D8FDC948644271423FE3C0279A6",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -429,11 +777,41 @@
       "department": "IT Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794283392?se=VrH6uxN88RGD_JySugrbTQ&utm_medium=api&utm_source=348e4724&v=FEE3A7B3E104F612A64277573766362ECA201F20",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794283392?se=uAp_eER88RGm9YHvQ8XokQ&utm_medium=api&utm_source=348e4724&v=FEE3A7B3E104F612A64277573766362ECA201F20",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
         "Finance"
+      ]
+    },
+    {
+      "id": "az_5794392850",
+      "title": "Lead Risk Software Engineer LDN",
+      "company": "J.P. Morgan",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794392850?se=Lq-qeER88RGD_JySugrbTQ&utm_medium=api&utm_source=348e4724&v=28726F6461A16B1FF225E678722F2967086C9EAE",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5794115205",
+      "title": "Data Scientist - Jupiter Asset Management Ltd",
+      "company": "Jupiter Asset Management Ltd",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5794115205?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Data & Analytics"
       ]
     },
     {
@@ -444,7 +822,7 @@
       "department": "IT Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794474617?se=VrH6uxN88RGD_JySugrbTQ&utm_medium=api&utm_source=348e4724&v=705F47EA73C3931754F55FCF64FB850548663D25",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794474617?se=uAp_eER88RGm9YHvQ8XokQ&utm_medium=api&utm_source=348e4724&v=705F47EA73C3931754F55FCF64FB850548663D25",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -459,7 +837,7 @@
       "department": "IT Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794469037?se=VrH6uxN88RGD_JySugrbTQ&utm_medium=api&utm_source=348e4724&v=021C199C5E3D2D39CEA0E7366835C2E1FEF042B7",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794469037?se=uAp_eER88RGm9YHvQ8XokQ&utm_medium=api&utm_source=348e4724&v=021C199C5E3D2D39CEA0E7366835C2E1FEF042B7",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -474,7 +852,7 @@
       "department": "IT Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794285535?se=VrH6uxN88RGD_JySugrbTQ&utm_medium=api&utm_source=348e4724&v=32E7D69D877AD0BE5E6282670CF2CB4121462334",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794285535?se=uAp_eER88RGm9YHvQ8XokQ&utm_medium=api&utm_source=348e4724&v=32E7D69D877AD0BE5E6282670CF2CB4121462334",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -549,7 +927,7 @@
       "department": "IT Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794246886?se=VrH6uxN88RGD_JySugrbTQ&utm_medium=api&utm_source=348e4724&v=30F3455F7598FC32B28D5F77F0E92F82F7BB5120",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794246886?se=uAp_eER88RGm9YHvQ8XokQ&utm_medium=api&utm_source=348e4724&v=30F3455F7598FC32B28D5F77F0E92F82F7BB5120",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -557,18 +935,18 @@
       ]
     },
     {
-      "id": "gh_mangroup_4828179101",
-      "title": "Senior Stewardship Analyst",
-      "company": "Man Group",
-      "location": "London",
-      "department": "Responsible Investing",
+      "id": "az_5794246510",
+      "title": "Data Analyst",
+      "company": "Malaria Consortium",
+      "location": "Cambridge Heath, East London",
+      "department": "IT Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 0,
-      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4828179101",
+      "url": "https://www.adzuna.co.uk/jobs/details/5794246510?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
-      "source_system": "Greenhouse",
+      "source_system": "Adzuna",
       "tags": [
-        "Finance"
+        "Data & Analytics"
       ]
     },
     {
@@ -692,6 +1070,21 @@
       ]
     },
     {
+      "id": "az_5794889331",
+      "title": "Senior Data Engineer",
+      "company": "NTT America, Inc.",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "10 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5794889331?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
       "id": "az_5794249147",
       "title": "Lead Business Analyst - Mapping, Requirements, Hybrid -London 4d/w",
       "company": "Nova Source Technologies",
@@ -704,6 +1097,51 @@
       "source_system": "Adzuna",
       "tags": [
         "Finance"
+      ]
+    },
+    {
+      "id": "az_5794387258",
+      "title": "Operations Analyst",
+      "company": "Optimus E2E",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5794387258?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "reed_57109523",
+      "title": "Commercial Graduate Scheme",
+      "company": "Pareto",
+      "location": "Staines-upon-Thames",
+      "department": "",
+      "posted_date": "10 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.reed.co.uk/jobs/commercial-graduate-scheme/57109523",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate"
+      ]
+    },
+    {
+      "id": "reed_57109496",
+      "title": "Entry Level Grad Scheme",
+      "company": "Pareto",
+      "location": "Staines-upon-Thames",
+      "department": "",
+      "posted_date": "10 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.reed.co.uk/jobs/entry-level-grad-scheme/57109496",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate"
       ]
     },
     {
@@ -737,33 +1175,48 @@
       ]
     },
     {
-      "id": "az_5793826907",
-      "title": "Business Analyst - Finance & Actuarial",
-      "company": "QBE Insurance",
+      "id": "az_5794484273",
+      "title": "Insights Data Analyst Apprentice",
+      "company": "QA",
       "location": "London, UK",
-      "department": "IT Jobs",
+      "department": "Sales Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5793826907?se=yubxuxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=CE4C4D781A8077C6CFC1B9020D805986E0CAD76C",
+      "url": "https://www.adzuna.co.uk/jobs/details/5794484273?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
-        "Finance"
+        "Data & Analytics"
       ]
     },
     {
-      "id": "az_5793826904",
-      "title": "Senior Business Analyst - Finance & Actuarial",
-      "company": "QBE Insurance",
-      "location": "London, UK",
-      "department": "IT Jobs",
-      "posted_date": "09 Jul 2026",
+      "id": "reed_57108644",
+      "title": "Trainee AI and Automation Practitioner | No experience needed (Ref: 9301)",
+      "company": "Qualify Nation Recruitment",
+      "location": "London",
+      "department": "",
+      "posted_date": "10 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5793826904?se=yubxuxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=35F332EC2BE6716163EBDA34CDB70F1BC371557A",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
+      "url": "https://www.reed.co.uk/jobs/trainee-ai-and-automation-practitioner--no-experience-needed-ref-9301/57108644",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
       "tags": [
-        "Finance"
+        "Graduate"
+      ]
+    },
+    {
+      "id": "reed_57108651",
+      "title": "Trainee Business Analysis Manager | No experience needed (Ref: 8101)",
+      "company": "Qualify Nation Recruitment",
+      "location": "London",
+      "department": "",
+      "posted_date": "10 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.reed.co.uk/jobs/trainee-business-analysis-manager--no-experience-needed-ref-8101/57108651",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate"
       ]
     },
     {
@@ -782,18 +1235,33 @@
       ]
     },
     {
-      "id": "az_5794236468",
-      "title": "Business Analyst",
-      "company": "Rail Delivery Group",
+      "id": "reed_57109102",
+      "title": "Billing Analyst",
+      "company": "Reed",
+      "location": "KT228AH",
+      "department": "",
+      "posted_date": "10 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.reed.co.uk/jobs/billing-analyst/57109102",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5794245564",
+      "title": "Data Analyst, Compliance (12-Month FTC)",
+      "company": "Remitly",
       "location": "London, UK",
       "department": "IT Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/details/5794236468?utm_medium=api&utm_source=348e4724",
+      "url": "https://www.adzuna.co.uk/jobs/details/5794245564?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
-        "Finance"
+        "Data & Analytics"
       ]
     },
     {
@@ -843,6 +1311,21 @@
       ]
     },
     {
+      "id": "az_5794925951",
+      "title": "Regulatory Change Manager/ business analyst",
+      "company": "SThree UK",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "10 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5794925951?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "az_5794925957",
       "title": "Prudential regulatory reporting senior business analyst",
       "company": "SThree UK",
@@ -858,14 +1341,14 @@
       ]
     },
     {
-      "id": "az_5794925951",
-      "title": "Regulatory Change Manager/ business analyst",
-      "company": "SThree UK",
+      "id": "az_5795166001",
+      "title": "Associate Analyst",
+      "company": "Sainsbury's DTD",
       "location": "London, UK",
-      "department": "Accounting & Finance Jobs",
+      "department": "IT Jobs",
       "posted_date": "10 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/details/5794925951?utm_medium=api&utm_source=348e4724",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795166001?se=IAWLeER88RGd2bJgIYeXpg&utm_medium=api&utm_source=348e4724&v=8DDDE2D8ACFCA79A6E1B942D8C6F044C99122F1B",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -895,7 +1378,7 @@
       "department": "IT Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794271355?se=VrH6uxN88RGD_JySugrbTQ&utm_medium=api&utm_source=348e4724&v=848F37C48FBA65C980B0DE3BD5788A3A65463F7C",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794271355?se=uAp_eER88RGm9YHvQ8XokQ&utm_medium=api&utm_source=348e4724&v=848F37C48FBA65C980B0DE3BD5788A3A65463F7C",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -903,14 +1386,29 @@
       ]
     },
     {
-      "id": "az_5794239972",
-      "title": "Platform Business Management Lead Analyst 1",
-      "company": "Schroders",
+      "id": "az_5794248593",
+      "title": "Data Lead",
+      "company": "Sanderson Government and Defence",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5794248593?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "az_5794238544",
+      "title": "Operation Analyst",
+      "company": "Sea-Faj Consults Limited",
       "location": "London, UK",
       "department": "Accounting & Finance Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/details/5794239972?utm_medium=api&utm_source=348e4724",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794238544?se=IAWLeER88RGd2bJgIYeXpg&utm_medium=api&utm_source=348e4724&v=CA7B36CB6AE1E06F9F2C76FD7032832437AE4D77",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -933,29 +1431,44 @@
       ]
     },
     {
-      "id": "gh_sumup_8587363002",
-      "title": "Commercial Planning Senior Associate",
-      "company": "SumUp",
-      "location": "London, England, United Kingdom",
-      "department": "Finance",
-      "posted_date": "09 Jul 2026",
+      "id": "az_5794821506",
+      "title": "Remote: Online Data Analyst - English speaker in UK",
+      "company": "TELUS Digital",
+      "location": "Borough, South East London",
+      "department": "Scientific & QA Jobs",
+      "posted_date": "10 Jul 2026",
       "days_ago": 0,
-      "url": "https://sumup.com/careers/positions/8587363002?gh_jid=8587363002",
+      "url": "https://www.adzuna.co.uk/jobs/details/5794821506?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
-      "source_system": "Greenhouse",
+      "source_system": "Adzuna",
       "tags": [
-        "Finance"
+        "Data & Analytics"
       ]
     },
     {
-      "id": "az_5793690130",
-      "title": "Finance Manager Trading",
-      "company": "Superdrug",
-      "location": "Croydon, London",
-      "department": "Retail Jobs",
+      "id": "az_5794009481",
+      "title": "SC Cleared Data & Reconciliation Analyst",
+      "company": "TXP",
+      "location": "London, UK",
+      "department": "IT Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/details/5793690130?utm_medium=api&utm_source=348e4724",
+      "url": "https://www.adzuna.co.uk/jobs/details/5794009481?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "az_5794241960",
+      "title": "Junior Financial Analyst",
+      "company": "The Citco Group",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5794241960?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -979,6 +1492,51 @@
       ]
     },
     {
+      "id": "az_5795166075",
+      "title": "Associate, Client Services - Korean Speaker (2027 Start)",
+      "company": "Third Bridge Group",
+      "location": "London, UK",
+      "department": "Sales Jobs",
+      "posted_date": "10 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5795166075?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5795166097",
+      "title": "Associate, Client Services - Japanese Speaker (2027 Start)",
+      "company": "Third Bridge Group",
+      "location": "London, UK",
+      "department": "Sales Jobs",
+      "posted_date": "10 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5795166097?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5795166092",
+      "title": "Graduate Associate, Client Services - Japanese Speaker (2027 Start)",
+      "company": "Third Bridge Group",
+      "location": "London, UK",
+      "department": "Graduate Jobs",
+      "posted_date": "10 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5795166092?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Graduate"
+      ]
+    },
+    {
       "id": "az_5794393661",
       "title": "Graduate Associate, Client Services - French Speaker (2027 Start)",
       "company": "Third Bridge Group",
@@ -986,7 +1544,7 @@
       "department": "Graduate Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393661?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=2BA8C6207C0C0C9A5A4B679AE75725D8254F5337",
+      "url": "https://www.adzuna.co.uk/jobs/details/5794393661?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -1001,7 +1559,7 @@
       "department": "Graduate Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393658?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=4E8C43FB02BD062167F94E138FDBAEE941293376",
+      "url": "https://www.adzuna.co.uk/jobs/details/5794393658?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -1016,52 +1574,7 @@
       "department": "Graduate Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393580?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=279C6FCFE93DA5093C7499CE81A754D088AE8454",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Graduate"
-      ]
-    },
-    {
-      "id": "az_5794393618",
-      "title": "Graduate Associate, Client Services - Swedish Speaker (2027 Start)",
-      "company": "Third Bridge Group",
-      "location": "London, UK",
-      "department": "Graduate Jobs",
-      "posted_date": "09 Jul 2026",
-      "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393618?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=233C145C7FEE01901F84EB2430A39FDF76A8F516",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Graduate"
-      ]
-    },
-    {
-      "id": "az_5794393581",
-      "title": "Graduate Associate, Client Services - Swedish Speaker",
-      "company": "Third Bridge Group",
-      "location": "London, UK",
-      "department": "Graduate Jobs",
-      "posted_date": "09 Jul 2026",
-      "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393581?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=42397B4B4F5E7392E9BF405E37DA92927F18B2FD",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Graduate"
-      ]
-    },
-    {
-      "id": "az_5794393592",
-      "title": "Graduate Associate, Client Services - Norwegian Speaker",
-      "company": "Third Bridge Group",
-      "location": "London, UK",
-      "department": "Graduate Jobs",
-      "posted_date": "09 Jul 2026",
-      "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393592?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=85689ECCAD35BD3E9C4E5C1AE46A0480A6434403",
+      "url": "https://www.adzuna.co.uk/jobs/details/5794393580?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -1076,7 +1589,37 @@
       "department": "Graduate Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393576?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=C2373B3BD740A428FF6D527BACB1DACCD2180BBC",
+      "url": "https://www.adzuna.co.uk/jobs/details/5794393576?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Graduate"
+      ]
+    },
+    {
+      "id": "az_5794393618",
+      "title": "Graduate Associate, Client Services - Swedish Speaker (2027 Start)",
+      "company": "Third Bridge Group",
+      "location": "London, UK",
+      "department": "Graduate Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5794393618?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Graduate"
+      ]
+    },
+    {
+      "id": "az_5794393581",
+      "title": "Graduate Associate, Client Services - Swedish Speaker",
+      "company": "Third Bridge Group",
+      "location": "London, UK",
+      "department": "Graduate Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5794393581?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -1091,7 +1634,7 @@
       "department": "Graduate Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393622?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=27725AE7DE5EB4CDB4252DBAC6B0058A9A90715D",
+      "url": "https://www.adzuna.co.uk/jobs/details/5794393622?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -1099,14 +1642,14 @@
       ]
     },
     {
-      "id": "az_5794393530",
-      "title": "Graduate Associate, Client Services - Danish Speaker",
+      "id": "az_5794393592",
+      "title": "Graduate Associate, Client Services - Norwegian Speaker",
       "company": "Third Bridge Group",
       "location": "London, UK",
       "department": "Graduate Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393530?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=394E6401EA3B1757D7960611F9A66B025BF40F50",
+      "url": "https://www.adzuna.co.uk/jobs/details/5794393592?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -1121,7 +1664,7 @@
       "department": "Graduate Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393528?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=B1C708F1F353CC83F75FE7A103659EEFE2E713DD",
+      "url": "https://www.adzuna.co.uk/jobs/details/5794393528?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -1129,44 +1672,14 @@
       ]
     },
     {
-      "id": "az_5794393517",
-      "title": "Graduate Associate, Client Services - Polish Speaker",
+      "id": "az_5794393530",
+      "title": "Graduate Associate, Client Services - Danish Speaker",
       "company": "Third Bridge Group",
       "location": "London, UK",
       "department": "Graduate Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393517?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=798CC840B8E4A986419F43857AC2DB3D5C3C1013",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Graduate"
-      ]
-    },
-    {
-      "id": "az_5794393486",
-      "title": "Graduate Associate, Client Services - Nordic Languages Speaker",
-      "company": "Third Bridge Group",
-      "location": "London, UK",
-      "department": "Graduate Jobs",
-      "posted_date": "09 Jul 2026",
-      "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393486?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=FBE113194D7E0ED45D5CAE1A038820615430074E",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Graduate"
-      ]
-    },
-    {
-      "id": "az_5794393533",
-      "title": "Graduate Associate, Client Services - Polish Speaker (2027 Start)",
-      "company": "Third Bridge Group",
-      "location": "London, UK",
-      "department": "Graduate Jobs",
-      "posted_date": "09 Jul 2026",
-      "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393533?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=5C02AA7A8D083FA53A76B076A5154D6FF22FAE28",
+      "url": "https://www.adzuna.co.uk/jobs/details/5794393530?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -1181,7 +1694,7 @@
       "department": "Graduate Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393555?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=9F7DCE971DCC4BB7FBED52882A2328C7CDCA6241",
+      "url": "https://www.adzuna.co.uk/jobs/details/5794393555?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -1189,14 +1702,74 @@
       ]
     },
     {
-      "id": "az_5794392823",
-      "title": "Graduate Associate, Client Services (2027 Start)",
+      "id": "az_5794393486",
+      "title": "Graduate Associate, Client Services - Nordic Languages Speaker",
       "company": "Third Bridge Group",
       "location": "London, UK",
       "department": "Graduate Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794392823?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=FD4C96A50136E3CAF9731E024839304446A9471E",
+      "url": "https://www.adzuna.co.uk/jobs/details/5794393486?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Graduate"
+      ]
+    },
+    {
+      "id": "az_5794393504",
+      "title": "Graduate Associate, Client Services - German Speaker",
+      "company": "Third Bridge Group",
+      "location": "London, UK",
+      "department": "Graduate Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5794393504?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Graduate"
+      ]
+    },
+    {
+      "id": "az_5794393517",
+      "title": "Graduate Associate, Client Services - Polish Speaker",
+      "company": "Third Bridge Group",
+      "location": "London, UK",
+      "department": "Graduate Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5794393517?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Graduate"
+      ]
+    },
+    {
+      "id": "az_5794393533",
+      "title": "Graduate Associate, Client Services - Polish Speaker (2027 Start)",
+      "company": "Third Bridge Group",
+      "location": "London, UK",
+      "department": "Graduate Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5794393533?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Graduate"
+      ]
+    },
+    {
+      "id": "az_5794393536",
+      "title": "Graduate Associate, Client Services - Italian Speaker",
+      "company": "Third Bridge Group",
+      "location": "London, UK",
+      "department": "Graduate Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5794393536?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -1211,11 +1784,56 @@
       "department": "Graduate Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794392859?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=4F155AE4247A2DAFC481C905D4741FC00405C023",
+      "url": "https://www.adzuna.co.uk/jobs/details/5794392859?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
         "Graduate"
+      ]
+    },
+    {
+      "id": "az_5794392823",
+      "title": "Graduate Associate, Client Services (2027 Start)",
+      "company": "Third Bridge Group",
+      "location": "London, UK",
+      "department": "Graduate Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5794392823?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Graduate"
+      ]
+    },
+    {
+      "id": "reed_57109042",
+      "title": "Graduate Sales Development Representative",
+      "company": "This is Prime Limited",
+      "location": "London",
+      "department": "",
+      "posted_date": "10 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.reed.co.uk/jobs/graduate-sales-development-representative/57109042",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate"
+      ]
+    },
+    {
+      "id": "az_5794245354",
+      "title": "Fund Controller",
+      "company": "Trace",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5794245354?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
       ]
     },
     {
@@ -1242,6 +1860,36 @@
       "posted_date": "09 Jul 2026",
       "days_ago": 0,
       "url": "https://www.adzuna.co.uk/jobs/details/5794288781?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5794247260",
+      "title": "Data Engineer",
+      "company": "Vivo Talent Solutions",
+      "location": "Victoria, South West London",
+      "department": "IT Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5794247260?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "az_5794790459",
+      "title": "Treasury Operations Analyst",
+      "company": "Wellcome Trust",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5794790459?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -1279,16 +1927,16 @@
       ]
     },
     {
-      "id": "gh_dunnhumby_7799176003",
-      "title": "Senior Applied Data Scientist",
-      "company": "dunnhumby",
-      "location": "London",
-      "department": "Applied Data Science - UK & Ireland",
+      "id": "az_5794246397",
+      "title": "Data Analyst",
+      "company": "dmg",
+      "location": "London, UK",
+      "department": "IT Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 0,
-      "url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7799176003",
+      "url": "https://www.adzuna.co.uk/jobs/details/5794246397?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
-      "source_system": "Greenhouse",
+      "source_system": "Adzuna",
       "tags": [
         "Data & Analytics"
       ]
@@ -1316,7 +1964,7 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "08 Jul 2026",
       "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5792955979?se=yubxuxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=E5786CFF2CE7A30040A63A4849F52E89833D3D9A",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5792955979?se=slh9eER88RGD_JySugrbTQ&utm_medium=api&utm_source=348e4724&v=E5786CFF2CE7A30040A63A4849F52E89833D3D9A",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -1384,18 +2032,18 @@
       ]
     },
     {
-      "id": "az_5792734375",
-      "title": "Senior Financial Analyst, EU Volume and Mix, Customer Fulfillment Finance",
-      "company": "Amazon",
+      "id": "az_5792772356",
+      "title": "Sr. Ad Tech Consultant, Ad Tech Solutions (ATS)",
+      "company": "Amazon Online UK Limited",
       "location": "London, UK",
-      "department": "Accounting & Finance Jobs",
+      "department": "IT Jobs",
       "posted_date": "08 Jul 2026",
       "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/details/5792734375?utm_medium=api&utm_source=348e4724",
+      "url": "https://www.adzuna.co.uk/jobs/details/5792772356?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
-        "Finance"
+        "Consulting"
       ]
     },
     {
@@ -1519,6 +2167,36 @@
       ]
     },
     {
+      "id": "az_5793484283",
+      "title": "Investments & Development Analyst",
+      "company": "GE Vernova",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 1,
+      "url": "https://www.adzuna.co.uk/jobs/details/5793484283?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5792710616",
+      "title": "Investments & Development Analyst",
+      "company": "GE Vernova",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "08 Jul 2026",
+      "days_ago": 1,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5792710616?se=uMR-eER88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=665874976568F0517E26CDE883EAF1BA8A175063",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "reed_57108218",
       "title": "Interim Real Estate Portfolio Analyst (3 month contract, strong likelihood of extension)",
       "company": "Global Accounting Network",
@@ -1534,18 +2212,18 @@
       ]
     },
     {
-      "id": "reed_57105928",
-      "title": "Screening Analyst - KYA (Know Your Assets)",
-      "company": "Grant Thornton",
-      "location": "London",
-      "department": "",
+      "id": "az_5793826891",
+      "title": "Senior Insights Analyst",
+      "company": "GlobalData Plc",
+      "location": "London, UK",
+      "department": "Consultancy Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 1,
-      "url": "https://www.reed.co.uk/jobs/screening-analyst-kya-know-your-assets/57105928",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5793826891?se=slh9eER88RGD_JySugrbTQ&utm_medium=api&utm_source=348e4724&v=AC0EBB3778CF7ADF8A305BE7DD092D85E6662DF4",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
       "tags": [
-        "Finance"
+        "Consulting"
       ]
     },
     {
@@ -1572,6 +2250,36 @@
       "posted_date": "09 Jul 2026",
       "days_ago": 1,
       "url": "https://www.reed.co.uk/jobs/finance-analyst-global-music-technology-business/57105714",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "reed_57105995",
+      "title": "Data Analyst - Commercial Insight",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "location": "London",
+      "department": "",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 1,
+      "url": "https://www.reed.co.uk/jobs/data-analyst-commercial-insight/57105995",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "reed_57107929",
+      "title": "Senior Commercial Analyst",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "location": "London",
+      "department": "",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 1,
+      "url": "https://www.reed.co.uk/jobs/senior-commercial-analyst/57107929",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
@@ -1624,36 +2332,6 @@
       ]
     },
     {
-      "id": "reed_57105995",
-      "title": "Data Analyst - Commercial Insight",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "London",
-      "department": "",
-      "posted_date": "09 Jul 2026",
-      "days_ago": 1,
-      "url": "https://www.reed.co.uk/jobs/data-analyst-commercial-insight/57105995",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
-      "id": "reed_57107929",
-      "title": "Senior Commercial Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "London",
-      "department": "",
-      "posted_date": "09 Jul 2026",
-      "days_ago": 1,
-      "url": "https://www.reed.co.uk/jobs/senior-commercial-analyst/57107929",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "az_5793004811",
       "title": "Finance Analyst",
       "company": "Harper May",
@@ -1676,7 +2354,7 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "08 Jul 2026",
       "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5792992315?se=yubxuxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=2BAC09790B06FCF9173EC0C1441D54100AD171F1",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5792992315?se=slh9eER88RGD_JySugrbTQ&utm_medium=api&utm_source=348e4724&v=2BAC09790B06FCF9173EC0C1441D54100AD171F1",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -1766,7 +2444,22 @@
       "department": "IT Jobs",
       "posted_date": "08 Jul 2026",
       "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5792799556?se=4jL3uxN88RGm9YHvQ8XokQ&utm_medium=api&utm_source=348e4724&v=C6A84324AEB646C271134CF26AD67A0165A69301",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5792799556?se=Lq-qeER88RGD_JySugrbTQ&utm_medium=api&utm_source=348e4724&v=C6A84324AEB646C271134CF26AD67A0165A69301",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5792756994",
+      "title": "Investment Settlements Analyst",
+      "company": "Just",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "08 Jul 2026",
+      "days_ago": 1,
+      "url": "https://www.adzuna.co.uk/jobs/details/5792756994?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -1842,7 +2535,7 @@
       "department": "IT Jobs",
       "posted_date": "08 Jul 2026",
       "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5792434533?se=4jL3uxN88RGm9YHvQ8XokQ&utm_medium=api&utm_source=348e4724&v=A83E69775F2D20BA28CF0DA1123E6241D83B3BF1",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5792434533?se=Lq-qeER88RGD_JySugrbTQ&utm_medium=api&utm_source=348e4724&v=A83E69775F2D20BA28CF0DA1123E6241D83B3BF1",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -1863,6 +2556,21 @@
       "tags": [
         "Finance",
         "Quantitative"
+      ]
+    },
+    {
+      "id": "gh_mangroup_4828179101",
+      "title": "Senior Stewardship Analyst",
+      "company": "Man Group",
+      "location": "London",
+      "department": "Responsible Investing",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 1,
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4828179101",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
       ]
     },
     {
@@ -1972,33 +2680,48 @@
       ]
     },
     {
-      "id": "reed_57104542",
-      "title": "Trainee AI and Automation Practitioner | No experience needed (Ref: 9301)",
-      "company": "Qualify Nation Recruitment",
-      "location": "London",
-      "department": "",
+      "id": "az_5793826904",
+      "title": "Senior Business Analyst - Finance & Actuarial",
+      "company": "QBE Insurance",
+      "location": "London, UK",
+      "department": "IT Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 1,
-      "url": "https://www.reed.co.uk/jobs/trainee-ai-and-automation-practitioner--no-experience-needed-ref-9301/57104542",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5793826904?se=slh9eER88RGD_JySugrbTQ&utm_medium=api&utm_source=348e4724&v=35F332EC2BE6716163EBDA34CDB70F1BC371557A",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
       "tags": [
-        "Graduate"
+        "Finance"
       ]
     },
     {
-      "id": "reed_57104546",
-      "title": "Trainee Business Analysis Manager | No experience needed (Ref: 8101)",
-      "company": "Qualify Nation Recruitment",
-      "location": "London",
-      "department": "",
+      "id": "az_5793826907",
+      "title": "Business Analyst - Finance & Actuarial",
+      "company": "QBE Insurance",
+      "location": "London, UK",
+      "department": "IT Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 1,
-      "url": "https://www.reed.co.uk/jobs/trainee-business-analysis-manager--no-experience-needed-ref-8101/57104546",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5793826907?se=slh9eER88RGD_JySugrbTQ&utm_medium=api&utm_source=348e4724&v=CE4C4D781A8077C6CFC1B9020D805986E0CAD76C",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
       "tags": [
-        "Graduate"
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5792713633",
+      "title": "Analyst, International Real Estate",
+      "company": "QuadReal",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "08 Jul 2026",
+      "days_ago": 1,
+      "url": "https://www.adzuna.co.uk/jobs/details/5792713633?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
       ]
     },
     {
@@ -2010,51 +2733,6 @@
       "posted_date": "08 Jul 2026",
       "days_ago": 1,
       "url": "https://www.adzuna.co.uk/jobs/details/5792708929?utm_medium=api&utm_source=348e4724",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "az_5791921406",
-      "title": "Business Systems Analyst",
-      "company": "Robert Half",
-      "location": "London, UK",
-      "department": "IT Jobs",
-      "posted_date": "08 Jul 2026",
-      "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5791921406?se=hAjzuxN88RGT9KdMukCbjQ&utm_medium=api&utm_source=348e4724&v=A70AB8620A533384767CFBF69F0F62E04778861D",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "az_5792104078",
-      "title": "Business Systems Analyst",
-      "company": "Robert Half Limited",
-      "location": "London, UK",
-      "department": "IT Jobs",
-      "posted_date": "08 Jul 2026",
-      "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/details/5792104078?utm_medium=api&utm_source=348e4724",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "az_5792752951",
-      "title": "Analyst - Financial Crime Compliance - Ongoing Monitoring",
-      "company": "Saffery",
-      "location": "London, UK",
-      "department": "Accounting & Finance Jobs",
-      "posted_date": "08 Jul 2026",
-      "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/details/5792752951?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -2090,6 +2768,51 @@
       "tags": [
         "Finance",
         "Banking"
+      ]
+    },
+    {
+      "id": "az_5792206693",
+      "title": "Excel Engineer - Front Office Investment Solutions",
+      "company": "Selby Jennings London",
+      "location": "The City, Central London",
+      "department": "IT Jobs",
+      "posted_date": "08 Jul 2026",
+      "days_ago": 1,
+      "url": "https://www.adzuna.co.uk/jobs/details/5792206693?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_sumup_8587363002",
+      "title": "Commercial Planning Senior Associate",
+      "company": "SumUp",
+      "location": "London, England, United Kingdom",
+      "department": "Finance",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 1,
+      "url": "https://sumup.com/careers/positions/8587363002?gh_jid=8587363002",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5793690130",
+      "title": "Finance Manager Trading",
+      "company": "Superdrug",
+      "location": "Croydon, London",
+      "department": "Retail Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 1,
+      "url": "https://www.adzuna.co.uk/jobs/details/5793690130?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
       ]
     },
     {
@@ -2183,14 +2906,14 @@
       ]
     },
     {
-      "id": "gh_dunnhumby_7776801003",
+      "id": "gh_dunnhumby_7799176003",
       "title": "Senior Applied Data Scientist",
       "company": "dunnhumby",
       "location": "London",
       "department": "Applied Data Science - UK & Ireland",
-      "posted_date": "08 Jul 2026",
+      "posted_date": "09 Jul 2026",
       "days_ago": 1,
-      "url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7776801003",
+      "url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7799176003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -2206,6 +2929,21 @@
       "posted_date": "08 Jul 2026",
       "days_ago": 1,
       "url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7741522003",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "gh_dunnhumby_7776801003",
+      "title": "Senior Applied Data Scientist",
+      "company": "dunnhumby",
+      "location": "London",
+      "department": "Applied Data Science - UK & Ireland",
+      "posted_date": "08 Jul 2026",
+      "days_ago": 1,
+      "url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7776801003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -2265,7 +3003,7 @@
       "department": "IT Jobs",
       "posted_date": "07 Jul 2026",
       "days_ago": 2,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5790937609?se=hAjzuxN88RGT9KdMukCbjQ&utm_medium=api&utm_source=348e4724&v=80C3AA01BBC75A43C673A6780B9A00D77FD17FF5",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5790937609?se=oPaMeER88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=80C3AA01BBC75A43C673A6780B9A00D77FD17FF5",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -2280,7 +3018,7 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "07 Jul 2026",
       "days_ago": 2,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5791187917?se=4jL3uxN88RGm9YHvQ8XokQ&utm_medium=api&utm_source=348e4724&v=4E098443D254FA7D5C15D450FEC308890EC0DB01",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5791187917?se=Lq-qeER88RGD_JySugrbTQ&utm_medium=api&utm_source=348e4724&v=4E098443D254FA7D5C15D450FEC308890EC0DB01",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -2303,6 +3041,21 @@
       ]
     },
     {
+      "id": "az_5791181768",
+      "title": "Client Administration and Implementation Analyst",
+      "company": "Allspring Global Investments Holdings, LLC",
+      "location": "St Paul's, Central London",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "07 Jul 2026",
+      "days_ago": 2,
+      "url": "https://www.adzuna.co.uk/jobs/details/5791181768?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "gh_coinbase_8049976",
       "title": "Risk & Monitoring Analyst IV",
       "company": "Coinbase",
@@ -2311,21 +3064,6 @@
       "posted_date": "07 Jul 2026",
       "days_ago": 2,
       "url": "https://www.coinbase.com/careers/positions/8049976?gh_jid=8049976",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_ebury_4921121101",
-      "title": "FX Sales Associate",
-      "company": "Ebury",
-      "location": "London",
-      "department": "Sales",
-      "posted_date": "07 Jul 2026",
-      "days_ago": 2,
-      "url": "https://job-boards.eu.greenhouse.io/ebury/jobs/4921121101",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -2348,21 +3086,6 @@
       ]
     },
     {
-      "id": "gh_ebury_4920992101",
-      "title": "Junior Client Portfolio Manager",
-      "company": "Ebury",
-      "location": "London",
-      "department": "FO - Customer Relations",
-      "posted_date": "07 Jul 2026",
-      "days_ago": 2,
-      "url": "https://job-boards.eu.greenhouse.io/ebury/jobs/4920992101",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "gh_ebury_4914455101",
       "title": "Senior Credit Risk Analyst - Private Market Funds",
       "company": "Ebury",
@@ -2373,6 +3096,21 @@
       "url": "https://job-boards.eu.greenhouse.io/ebury/jobs/4914455101",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5791310822",
+      "title": "CREDIT RISK ANALYST",
+      "company": "Eni",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "07 Jul 2026",
+      "days_ago": 2,
+      "url": "https://www.adzuna.co.uk/jobs/details/5791310822?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
       "tags": [
         "Finance"
       ]
@@ -2393,76 +3131,16 @@
       ]
     },
     {
-      "id": "az_5791310822",
-      "title": "CREDIT RISK ANALYST",
-      "company": "Eni",
+      "id": "az_5791188018",
+      "title": "Marketing Technology Analyst - Fisher Investments",
+      "company": "Fisher Investments",
       "location": "London, UK",
-      "department": "Accounting & Finance Jobs",
+      "department": "PR, Advertising & Marketing Jobs",
       "posted_date": "07 Jul 2026",
       "days_ago": 2,
-      "url": "https://www.adzuna.co.uk/jobs/details/5791310822?utm_medium=api&utm_source=348e4724",
+      "url": "https://www.adzuna.co.uk/jobs/details/5791188018?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_gocardless_8048176",
-      "title": "Financial Crime Risk Manager - 12 month FTC",
-      "company": "GoCardless",
-      "location": "Leeds, UK",
-      "department": "Risk",
-      "posted_date": "07 Jul 2026",
-      "days_ago": 2,
-      "url": "https://job-boards.greenhouse.io/gocardless/jobs/8048176",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "reed_57104030",
-      "title": "Product Analyst / Data Scientist",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "London",
-      "department": "",
-      "posted_date": "08 Jul 2026",
-      "days_ago": 2,
-      "url": "https://www.reed.co.uk/jobs/product-analyst-data-scientist/57104030",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
-      "id": "reed_57103526",
-      "title": "Senior Data Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "London",
-      "department": "",
-      "posted_date": "08 Jul 2026",
-      "days_ago": 2,
-      "url": "https://www.reed.co.uk/jobs/senior-data-analyst/57103526",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
-      "id": "reed_57104072",
-      "title": "Credit Risk Director",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "London",
-      "department": "",
-      "posted_date": "08 Jul 2026",
-      "days_ago": 2,
-      "url": "https://www.reed.co.uk/jobs/credit-risk-director/57104072",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
       "tags": [
         "Finance"
       ]
@@ -2506,6 +3184,51 @@
       "posted_date": "08 Jul 2026",
       "days_ago": 2,
       "url": "https://www.reed.co.uk/jobs/marketing-analyst-fintech-12-month-ftc/57103580",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "reed_57104030",
+      "title": "Product Analyst / Data Scientist",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "location": "London",
+      "department": "",
+      "posted_date": "08 Jul 2026",
+      "days_ago": 2,
+      "url": "https://www.reed.co.uk/jobs/product-analyst-data-scientist/57104030",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "reed_57103526",
+      "title": "Senior Data Analyst",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "location": "London",
+      "department": "",
+      "posted_date": "08 Jul 2026",
+      "days_ago": 2,
+      "url": "https://www.reed.co.uk/jobs/senior-data-analyst/57103526",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "reed_57104072",
+      "title": "Credit Risk Director",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "location": "London",
+      "department": "",
+      "posted_date": "08 Jul 2026",
+      "days_ago": 2,
+      "url": "https://www.reed.co.uk/jobs/credit-risk-director/57104072",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
@@ -2557,21 +3280,6 @@
       "tags": [
         "Finance",
         "Banking"
-      ]
-    },
-    {
-      "id": "az_5790632020",
-      "title": "Market Risk Business Analyst",
-      "company": "Hays",
-      "location": "London, UK",
-      "department": "IT Jobs",
-      "posted_date": "07 Jul 2026",
-      "days_ago": 2,
-      "url": "https://www.adzuna.co.uk/jobs/details/5790632020?utm_medium=api&utm_source=348e4724",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
       ]
     },
     {
@@ -2645,7 +3353,7 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "07 Jul 2026",
       "days_ago": 2,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5791143558?se=4jL3uxN88RGm9YHvQ8XokQ&utm_medium=api&utm_source=348e4724&v=3D1AE63FA7C9B5CE3F830DFC7CC144710F0F1018",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5791143558?se=Lq-qeER88RGD_JySugrbTQ&utm_medium=api&utm_source=348e4724&v=3D1AE63FA7C9B5CE3F830DFC7CC144710F0F1018",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -2676,6 +3384,51 @@
       "posted_date": "07 Jul 2026",
       "days_ago": 2,
       "url": "https://www.adzuna.co.uk/jobs/details/5791001016?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5791188053",
+      "title": "Macro Rates Investment Analyst / Assistant Portfolio Manager",
+      "company": "Octavius Finance",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "07 Jul 2026",
+      "days_ago": 2,
+      "url": "https://www.adzuna.co.uk/jobs/details/5791188053?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5791188037",
+      "title": "European IG Credit Analyst – Boutique Asset Manager, London",
+      "company": "Octavius Finance",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "07 Jul 2026",
+      "days_ago": 2,
+      "url": "https://www.adzuna.co.uk/jobs/details/5791188037?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5791100155",
+      "title": "Portfolio Implementation Analyst / Associate – Long/Short Equity",
+      "company": "Octavius Finance",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "07 Jul 2026",
+      "days_ago": 2,
+      "url": "https://www.adzuna.co.uk/jobs/details/5791100155?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -2774,6 +3527,36 @@
       ]
     },
     {
+      "id": "az_5791921406",
+      "title": "Business Systems Analyst",
+      "company": "Robert Half",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "08 Jul 2026",
+      "days_ago": 2,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5791921406?se=oPaMeER88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=A70AB8620A533384767CFBF69F0F62E04778861D",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5792104078",
+      "title": "Business Systems Analyst",
+      "company": "Robert Half Limited",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "08 Jul 2026",
+      "days_ago": 2,
+      "url": "https://www.adzuna.co.uk/jobs/details/5792104078?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "reed_57102960",
       "title": "Financial Accountant",
       "company": "Robert Walters",
@@ -2784,6 +3567,21 @@
       "url": "https://www.reed.co.uk/jobs/financial-accountant/57102960",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5791291870",
+      "title": "Excel Engineer - Front Office Investment Solutions - Selby Jennings",
+      "company": "Selby Jennings",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "07 Jul 2026",
+      "days_ago": 2,
+      "url": "https://www.adzuna.co.uk/jobs/details/5791291870?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
       "tags": [
         "Finance"
       ]
@@ -2949,7 +3747,7 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789970001?se=4jL3uxN88RGm9YHvQ8XokQ&utm_medium=api&utm_source=348e4724&v=10321F1A64FC0710C95FB90684F0FFC1EF650EFE",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789970001?se=Lq-qeER88RGD_JySugrbTQ&utm_medium=api&utm_source=348e4724&v=10321F1A64FC0710C95FB90684F0FFC1EF650EFE",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -3002,14 +3800,14 @@
       ]
     },
     {
-      "id": "gh_gocardless_8045004",
-      "title": "People Advisor",
+      "id": "gh_gocardless_8048176",
+      "title": "Financial Crime Risk Manager - 12 month FTC",
       "company": "GoCardless",
       "location": "Leeds, UK",
-      "department": "People",
-      "posted_date": "06 Jul 2026",
+      "department": "Risk",
+      "posted_date": "07 Jul 2026",
       "days_ago": 3,
-      "url": "https://job-boards.greenhouse.io/gocardless/jobs/8045004",
+      "url": "https://job-boards.greenhouse.io/gocardless/jobs/8048176",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -3047,6 +3845,21 @@
       ]
     },
     {
+      "id": "az_5790632020",
+      "title": "Market Risk Business Analyst",
+      "company": "Hays",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "07 Jul 2026",
+      "days_ago": 3,
+      "url": "https://www.adzuna.co.uk/jobs/details/5790632020?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "az_5790190279",
       "title": "FI Business Analyst",
       "company": "Hays Specialist Recruitment Limited",
@@ -3069,7 +3882,7 @@
       "department": "IT Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5790072344?se=hAjzuxN88RGT9KdMukCbjQ&utm_medium=api&utm_source=348e4724&v=3873D7829BA4F91F6EF1AC56AEAA45F9E323B65B",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5790072344?se=oPaMeER88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=3873D7829BA4F91F6EF1AC56AEAA45F9E323B65B",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -3084,7 +3897,7 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5790220040?se=4jL3uxN88RGm9YHvQ8XokQ&utm_medium=api&utm_source=348e4724&v=16747752BEE679D9B07B337C9A128AACE98854EA",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5790220040?se=Lq-qeER88RGD_JySugrbTQ&utm_medium=api&utm_source=348e4724&v=16747752BEE679D9B07B337C9A128AACE98854EA",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -3266,7 +4079,7 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789989691?se=4jL3uxN88RGm9YHvQ8XokQ&utm_medium=api&utm_source=348e4724&v=3DDAFB2E89F75950BE48E28F880F95D65F968A77",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789989691?se=Lq-qeER88RGD_JySugrbTQ&utm_medium=api&utm_source=348e4724&v=3DDAFB2E89F75950BE48E28F880F95D65F968A77",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -3311,7 +4124,7 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5790011875?se=hAjzuxN88RGT9KdMukCbjQ&utm_medium=api&utm_source=348e4724&v=343D2495C03035890A26CFA3D80859FE0533B2EC",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5790011875?se=oPaMeER88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=343D2495C03035890A26CFA3D80859FE0533B2EC",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -3335,6 +4148,36 @@
         "Data & Analytics",
         "Finance",
         "Consulting"
+      ]
+    },
+    {
+      "id": "az_5790017281",
+      "title": "Middle Office Business Analyst",
+      "company": "Sanderson",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "06 Jul 2026",
+      "days_ago": 3,
+      "url": "https://www.adzuna.co.uk/jobs/details/5790017281?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5789969083",
+      "title": "Middle Office Business Analyst",
+      "company": "Sanderson Recruitment",
+      "location": "The City, Central London",
+      "department": "IT Jobs",
+      "posted_date": "06 Jul 2026",
+      "days_ago": 3,
+      "url": "https://www.adzuna.co.uk/jobs/details/5789969083?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
       ]
     },
     {
@@ -3451,7 +4294,7 @@
       "department": "IT Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789989718?se=4jL3uxN88RGm9YHvQ8XokQ&utm_medium=api&utm_source=348e4724&v=1745CD394371E49892C013CBBE48DA149F3C97AB",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789989718?se=Lq-qeER88RGD_JySugrbTQ&utm_medium=api&utm_source=348e4724&v=1745CD394371E49892C013CBBE48DA149F3C97AB",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -3466,26 +4309,11 @@
       "department": "IT Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789989573?se=4jL3uxN88RGm9YHvQ8XokQ&utm_medium=api&utm_source=348e4724&v=4264FEEE4FB81FAF06C320E6C6F12255EF52B3EB",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789989573?se=Lq-qeER88RGD_JySugrbTQ&utm_medium=api&utm_source=348e4724&v=4264FEEE4FB81FAF06C320E6C6F12255EF52B3EB",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
         "Data & Analytics"
-      ]
-    },
-    {
-      "id": "az_5789592108",
-      "title": "Quant Analyst",
-      "company": "The Opportunity Hub UK",
-      "location": "London, UK",
-      "department": "IT Jobs",
-      "posted_date": "06 Jul 2026",
-      "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/details/5789592108?utm_medium=api&utm_source=348e4724",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
       ]
     },
     {
@@ -3504,21 +4332,6 @@
       ]
     },
     {
-      "id": "az_5789988074",
-      "title": "Associate, Client Services - Swedish Speaker (2027 Start)",
-      "company": "Third Bridge Group",
-      "location": "London, UK",
-      "department": "Sales Jobs",
-      "posted_date": "06 Jul 2026",
-      "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988074?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=F6C2710EEC034EE1E668D685CAEED41F7A504623",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "az_5789988092",
       "title": "Associate, Client Services - Japanese Speaker",
       "company": "Third Bridge Group",
@@ -3526,7 +4339,7 @@
       "department": "Sales Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988092?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=EEED3496FD8A80BBCC3854C1DF96205C4D6FE964",
+      "url": "https://www.adzuna.co.uk/jobs/details/5789988092?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -3534,149 +4347,14 @@
       ]
     },
     {
-      "id": "az_5789988035",
-      "title": "Associate, Client Services - French Speaker (2027 Start)",
+      "id": "az_5789988074",
+      "title": "Associate, Client Services - Swedish Speaker (2027 Start)",
       "company": "Third Bridge Group",
       "location": "London, UK",
       "department": "Sales Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988035?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=1380FCE23BA949EB7842E3E51D7E9EA63441E9A7",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "az_5789988059",
-      "title": "Associate, Client Services - Nordic Languages Speaker (2027 Start)",
-      "company": "Third Bridge Group",
-      "location": "London, UK",
-      "department": "Sales Jobs",
-      "posted_date": "06 Jul 2026",
-      "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988059?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=DFBFF993BA0F9050CE30F49CA53F9C4D32BC9EF0",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "az_5789988031",
-      "title": "Associate, Client Services - Danish Speaker",
-      "company": "Third Bridge Group",
-      "location": "London, UK",
-      "department": "Sales Jobs",
-      "posted_date": "06 Jul 2026",
-      "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988031?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=2469CC7162C56E3371E3B575D2D40B90AD896403",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "az_5789988024",
-      "title": "Associate, Client Services - Korean Speaker",
-      "company": "Third Bridge Group",
-      "location": "London, UK",
-      "department": "Sales Jobs",
-      "posted_date": "06 Jul 2026",
-      "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988024?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=0C111A2FDDD160CD9F35A9D893C77FEE3EF81C15",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "az_5789988046",
-      "title": "Associate, Client Services - Norwegian Speaker",
-      "company": "Third Bridge Group",
-      "location": "London, UK",
-      "department": "Sales Jobs",
-      "posted_date": "06 Jul 2026",
-      "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988046?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=A602B449ED9529E79B4B178FEF58975F2EB01D56",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "az_5789988062",
-      "title": "Associate, Client Services - Polish Speaker",
-      "company": "Third Bridge Group",
-      "location": "London, UK",
-      "department": "Sales Jobs",
-      "posted_date": "06 Jul 2026",
-      "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988062?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=1E370514E54570D76A176869121AA717FC43450D",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "az_5789988042",
-      "title": "Associate, Client Services - Norwegian Speaker (2027 Start)",
-      "company": "Third Bridge Group",
-      "location": "London, UK",
-      "department": "Sales Jobs",
-      "posted_date": "06 Jul 2026",
-      "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988042?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=5871BAB51A8C530FF9255D4D208F1AF4C291F77C",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "az_5789988044",
-      "title": "Associate, Client Services - Danish Speaker (2027 Start)",
-      "company": "Third Bridge Group",
-      "location": "London, UK",
-      "department": "Sales Jobs",
-      "posted_date": "06 Jul 2026",
-      "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988044?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=0374807FC896067DC3989D1E2778F56D82A0D061",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "az_5789988015",
-      "title": "Associate, Client Services - Italian Speaker",
-      "company": "Third Bridge Group",
-      "location": "London, UK",
-      "department": "Sales Jobs",
-      "posted_date": "06 Jul 2026",
-      "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988015?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=D37CCC80053F4891AFAB3259A5520E3E08A98093",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "az_5789988023",
-      "title": "Associate, Client Services - Polish Speaker (2027 Start)",
-      "company": "Third Bridge Group",
-      "location": "London, UK",
-      "department": "Sales Jobs",
-      "posted_date": "06 Jul 2026",
-      "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988023?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=029BFDFA25FB6BFFBF505A06C5E10033B9FDDCDC",
+      "url": "https://www.adzuna.co.uk/jobs/details/5789988074?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -3691,7 +4369,157 @@
       "department": "Sales Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988006?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=1828D38E17C7BCF36501E645A38FEC7C51A51D34",
+      "url": "https://www.adzuna.co.uk/jobs/details/5789988006?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5789988042",
+      "title": "Associate, Client Services - Norwegian Speaker (2027 Start)",
+      "company": "Third Bridge Group",
+      "location": "London, UK",
+      "department": "Sales Jobs",
+      "posted_date": "06 Jul 2026",
+      "days_ago": 3,
+      "url": "https://www.adzuna.co.uk/jobs/details/5789988042?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5789988023",
+      "title": "Associate, Client Services - Polish Speaker (2027 Start)",
+      "company": "Third Bridge Group",
+      "location": "London, UK",
+      "department": "Sales Jobs",
+      "posted_date": "06 Jul 2026",
+      "days_ago": 3,
+      "url": "https://www.adzuna.co.uk/jobs/details/5789988023?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5789988046",
+      "title": "Associate, Client Services - Norwegian Speaker",
+      "company": "Third Bridge Group",
+      "location": "London, UK",
+      "department": "Sales Jobs",
+      "posted_date": "06 Jul 2026",
+      "days_ago": 3,
+      "url": "https://www.adzuna.co.uk/jobs/details/5789988046?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5789988035",
+      "title": "Associate, Client Services - French Speaker (2027 Start)",
+      "company": "Third Bridge Group",
+      "location": "London, UK",
+      "department": "Sales Jobs",
+      "posted_date": "06 Jul 2026",
+      "days_ago": 3,
+      "url": "https://www.adzuna.co.uk/jobs/details/5789988035?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5789988044",
+      "title": "Associate, Client Services - Danish Speaker (2027 Start)",
+      "company": "Third Bridge Group",
+      "location": "London, UK",
+      "department": "Sales Jobs",
+      "posted_date": "06 Jul 2026",
+      "days_ago": 3,
+      "url": "https://www.adzuna.co.uk/jobs/details/5789988044?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5789988059",
+      "title": "Associate, Client Services - Nordic Languages Speaker (2027 Start)",
+      "company": "Third Bridge Group",
+      "location": "London, UK",
+      "department": "Sales Jobs",
+      "posted_date": "06 Jul 2026",
+      "days_ago": 3,
+      "url": "https://www.adzuna.co.uk/jobs/details/5789988059?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5789988062",
+      "title": "Associate, Client Services - Polish Speaker",
+      "company": "Third Bridge Group",
+      "location": "London, UK",
+      "department": "Sales Jobs",
+      "posted_date": "06 Jul 2026",
+      "days_ago": 3,
+      "url": "https://www.adzuna.co.uk/jobs/details/5789988062?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5789988015",
+      "title": "Associate, Client Services - Italian Speaker",
+      "company": "Third Bridge Group",
+      "location": "London, UK",
+      "department": "Sales Jobs",
+      "posted_date": "06 Jul 2026",
+      "days_ago": 3,
+      "url": "https://www.adzuna.co.uk/jobs/details/5789988015?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5789988031",
+      "title": "Associate, Client Services - Danish Speaker",
+      "company": "Third Bridge Group",
+      "location": "London, UK",
+      "department": "Sales Jobs",
+      "posted_date": "06 Jul 2026",
+      "days_ago": 3,
+      "url": "https://www.adzuna.co.uk/jobs/details/5789988031?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5789988024",
+      "title": "Associate, Client Services - Korean Speaker",
+      "company": "Third Bridge Group",
+      "location": "London, UK",
+      "department": "Sales Jobs",
+      "posted_date": "06 Jul 2026",
+      "days_ago": 3,
+      "url": "https://www.adzuna.co.uk/jobs/details/5789988024?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -3706,7 +4534,7 @@
       "department": "Sales Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789987986?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=455B908F88C5F840ACCE215BEED94421942F2830",
+      "url": "https://www.adzuna.co.uk/jobs/details/5789987986?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -3721,7 +4549,7 @@
       "department": "Sales Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789987984?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=833768B74FCA8C45A967E80EDB876FDB74101092",
+      "url": "https://www.adzuna.co.uk/jobs/details/5789987984?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -3736,7 +4564,7 @@
       "department": "Sales Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789987691?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=A003CBAE941D00C48BE22912F05489D64265F909",
+      "url": "https://www.adzuna.co.uk/jobs/details/5789987691?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -3751,7 +4579,7 @@
       "department": "Sales Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789987507?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=7B3E94E3C224D02362878731FA02B780CDD0036F",
+      "url": "https://www.adzuna.co.uk/jobs/details/5789987507?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -3766,7 +4594,7 @@
       "department": "Sales Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789987345?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=0CF5F2CFBB857C932564599A7D3E882AED854A16",
+      "url": "https://www.adzuna.co.uk/jobs/details/5789987345?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -3781,7 +4609,7 @@
       "department": "Sales Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789987333?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=51BE7F8EDC34FE18BF9EE684230BD566F5CFDDCA",
+      "url": "https://www.adzuna.co.uk/jobs/details/5789987333?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -3796,7 +4624,7 @@
       "department": "Sales Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789987310?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=8908B5203D92976EE19FD357BCF0AB79E3D37448",
+      "url": "https://www.adzuna.co.uk/jobs/details/5789987310?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -3811,7 +4639,7 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988524?se=4jL3uxN88RGm9YHvQ8XokQ&utm_medium=api&utm_source=348e4724&v=9F46022709EECEE3C0A627DD6D4F0FE809D97BDF",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988524?se=Lq-qeER88RGD_JySugrbTQ&utm_medium=api&utm_source=348e4724&v=9F46022709EECEE3C0A627DD6D4F0FE809D97BDF",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -3826,7 +4654,7 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988679?se=hAjzuxN88RGT9KdMukCbjQ&utm_medium=api&utm_source=348e4724&v=5543D21E2925CFBACAEA48EC0059477AD72BFED3",
+      "url": "https://www.adzuna.co.uk/jobs/details/5789988679?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -3879,6 +4707,21 @@
       ]
     },
     {
+      "id": "gh_gocardless_8045004",
+      "title": "People Advisor",
+      "company": "GoCardless",
+      "location": "Leeds, UK",
+      "department": "People",
+      "posted_date": "06 Jul 2026",
+      "days_ago": 4,
+      "url": "https://job-boards.greenhouse.io/gocardless/jobs/8045004",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "reed_57095036",
       "title": "Finance Analyst",
       "company": "Harper May Ltd",
@@ -3894,21 +4737,6 @@
       ]
     },
     {
-      "id": "reed_57093658",
-      "title": "Business Analyst",
-      "company": "Hays Specialist Recruitment Limited",
-      "location": "London",
-      "department": "",
-      "posted_date": "06 Jul 2026",
-      "days_ago": 4,
-      "url": "https://www.reed.co.uk/jobs/business-analyst/57093658",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "reed_57094582",
       "title": "FI Business Analyst",
       "company": "Hays Specialist Recruitment Limited",
@@ -3917,6 +4745,21 @@
       "posted_date": "06 Jul 2026",
       "days_ago": 4,
       "url": "https://www.reed.co.uk/jobs/fi-business-analyst/57094582",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "reed_57093658",
+      "title": "Business Analyst",
+      "company": "Hays Specialist Recruitment Limited",
+      "location": "London",
+      "department": "",
+      "posted_date": "06 Jul 2026",
+      "days_ago": 4,
+      "url": "https://www.reed.co.uk/jobs/business-analyst/57093658",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
@@ -4412,6 +5255,36 @@
       ]
     },
     {
+      "id": "az_5787404512",
+      "title": "Vice President, Equity Research Analyst - Mining & Gold (Sector & Thematics Team)",
+      "company": "BlackRock",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "04 Jul 2026",
+      "days_ago": 6,
+      "url": "https://www.adzuna.co.uk/jobs/details/5787404512?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5786751376",
+      "title": "Vice President, Equity Research Analyst - Mining & Gold (Sector & Thematics Team)",
+      "company": "BlackRock",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "03 Jul 2026",
+      "days_ago": 6,
+      "url": "https://www.adzuna.co.uk/jobs/details/5786751376?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "gh_blockchain_8045355",
       "title": "Business Analyst",
       "company": "Blockchain.com",
@@ -4422,21 +5295,6 @@
       "url": "https://job-boards.greenhouse.io/blockchain/jobs/8045355",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "az_5786752621",
-      "title": "AI Business Analyst - Insurance",
-      "company": "Capco",
-      "location": "London, UK",
-      "department": "IT Jobs",
-      "posted_date": "03 Jul 2026",
-      "days_ago": 6,
-      "url": "https://www.adzuna.co.uk/jobs/details/5786752621?utm_medium=api&utm_source=348e4724",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
       "tags": [
         "Finance"
       ]
@@ -4540,6 +5398,21 @@
       ]
     },
     {
+      "id": "az_5786752621",
+      "title": "AI Business Analyst - Insurance",
+      "company": "Capco",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "03 Jul 2026",
+      "days_ago": 6,
+      "url": "https://www.adzuna.co.uk/jobs/details/5786752621?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "az_5786762875",
       "title": "Business Analyst",
       "company": "Emagine Consulting",
@@ -4570,6 +5443,36 @@
       ]
     },
     {
+      "id": "az_5786751199",
+      "title": "Private Wealth Management, Strategic Investment Strategy Group, Analyst/Associate, London",
+      "company": "Goldman Sachs",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "03 Jul 2026",
+      "days_ago": 6,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5786751199?se=uMR-eER88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=61FC8CF45262F522013A2C425FA820A8E702E416",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5787408771",
+      "title": "Global Technology/Semiconductors Equitiy Analyst",
+      "company": "HSBC",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "04 Jul 2026",
+      "days_ago": 6,
+      "url": "https://www.adzuna.co.uk/jobs/details/5787408771?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "az_5786750319",
       "title": "Risk Analyst",
       "company": "Informed Recruitment",
@@ -4585,6 +5488,22 @@
       ]
     },
     {
+      "id": "az_5786761550",
+      "title": "Investment Banking – EMEA Healthcare Analyst – London",
+      "company": "JPMorganChase",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "03 Jul 2026",
+      "days_ago": 6,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5786761550?se=uMR-eER88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=4A95F7927A82DB34961223BAD0126622C61B8140",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance",
+        "Banking"
+      ]
+    },
+    {
       "id": "gh_liberis_8042970",
       "title": "Head of Credit & Commercial Strategy",
       "company": "Liberis",
@@ -4593,21 +5512,6 @@
       "posted_date": "03 Jul 2026",
       "days_ago": 6,
       "url": "https://job-boards.greenhouse.io/liberis/jobs/8042970",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_liberis_8042983",
-      "title": "Head of Credit Risk Management - Embedded Finance",
-      "company": "Liberis",
-      "location": "London",
-      "department": "Risk",
-      "posted_date": "03 Jul 2026",
-      "days_ago": 6,
-      "url": "https://job-boards.greenhouse.io/liberis/jobs/8042983",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -4627,6 +5531,37 @@
       "source_system": "Adzuna",
       "tags": [
         "Finance"
+      ]
+    },
+    {
+      "id": "az_5786751993",
+      "title": "Investment Analyst",
+      "company": "Manulife",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "03 Jul 2026",
+      "days_ago": 6,
+      "url": "https://www.adzuna.co.uk/jobs/details/5786751993?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5786752679",
+      "title": "Mizuho | Greenhill - Investment Banking Analyst - London",
+      "company": "Mizuho",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "03 Jul 2026",
+      "days_ago": 6,
+      "url": "https://www.adzuna.co.uk/jobs/details/5786752679?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance",
+        "Banking"
       ]
     },
     {
@@ -4660,19 +5595,34 @@
       ]
     },
     {
-      "id": "lv_zopa_a64dc6ca-47fb-491b-8d7d-d1a69c815270",
-      "title": "Risk Delivery Manager (Operational Resilience & Third Party Risk)",
-      "company": "Zopa",
-      "location": "London",
-      "department": "1LOD Ops Risk",
-      "commitment": "Employee - Permanent",
+      "id": "az_5786840881",
+      "title": "Investment Analyst - Hedge Fund Investor Relations - Wellington Management Company, LLP",
+      "company": "Wellington Management Company, LLP",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
       "posted_date": "03 Jul 2026",
       "days_ago": 6,
-      "url": "https://jobs.lever.co/zopa/a64dc6ca-47fb-491b-8d7d-d1a69c815270",
+      "url": "https://www.adzuna.co.uk/jobs/details/5786840881?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
-      "source_system": "Lever",
+      "source_system": "Adzuna",
       "tags": [
         "Finance"
+      ]
+    },
+    {
+      "id": "az_5786761991",
+      "title": "Investment Banking Analyst, Services & Industrials",
+      "company": "William Blair",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "03 Jul 2026",
+      "days_ago": 6,
+      "url": "https://www.adzuna.co.uk/jobs/details/5786761991?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance",
+        "Banking"
       ]
     },
     {
@@ -4721,22 +5671,6 @@
       ]
     },
     {
-      "id": "az_5785363289",
-      "title": "Risk Analytics Analyst",
-      "company": "Davies",
-      "location": "Monument, Central London",
-      "department": "Accounting & Finance Jobs",
-      "posted_date": "02 Jul 2026",
-      "days_ago": 7,
-      "url": "https://www.adzuna.co.uk/jobs/details/5785363289?utm_medium=api&utm_source=348e4724",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Data & Analytics",
-        "Finance"
-      ]
-    },
-    {
       "id": "az_5785686529",
       "title": "Senior Consultant – Business Analyst - Delta Capita Limited",
       "company": "Delta Capita Limited",
@@ -4762,6 +5696,66 @@
       "url": "https://www.reed.co.uk/jobs/business-analyst/57086425",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5785932484",
+      "title": "Institutional Client Onboarding Analyst - Fisher Investments",
+      "company": "Fisher Investments",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "02 Jul 2026",
+      "days_ago": 7,
+      "url": "https://www.adzuna.co.uk/jobs/details/5785932484?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5785792383",
+      "title": "Finance Analyst - Private Equity",
+      "company": "Goodman Masson",
+      "location": "Farringdon, Central London",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "02 Jul 2026",
+      "days_ago": 7,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5785792383?se=uMR-eER88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=F3EDC1899F6487DF8E819349152DC0798086A57C",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5785769066",
+      "title": "Finance Analyst - Private Equity",
+      "company": "Goodman Masson",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "02 Jul 2026",
+      "days_ago": 7,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5785769066?se=uMR-eER88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=13F00C39B603D4F68E7653F26B79E655996C0648",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5785765343",
+      "title": "Finance Analyst - Private Equity - Goodman Masson",
+      "company": "Goodman Masson",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "02 Jul 2026",
+      "days_ago": 7,
+      "url": "https://www.adzuna.co.uk/jobs/details/5785765343?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
       "tags": [
         "Finance"
       ]
@@ -4805,7 +5799,7 @@
       "department": "IT Jobs",
       "posted_date": "02 Jul 2026",
       "days_ago": 7,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5785715354?se=4jL3uxN88RGm9YHvQ8XokQ&utm_medium=api&utm_source=348e4724&v=07DC2DE7E9FBE0C728C0B8BFB7BA0D451EAE0601",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5785715354?se=Lq-qeER88RGD_JySugrbTQ&utm_medium=api&utm_source=348e4724&v=07DC2DE7E9FBE0C728C0B8BFB7BA0D451EAE0601",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -4828,6 +5822,22 @@
       ]
     },
     {
+      "id": "az_5785369948",
+      "title": "Investment Banking - UK Natural Resources - Analyst – London",
+      "company": "JPMorganChase",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "02 Jul 2026",
+      "days_ago": 7,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5785369948?se=uMR-eER88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=5FDA5BA5BFEDD6943B759DED175FD38ABE4BFD7F",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance",
+        "Banking"
+      ]
+    },
+    {
       "id": "reed_57086900",
       "title": "Data Analyst",
       "company": "Julie Rose Recruitment",
@@ -4843,6 +5853,21 @@
       ]
     },
     {
+      "id": "gh_liberis_8042983",
+      "title": "Head of Credit Risk Management - Embedded Finance",
+      "company": "Liberis",
+      "location": "London",
+      "department": "Risk",
+      "posted_date": "03 Jul 2026",
+      "days_ago": 7,
+      "url": "https://job-boards.greenhouse.io/liberis/jobs/8042983",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "reed_57086894",
       "title": "Financial Crime Business Analyst, (1LoD and 2LoD)",
       "company": "M&G",
@@ -4853,36 +5878,6 @@
       "url": "https://www.reed.co.uk/jobs/financial-crime-business-analyst-1lod-and-2lod/57086894",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_mangroup_4909555101",
-      "title": "Proxy Voting, Operations Analyst",
-      "company": "Man Group",
-      "location": "London",
-      "department": "Operations",
-      "posted_date": "02 Jul 2026",
-      "days_ago": 7,
-      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4909555101",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_mangroup_4909554101",
-      "title": "Proxy Voting, Senior Analyst",
-      "company": "Man Group",
-      "location": "London",
-      "department": "Operations",
-      "posted_date": "02 Jul 2026",
-      "days_ago": 7,
-      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4909554101",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
       "tags": [
         "Finance"
       ]
@@ -4913,21 +5908,6 @@
       "url": "https://www.adzuna.co.uk/jobs/details/5785634652?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_monzo_8043038",
-      "title": "Financial Health Strategy Manager ",
-      "company": "Monzo",
-      "location": "Cardiff, London or Remote (UK)",
-      "department": "Borrowing",
-      "posted_date": "02 Jul 2026",
-      "days_ago": 7,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/8043038",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
       "tags": [
         "Finance"
       ]
@@ -5000,7 +5980,7 @@
       "department": "Trade & Construction Jobs",
       "posted_date": "02 Jul 2026",
       "days_ago": 7,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5785411700?se=hAjzuxN88RGT9KdMukCbjQ&utm_medium=api&utm_source=348e4724&v=D097C0EC44079B8171219A8FF12A3AFA43F9D970",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5785411700?se=oPaMeER88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=D097C0EC44079B8171219A8FF12A3AFA43F9D970",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -5015,7 +5995,7 @@
       "department": "Trade & Construction Jobs",
       "posted_date": "02 Jul 2026",
       "days_ago": 7,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5785451777?se=hAjzuxN88RGT9KdMukCbjQ&utm_medium=api&utm_source=348e4724&v=F7E9B5235EC1C5AA1CAC1B4F3F60C4E4CD715ACB",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5785451777?se=oPaMeER88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=F7E9B5235EC1C5AA1CAC1B4F3F60C4E4CD715ACB",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -5053,6 +6033,21 @@
       ]
     },
     {
+      "id": "az_5785797288",
+      "title": "Regulatory & Infrastructure Investment Analyst",
+      "company": "Reed",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "02 Jul 2026",
+      "days_ago": 7,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5785797288?se=uMR-eER88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=BEA9C8703FA0A5BE5CCFDBAE496013596CA1C126",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "az_5785607091",
       "title": "Analyst, Quantitative Market Risk",
       "company": "Robert Walters",
@@ -5061,6 +6056,21 @@
       "posted_date": "02 Jul 2026",
       "days_ago": 7,
       "url": "https://www.adzuna.co.uk/jobs/details/5785607091?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5785626449",
+      "title": "Implementation Business Analyst - Investments",
+      "company": "Sanderson",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "02 Jul 2026",
+      "days_ago": 7,
+      "url": "https://www.adzuna.co.uk/jobs/details/5785626449?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -5114,16 +6124,17 @@
       ]
     },
     {
-      "id": "az_5785362281",
-      "title": "Credit Analyst II",
-      "company": "Worldpay",
-      "location": "London, UK",
-      "department": "Accounting & Finance Jobs",
-      "posted_date": "02 Jul 2026",
+      "id": "lv_zopa_a64dc6ca-47fb-491b-8d7d-d1a69c815270",
+      "title": "Risk Delivery Manager (Operational Resilience & Third Party Risk)",
+      "company": "Zopa",
+      "location": "London",
+      "department": "1LOD Ops Risk",
+      "commitment": "Employee - Permanent",
+      "posted_date": "03 Jul 2026",
       "days_ago": 7,
-      "url": "https://www.adzuna.co.uk/jobs/details/5785362281?utm_medium=api&utm_source=348e4724",
+      "url": "https://jobs.lever.co/zopa/a64dc6ca-47fb-491b-8d7d-d1a69c815270",
       "source": "Company Career Page",
-      "source_system": "Adzuna",
+      "source_system": "Lever",
       "tags": [
         "Finance"
       ]
@@ -5206,6 +6217,21 @@
       ]
     },
     {
+      "id": "az_5783520903",
+      "title": "Commodities Analyst / Trader",
+      "company": "Anson McCade",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "01 Jul 2026",
+      "days_ago": 8,
+      "url": "https://www.adzuna.co.uk/jobs/details/5783520903?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "az_5784100740",
       "title": "Management Consultant",
       "company": "Bright Executive",
@@ -5246,6 +6272,21 @@
       "url": "https://job-boards.greenhouse.io/capco/jobs/8028447",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5783905975",
+      "title": "Equity Analyst",
+      "company": "Credo",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "01 Jul 2026",
+      "days_ago": 8,
+      "url": "https://www.adzuna.co.uk/jobs/details/5783905975?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
       "tags": [
         "Finance"
       ]
@@ -5387,6 +6428,21 @@
       ]
     },
     {
+      "id": "az_5784657422",
+      "title": "Senior Investment Risk Analyst",
+      "company": "Janus Henderson Investors",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "02 Jul 2026",
+      "days_ago": 8,
+      "url": "https://www.adzuna.co.uk/jobs/details/5784657422?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "reed_57080956",
       "title": "Digital Business Analyst",
       "company": "Lorien",
@@ -5402,6 +6458,51 @@
       ]
     },
     {
+      "id": "az_5783858758",
+      "title": "Senior Investment Analyst - Real Estate Investor - Macdonald & Company",
+      "company": "Macdonald & Company",
+      "location": "London, UK",
+      "department": "Property Jobs",
+      "posted_date": "01 Jul 2026",
+      "days_ago": 8,
+      "url": "https://www.adzuna.co.uk/jobs/details/5783858758?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_mangroup_4909555101",
+      "title": "Proxy Voting, Operations Analyst",
+      "company": "Man Group",
+      "location": "London",
+      "department": "Operations",
+      "posted_date": "02 Jul 2026",
+      "days_ago": 8,
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4909555101",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_mangroup_4909554101",
+      "title": "Proxy Voting, Senior Analyst",
+      "company": "Man Group",
+      "location": "London",
+      "department": "Operations",
+      "posted_date": "02 Jul 2026",
+      "days_ago": 8,
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4909554101",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "az_5783907613",
       "title": "DC Pensions Investment Consultant",
       "company": "Marsh McLennan",
@@ -5409,7 +6510,7 @@
       "department": "Consultancy Jobs",
       "posted_date": "01 Jul 2026",
       "days_ago": 8,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5783907613?se=hAjzuxN88RGT9KdMukCbjQ&utm_medium=api&utm_source=348e4724&v=5C7C63B1826A321931DCF176A9B76F177066C480",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5783907613?se=oPaMeER88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=5C7C63B1826A321931DCF176A9B76F177066C480",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -5448,14 +6549,14 @@
       ]
     },
     {
-      "id": "gh_monzo_8038447",
-      "title": "Security Awareness Analyst",
+      "id": "gh_monzo_8043038",
+      "title": "Financial Health Strategy Manager ",
       "company": "Monzo",
       "location": "Cardiff, London or Remote (UK)",
-      "department": "Information Security",
-      "posted_date": "01 Jul 2026",
+      "department": "Borrowing",
+      "posted_date": "02 Jul 2026",
       "days_ago": 8,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/8038447",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8043038",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -5523,21 +6624,6 @@
       ]
     },
     {
-      "id": "reed_57084524",
-      "title": "Credit Analyst",
-      "company": "Reed",
-      "location": "EC2N4BQ",
-      "department": "",
-      "posted_date": "02 Jul 2026",
-      "days_ago": 8,
-      "url": "https://www.reed.co.uk/jobs/credit-analyst/57084524",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "reed_57083508",
       "title": "Regulatory & Infrastructure Investment Analyst",
       "company": "Reed",
@@ -5546,6 +6632,21 @@
       "posted_date": "02 Jul 2026",
       "days_ago": 8,
       "url": "https://www.reed.co.uk/jobs/regulatory-infrastructure-investment-analyst/57083508",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "reed_57084524",
+      "title": "Credit Analyst",
+      "company": "Reed",
+      "location": "EC2N4BQ",
+      "department": "",
+      "posted_date": "02 Jul 2026",
+      "days_ago": 8,
+      "url": "https://www.reed.co.uk/jobs/credit-analyst/57084524",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
@@ -5569,6 +6670,21 @@
       ]
     },
     {
+      "id": "az_5784101260",
+      "title": "Investment Operations Project/Change Analyst",
+      "company": "Sanderson",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "01 Jul 2026",
+      "days_ago": 8,
+      "url": "https://www.adzuna.co.uk/jobs/details/5784101260?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "reed_57081478",
       "title": "Implementation Business Analyst - Investments",
       "company": "Sanderson ",
@@ -5579,6 +6695,21 @@
       "url": "https://www.reed.co.uk/jobs/implementation-business-analyst-investments/57081478",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5784062738",
+      "title": "Investment Risk Analyst - Leading Global Asset Manager",
+      "company": "Selby Jennings London",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "01 Jul 2026",
+      "days_ago": 8,
+      "url": "https://www.adzuna.co.uk/jobs/details/5784062738?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
       "tags": [
         "Finance"
       ]
@@ -5625,6 +6756,21 @@
       "url": "https://www.reed.co.uk/jobs/claims-delegated-authority-analyst/57082804",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5782848895",
+      "title": "Commodities Analyst / Trader",
+      "company": "Anson Mccade",
+      "location": "Central London, London",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "01 Jul 2026",
+      "days_ago": 9,
+      "url": "https://www.adzuna.co.uk/jobs/details/5782848895?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
       "tags": [
         "Finance"
       ]
@@ -5873,6 +7019,21 @@
       ]
     },
     {
+      "id": "az_5782254947",
+      "title": "Relative Value/Macro Hedge Fund Associate - London",
+      "company": "JPMorganChase",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "30 Jun 2026",
+      "days_ago": 9,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5782254947?se=uMR-eER88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=92EE5DCA24E683355A0A1F011DA2252AB26EE976",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "reed_57078582",
       "title": "Senior Finance Analyst",
       "company": "Michael Page Banking",
@@ -5903,6 +7064,21 @@
       ]
     },
     {
+      "id": "gh_monzo_8038447",
+      "title": "Security Awareness Analyst",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Information Security",
+      "posted_date": "01 Jul 2026",
+      "days_ago": 9,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8038447",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "reed_57078421",
       "title": "Trainee Graduate Analyst, Incident Response",
       "company": "Newto Training",
@@ -5911,6 +7087,21 @@
       "posted_date": "01 Jul 2026",
       "days_ago": 9,
       "url": "https://www.reed.co.uk/jobs/trainee-graduate-analyst-incident-response/57078421",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate"
+      ]
+    },
+    {
+      "id": "reed_57079413",
+      "title": "Graduate Ethical Hacker",
+      "company": "Newto Training",
+      "location": "London",
+      "department": "",
+      "posted_date": "01 Jul 2026",
+      "days_ago": 9,
+      "url": "https://www.reed.co.uk/jobs/graduate-ethical-hacker/57079413",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
@@ -5941,21 +7132,6 @@
       "posted_date": "01 Jul 2026",
       "days_ago": 9,
       "url": "https://www.reed.co.uk/jobs/graduate-ethical-hacker/57079400",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate"
-      ]
-    },
-    {
-      "id": "reed_57079413",
-      "title": "Graduate Ethical Hacker",
-      "company": "Newto Training",
-      "location": "London",
-      "department": "",
-      "posted_date": "01 Jul 2026",
-      "days_ago": 9,
-      "url": "https://www.reed.co.uk/jobs/graduate-ethical-hacker/57079413",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
@@ -6027,21 +7203,6 @@
       ]
     },
     {
-      "id": "az_5781825086",
-      "title": "Business Analyst",
-      "company": "OpenSourced Ltd",
-      "location": "London, UK",
-      "department": "IT Jobs",
-      "posted_date": "30 Jun 2026",
-      "days_ago": 9,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5781825086?se=hAjzuxN88RGT9KdMukCbjQ&utm_medium=api&utm_source=348e4724&v=03B53604AE3CE4344D938881B36A918603417AA9",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "reed_57077082",
       "title": "Finance Analyst",
       "company": "Pinpoint Resourcing Ltd",
@@ -6088,21 +7249,6 @@
       ]
     },
     {
-      "id": "reed_57075910",
-      "title": "Data Quality Analyst",
-      "company": "Sanderson ",
-      "location": "London",
-      "department": "",
-      "posted_date": "01 Jul 2026",
-      "days_ago": 9,
-      "url": "https://www.reed.co.uk/jobs/data-quality-analyst/57075910",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
       "id": "reed_57079545",
       "title": "Investment Operations Project/Change Analyst",
       "company": "Sanderson ",
@@ -6118,48 +7264,18 @@
       ]
     },
     {
-      "id": "gh_stripe_7954118",
-      "title": "Product Designer, Risk",
-      "company": "Stripe",
-      "location": "Ireland / United Kingdom",
-      "department": "8811 Product Design",
-      "posted_date": "30 Jun 2026",
+      "id": "reed_57075910",
+      "title": "Data Quality Analyst",
+      "company": "Sanderson ",
+      "location": "London",
+      "department": "",
+      "posted_date": "01 Jul 2026",
       "days_ago": 9,
-      "url": "https://stripe.com/jobs/search?gh_jid=7954118",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
+      "url": "https://www.reed.co.uk/jobs/data-quality-analyst/57075910",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
       "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_stripe_8008405",
-      "title": "Staff Product Designer, Risk",
-      "company": "Stripe",
-      "location": "Ireland / United Kingdom",
-      "department": "8811 Product Design",
-      "posted_date": "30 Jun 2026",
-      "days_ago": 9,
-      "url": "https://stripe.com/jobs/search?gh_jid=8008405",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_tide_7652032003",
-      "title": "Senior Commercial Finance Broker",
-      "company": "Tide",
-      "location": "United Kingdom",
-      "department": "One Platform - PCS Sales",
-      "posted_date": "30 Jun 2026",
-      "days_ago": 9,
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7652032003",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
+        "Data & Analytics"
       ]
     },
     {
@@ -6359,6 +7475,21 @@
       ]
     },
     {
+      "id": "az_5781825086",
+      "title": "Business Analyst",
+      "company": "OpenSourced Ltd",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "30 Jun 2026",
+      "days_ago": 10,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5781825086?se=oPaMeER88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=03B53604AE3CE4344D938881B36A918603417AA9",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "reed_57072821",
       "title": "Commercial Graduate Scheme",
       "company": "Pareto",
@@ -6404,6 +7535,36 @@
       ]
     },
     {
+      "id": "gh_stripe_7954118",
+      "title": "Product Designer, Risk",
+      "company": "Stripe",
+      "location": "Ireland / United Kingdom",
+      "department": "8811 Product Design",
+      "posted_date": "30 Jun 2026",
+      "days_ago": 10,
+      "url": "https://stripe.com/jobs/search?gh_jid=7954118",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_stripe_8008405",
+      "title": "Staff Product Designer, Risk",
+      "company": "Stripe",
+      "location": "Ireland / United Kingdom",
+      "department": "8811 Product Design",
+      "posted_date": "30 Jun 2026",
+      "days_ago": 10,
+      "url": "https://stripe.com/jobs/search?gh_jid=8008405",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "reed_57072793",
       "title": "French Speaking Accounts Receivable Analyst",
       "company": "The Language Business - Language Recruitment Specialists",
@@ -6414,6 +7575,21 @@
       "url": "https://www.reed.co.uk/jobs/french-speaking-accounts-receivable-analyst/57072793",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_tide_7652032003",
+      "title": "Senior Commercial Finance Broker",
+      "company": "Tide",
+      "location": "United Kingdom",
+      "department": "One Platform - PCS Sales",
+      "posted_date": "30 Jun 2026",
+      "days_ago": 10,
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7652032003",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
       "tags": [
         "Finance"
       ]
@@ -6726,126 +7902,6 @@
       ]
     },
     {
-      "id": "az_5778662551",
-      "title": "Asbestos Analysts, Surveyors & Consultants (Nationwide)",
-      "company": "Vadella",
-      "location": "Holborn, Central London",
-      "department": "Trade & Construction Jobs",
-      "posted_date": "27 Jun 2026",
-      "days_ago": 12,
-      "url": "https://www.adzuna.co.uk/jobs/details/5778662551?utm_medium=api&utm_source=348e4724",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Consulting"
-      ]
-    },
-    {
-      "id": "gh_ebury_4872174101",
-      "title": "Client Portfolio Support",
-      "company": "Ebury",
-      "location": "London",
-      "department": "Client Portfolio Management",
-      "posted_date": "26 Jun 2026",
-      "days_ago": 13,
-      "url": "https://job-boards.eu.greenhouse.io/ebury/jobs/4872174101",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_ebury_4876048101",
-      "title": "Key Account Director -  Sports Finance",
-      "company": "Ebury",
-      "location": "London",
-      "department": "Sports & Entertainment",
-      "posted_date": "26 Jun 2026",
-      "days_ago": 13,
-      "url": "https://job-boards.eu.greenhouse.io/ebury/jobs/4876048101",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_ebury_4906870101",
-      "title": "Senior Product Manager - Financial Crime (Anti Money Laundering/Transaction Monitoring)",
-      "company": "Ebury",
-      "location": "London",
-      "department": "Product",
-      "posted_date": "26 Jun 2026",
-      "days_ago": 13,
-      "url": "https://job-boards.eu.greenhouse.io/ebury/jobs/4906870101",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_ebury_4906874101",
-      "title": "Senior Product Manager - Financial Crime (Fraud Prevention)",
-      "company": "Ebury",
-      "location": "London",
-      "department": "Product",
-      "posted_date": "26 Jun 2026",
-      "days_ago": 13,
-      "url": "https://job-boards.eu.greenhouse.io/ebury/jobs/4906874101",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_ebury_4906878101",
-      "title": "Senior Product Manager - Financial Crime (KYC/KYB)",
-      "company": "Ebury",
-      "location": "London",
-      "department": "Product",
-      "posted_date": "26 Jun 2026",
-      "days_ago": 13,
-      "url": "https://job-boards.eu.greenhouse.io/ebury/jobs/4906878101",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_ebury_4906850101",
-      "title": "(Senior) Product Manager - Financial Crime (Name & Payment Screening)",
-      "company": "Ebury",
-      "location": "London",
-      "department": "Product",
-      "posted_date": "26 Jun 2026",
-      "days_ago": 13,
-      "url": "https://job-boards.eu.greenhouse.io/ebury/jobs/4906850101",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_ebury_4906084101",
-      "title": "Staff Engineer (Credit & Underwriting)",
-      "company": "Ebury",
-      "location": "London",
-      "department": "Technology",
-      "posted_date": "26 Jun 2026",
-      "days_ago": 13,
-      "url": "https://job-boards.eu.greenhouse.io/ebury/jobs/4906084101",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "az_5777921790",
       "title": "Business Analyst",
       "company": "Euronext",
@@ -6871,21 +7927,6 @@
       "url": "https://www.adzuna.co.uk/jobs/details/5777924105?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_mangroup_4905239101",
-      "title": "Associate Engineer - Finance & People Technology",
-      "company": "Man Group",
-      "location": "London",
-      "department": "Technology",
-      "posted_date": "26 Jun 2026",
-      "days_ago": 13,
-      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4905239101",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
       "tags": [
         "Finance"
       ]
@@ -7012,14 +8053,14 @@
       ]
     },
     {
-      "id": "az_5777920185",
-      "title": "Senior Product Consultant - Insurance",
-      "company": "Verisk Analytics",
-      "location": "London, UK",
-      "department": "IT Jobs",
-      "posted_date": "26 Jun 2026",
+      "id": "az_5778662551",
+      "title": "Asbestos Analysts, Surveyors & Consultants (Nationwide)",
+      "company": "Vadella",
+      "location": "Holborn, Central London",
+      "department": "Trade & Construction Jobs",
+      "posted_date": "27 Jun 2026",
       "days_ago": 13,
-      "url": "https://www.adzuna.co.uk/jobs/details/5777920185?utm_medium=api&utm_source=348e4724",
+      "url": "https://www.adzuna.co.uk/jobs/details/5778662551?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -7042,14 +8083,119 @@
       ]
     },
     {
-      "id": "gh_mangroup_4907792101",
-      "title": "Senior Analyst, Accounting - 12 Month FTC",
+      "id": "gh_ebury_4872174101",
+      "title": "Client Portfolio Support",
+      "company": "Ebury",
+      "location": "London",
+      "department": "Client Portfolio Management",
+      "posted_date": "26 Jun 2026",
+      "days_ago": 14,
+      "url": "https://job-boards.eu.greenhouse.io/ebury/jobs/4872174101",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_ebury_4876048101",
+      "title": "Key Account Director -  Sports Finance",
+      "company": "Ebury",
+      "location": "London",
+      "department": "Sports & Entertainment",
+      "posted_date": "26 Jun 2026",
+      "days_ago": 14,
+      "url": "https://job-boards.eu.greenhouse.io/ebury/jobs/4876048101",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_ebury_4906870101",
+      "title": "Senior Product Manager - Financial Crime (Anti Money Laundering/Transaction Monitoring)",
+      "company": "Ebury",
+      "location": "London",
+      "department": "Product",
+      "posted_date": "26 Jun 2026",
+      "days_ago": 14,
+      "url": "https://job-boards.eu.greenhouse.io/ebury/jobs/4906870101",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_ebury_4906874101",
+      "title": "Senior Product Manager - Financial Crime (Fraud Prevention)",
+      "company": "Ebury",
+      "location": "London",
+      "department": "Product",
+      "posted_date": "26 Jun 2026",
+      "days_ago": 14,
+      "url": "https://job-boards.eu.greenhouse.io/ebury/jobs/4906874101",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_ebury_4906878101",
+      "title": "Senior Product Manager - Financial Crime (KYC/KYB)",
+      "company": "Ebury",
+      "location": "London",
+      "department": "Product",
+      "posted_date": "26 Jun 2026",
+      "days_ago": 14,
+      "url": "https://job-boards.eu.greenhouse.io/ebury/jobs/4906878101",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_ebury_4906850101",
+      "title": "(Senior) Product Manager - Financial Crime (Name & Payment Screening)",
+      "company": "Ebury",
+      "location": "London",
+      "department": "Product",
+      "posted_date": "26 Jun 2026",
+      "days_ago": 14,
+      "url": "https://job-boards.eu.greenhouse.io/ebury/jobs/4906850101",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_ebury_4906084101",
+      "title": "Staff Engineer (Credit & Underwriting)",
+      "company": "Ebury",
+      "location": "London",
+      "department": "Technology",
+      "posted_date": "26 Jun 2026",
+      "days_ago": 14,
+      "url": "https://job-boards.eu.greenhouse.io/ebury/jobs/4906084101",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_mangroup_4905239101",
+      "title": "Associate Engineer - Finance & People Technology",
       "company": "Man Group",
       "location": "London",
-      "department": "Finance",
-      "posted_date": "25 Jun 2026",
+      "department": "Technology",
+      "posted_date": "26 Jun 2026",
       "days_ago": 14,
-      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4907792101",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4905239101",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -7079,7 +8225,7 @@
       "department": "Graduate Jobs",
       "posted_date": "25 Jun 2026",
       "days_ago": 14,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5776431641?se=sjL1uxN88RGSpc2JeqBnow&utm_medium=api&utm_source=348e4724&v=5867640D4500BB83C83FE9150CCBDFF710457A19",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5776431641?se=1gGXeER88RG9ZMLiReBdYA&utm_medium=api&utm_source=348e4724&v=5867640D4500BB83C83FE9150CCBDFF710457A19",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -7272,21 +8418,6 @@
       ]
     },
     {
-      "id": "gh_point72_7752293002",
-      "title": "Quantitative Researcher",
-      "company": "Point72",
-      "location": "London ",
-      "department": "Quant Management",
-      "posted_date": "25 Jun 2026",
-      "days_ago": 14,
-      "url": "https://boards.greenhouse.io/point72/jobs/7752293002?gh_jid=7752293002",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Quantitative"
-      ]
-    },
-    {
       "id": "gh_point72_7587888002",
       "title": "Quantitative Researcher",
       "company": "Point72",
@@ -7295,6 +8426,21 @@
       "posted_date": "25 Jun 2026",
       "days_ago": 14,
       "url": "https://boards.greenhouse.io/point72/jobs/7587888002?gh_jid=7587888002",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Quantitative"
+      ]
+    },
+    {
+      "id": "gh_point72_7752293002",
+      "title": "Quantitative Researcher",
+      "company": "Point72",
+      "location": "London ",
+      "department": "Quant Management",
+      "posted_date": "25 Jun 2026",
+      "days_ago": 14,
+      "url": "https://boards.greenhouse.io/point72/jobs/7752293002?gh_jid=7752293002",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -7420,22 +8566,6 @@
       "source_system": "Reed",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "gh_teneo_7779588003",
-      "title": "Executive Assistant, Financial Advisory ",
-      "company": "Teneo",
-      "location": "London, United Kingdom",
-      "department": "Financial Advisory UK",
-      "posted_date": "25 Jun 2026",
-      "days_ago": 14,
-      "url": "https://www.teneo.com/careers/open-positions/7779588003?gh_jid=7779588003",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance",
-        "Consulting"
       ]
     },
     {
@@ -7651,6 +8781,21 @@
       ]
     },
     {
+      "id": "gh_mangroup_4907792101",
+      "title": "Senior Analyst, Accounting - 12 Month FTC",
+      "company": "Man Group",
+      "location": "London",
+      "department": "Finance",
+      "posted_date": "25 Jun 2026",
+      "days_ago": 15,
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4907792101",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "gh_monzo_7564605",
       "title": "Analytics Engineer",
       "company": "Monzo",
@@ -7659,21 +8804,6 @@
       "posted_date": "24 Jun 2026",
       "days_ago": 15,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7564605",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
-      "id": "gh_monzo_8013699",
-      "title": "Staff Analytics Engineer",
-      "company": "Monzo",
-      "location": "Cardiff, London or Remote (UK)",
-      "department": "Data",
-      "posted_date": "24 Jun 2026",
-      "days_ago": 15,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/8013699",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -7711,21 +8841,6 @@
       ]
     },
     {
-      "id": "reed_57060345",
-      "title": "Business Analyst",
-      "company": "Reed",
-      "location": "N19GU",
-      "department": "",
-      "posted_date": "25 Jun 2026",
-      "days_ago": 15,
-      "url": "https://www.reed.co.uk/jobs/business-analyst/57060345",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "reed_57057424",
       "title": "Payments Analyst",
       "company": "Reed",
@@ -7756,6 +8871,21 @@
       ]
     },
     {
+      "id": "reed_57060345",
+      "title": "Business Analyst",
+      "company": "Reed",
+      "location": "N19GU",
+      "department": "",
+      "posted_date": "25 Jun 2026",
+      "days_ago": 15,
+      "url": "https://www.reed.co.uk/jobs/business-analyst/57060345",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "reed_57059095",
       "title": "Treasury Analyst",
       "company": "Stellar Select Limited",
@@ -7768,6 +8898,22 @@
       "source_system": "Reed",
       "tags": [
         "Finance"
+      ]
+    },
+    {
+      "id": "gh_teneo_7779588003",
+      "title": "Executive Assistant, Financial Advisory ",
+      "company": "Teneo",
+      "location": "London, United Kingdom",
+      "department": "Financial Advisory UK",
+      "posted_date": "25 Jun 2026",
+      "days_ago": 15,
+      "url": "https://www.teneo.com/careers/open-positions/7779588003?gh_jid=7779588003",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance",
+        "Consulting"
       ]
     },
     {
@@ -8154,21 +9300,6 @@
       ]
     },
     {
-      "id": "gh_mangroup_4724414101",
-      "title": "Senior Quantitative Researcher - Macro",
-      "company": "Man Group",
-      "location": "London",
-      "department": "Core",
-      "posted_date": "23 Jun 2026",
-      "days_ago": 16,
-      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4724414101",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Quantitative"
-      ]
-    },
-    {
       "id": "reed_57056160",
       "title": "Senior Finance Analyst",
       "company": "Marks Sattin",
@@ -8207,6 +9338,21 @@
       "posted_date": "23 Jun 2026",
       "days_ago": 16,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7694525",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "gh_monzo_8013699",
+      "title": "Staff Analytics Engineer",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Data",
+      "posted_date": "24 Jun 2026",
+      "days_ago": 16,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8013699",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -8531,6 +9677,21 @@
       ]
     },
     {
+      "id": "gh_mangroup_4724414101",
+      "title": "Senior Quantitative Researcher - Macro",
+      "company": "Man Group",
+      "location": "London",
+      "department": "Core",
+      "posted_date": "23 Jun 2026",
+      "days_ago": 17,
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4724414101",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Quantitative"
+      ]
+    },
+    {
       "id": "reed_57046804",
       "title": "Commercial Analyst",
       "company": "Marc Daniels",
@@ -8726,21 +9887,6 @@
       ]
     },
     {
-      "id": "reed_57045973",
-      "title": "Finance Analyst",
-      "company": "Harper May Ltd",
-      "location": "City of London",
-      "department": "",
-      "posted_date": "22 Jun 2026",
-      "days_ago": 18,
-      "url": "https://www.reed.co.uk/jobs/finance-analyst/57045973",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "reed_57045974",
       "title": "Finance Analyst",
       "company": "Harper May Ltd",
@@ -8749,6 +9895,21 @@
       "posted_date": "22 Jun 2026",
       "days_ago": 18,
       "url": "https://www.reed.co.uk/jobs/finance-analyst/57045974",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "reed_57045973",
+      "title": "Finance Analyst",
+      "company": "Harper May Ltd",
+      "location": "City of London",
+      "department": "",
+      "posted_date": "22 Jun 2026",
+      "days_ago": 18,
+      "url": "https://www.reed.co.uk/jobs/finance-analyst/57045973",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
@@ -9017,21 +10178,6 @@
       ]
     },
     {
-      "id": "reed_57041812",
-      "title": "Pricing Analyst",
-      "company": "Larbey Evans",
-      "location": "EC2N4BQ",
-      "department": "",
-      "posted_date": "22 Jun 2026",
-      "days_ago": 18,
-      "url": "https://www.reed.co.uk/jobs/pricing-analyst/57041812",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "reed_57045877",
       "title": "Senior Quantitative Research Lead",
       "company": "McGregor Boyall",
@@ -9120,21 +10266,6 @@
       "tags": [
         "Graduate",
         "Consulting"
-      ]
-    },
-    {
-      "id": "gh_monzo_7916595",
-      "title": "Lead Insurance Pricing Analyst",
-      "company": "Monzo",
-      "location": "Cardiff, London or Remote (UK)",
-      "department": "Data",
-      "posted_date": "19 Jun 2026",
-      "days_ago": 20,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7916595",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Data & Analytics"
       ]
     },
     {
@@ -9333,22 +10464,6 @@
       ]
     },
     {
-      "id": "lv_zopa_cc0b901b-09af-4de8-8a94-67735ca03e20",
-      "title": "Senior Financial Crime Strategy Manager",
-      "company": "Zopa",
-      "location": "London",
-      "department": "Fraud & Financial Crime Strategy",
-      "commitment": "Employee - Permanent",
-      "posted_date": "19 Jun 2026",
-      "days_ago": 20,
-      "url": "https://jobs.lever.co/zopa/cc0b901b-09af-4de8-8a94-67735ca03e20",
-      "source": "Company Career Page",
-      "source_system": "Lever",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "gh_capco_7570751",
       "title": "Senior Data Modelling Consultant",
       "company": "Capco",
@@ -9433,6 +10548,21 @@
       "posted_date": "18 Jun 2026",
       "days_ago": 21,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7582354",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "gh_monzo_7916595",
+      "title": "Lead Insurance Pricing Analyst",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Data",
+      "posted_date": "19 Jun 2026",
+      "days_ago": 21,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7916595",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -9531,6 +10661,22 @@
       ]
     },
     {
+      "id": "lv_zopa_cc0b901b-09af-4de8-8a94-67735ca03e20",
+      "title": "Senior Financial Crime Strategy Manager",
+      "company": "Zopa",
+      "location": "London",
+      "department": "Fraud & Financial Crime Strategy",
+      "commitment": "Employee - Permanent",
+      "posted_date": "19 Jun 2026",
+      "days_ago": 21,
+      "url": "https://jobs.lever.co/zopa/cc0b901b-09af-4de8-8a94-67735ca03e20",
+      "source": "Company Career Page",
+      "source_system": "Lever",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "reed_57034997",
       "title": "APEX Business Support Analyst",
       "company": " Deerfoot Recruitment Solutions Ltd",
@@ -9558,6 +10704,21 @@
       "source_system": "Reed",
       "tags": [
         "Data & Analytics"
+      ]
+    },
+    {
+      "id": "reed_57032304",
+      "title": "Marketing Analyst",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "location": "London",
+      "department": "",
+      "posted_date": "18 Jun 2026",
+      "days_ago": 22,
+      "url": "https://www.reed.co.uk/jobs/marketing-analyst/57032304",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Finance"
       ]
     },
     {
@@ -9591,18 +10752,18 @@
       ]
     },
     {
-      "id": "reed_57032304",
-      "title": "Marketing Analyst",
+      "id": "reed_57032665",
+      "title": "Senior Data Analyst",
       "company": "Harnham - Data & Analytics Recruitment",
       "location": "London",
       "department": "",
       "posted_date": "18 Jun 2026",
       "days_ago": 22,
-      "url": "https://www.reed.co.uk/jobs/marketing-analyst/57032304",
+      "url": "https://www.reed.co.uk/jobs/senior-data-analyst/57032665",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
-        "Finance"
+        "Data & Analytics"
       ]
     },
     {
@@ -9801,21 +10962,6 @@
       ]
     },
     {
-      "id": "gh_teneo_7710799003",
-      "title": "Economic Consulting, Business Development Lead",
-      "company": "Teneo",
-      "location": "London, United Kingdom",
-      "department": "Management Consulting UK Other",
-      "posted_date": "17 Jun 2026",
-      "days_ago": 22,
-      "url": "https://www.teneo.com/careers/open-positions/7710799003?gh_jid=7710799003",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Consulting"
-      ]
-    },
-    {
       "id": "reed_57035907",
       "title": "Analyst, Graduate or Junior Experience, Intermediate Excel",
       "company": "Think Specialist Recruitment",
@@ -9974,6 +11120,21 @@
       "posted_date": "17 Jun 2026",
       "days_ago": 23,
       "url": "https://www.reed.co.uk/jobs/lead-data-analyst/57031256",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "reed_57031056",
+      "title": "Senior Data Analyst",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "location": "London",
+      "department": "",
+      "posted_date": "17 Jun 2026",
+      "days_ago": 23,
+      "url": "https://www.reed.co.uk/jobs/senior-data-analyst/57031056",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
@@ -10254,6 +11415,22 @@
       ]
     },
     {
+      "id": "reed_57030074",
+      "title": "Junior Credit Risk Analyst",
+      "company": "Reed",
+      "location": "KT206RP",
+      "department": "",
+      "posted_date": "17 Jun 2026",
+      "days_ago": 23,
+      "url": "https://www.reed.co.uk/jobs/junior-credit-risk-analyst/57030074",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate",
+        "Finance"
+      ]
+    },
+    {
       "id": "reed_57030081",
       "title": "Junior Credit Risk Analyst",
       "company": "Reed",
@@ -10302,18 +11479,33 @@
       ]
     },
     {
-      "id": "reed_57030074",
-      "title": "Junior Credit Risk Analyst",
-      "company": "Reed",
-      "location": "KT206RP",
-      "department": "",
+      "id": "gh_teneo_7710799003",
+      "title": "Economic Consulting, Business Development Lead",
+      "company": "Teneo",
+      "location": "London, United Kingdom",
+      "department": "Management Consulting UK Other",
       "posted_date": "17 Jun 2026",
       "days_ago": 23,
-      "url": "https://www.reed.co.uk/jobs/junior-credit-risk-analyst/57030074",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
+      "url": "https://www.teneo.com/careers/open-positions/7710799003?gh_jid=7710799003",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
       "tags": [
-        "Graduate",
+        "Consulting"
+      ]
+    },
+    {
+      "id": "lv_zopa_a6df5aab-6cc4-40e9-9007-bdf021e00460",
+      "title": "Senior Financial Accountant (12 month FTC)",
+      "company": "Zopa",
+      "location": "London",
+      "department": "Finance",
+      "commitment": "Employee - Permanent",
+      "posted_date": "16 Jun 2026",
+      "days_ago": 23,
+      "url": "https://jobs.lever.co/zopa/a6df5aab-6cc4-40e9-9007-bdf021e00460",
+      "source": "Company Career Page",
+      "source_system": "Lever",
+      "tags": [
         "Finance"
       ]
     },
@@ -11007,14 +12199,14 @@
       ]
     },
     {
-      "id": "reed_57014901",
-      "title": "Business Analyst -LONDON",
+      "id": "reed_57016331",
+      "title": "Analyst",
       "company": "Reed",
-      "location": "EC1A1AA",
+      "location": "EC2N1HQ",
       "department": "",
       "posted_date": "12 Jun 2026",
       "days_ago": 28,
-      "url": "https://www.reed.co.uk/jobs/business-analyst-london/57014901",
+      "url": "https://www.reed.co.uk/jobs/analyst/57016331",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
@@ -11052,14 +12244,14 @@
       ]
     },
     {
-      "id": "reed_57016331",
-      "title": "Analyst",
+      "id": "reed_57014901",
+      "title": "Business Analyst -LONDON",
       "company": "Reed",
-      "location": "EC2N1HQ",
+      "location": "EC1A1AA",
       "department": "",
       "posted_date": "12 Jun 2026",
       "days_ago": 28,
-      "url": "https://www.reed.co.uk/jobs/analyst/57016331",
+      "url": "https://www.reed.co.uk/jobs/business-analyst-london/57014901",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
@@ -11355,21 +12547,6 @@
       ]
     },
     {
-      "id": "reed_57007326",
-      "title": "Senior Credit Risk Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "London",
-      "department": "",
-      "posted_date": "10 Jun 2026",
-      "days_ago": 30,
-      "url": "https://www.reed.co.uk/jobs/senior-credit-risk-analyst/57007326",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "reed_57006997",
       "title": "Marketing Analyst",
       "company": "Harnham - Data & Analytics Recruitment",
@@ -11378,6 +12555,21 @@
       "posted_date": "10 Jun 2026",
       "days_ago": 30,
       "url": "https://www.reed.co.uk/jobs/marketing-analyst/57006997",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "reed_57007326",
+      "title": "Senior Credit Risk Analyst",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "location": "London",
+      "department": "",
+      "posted_date": "10 Jun 2026",
+      "days_ago": 30,
+      "url": "https://www.reed.co.uk/jobs/senior-credit-risk-analyst/57007326",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
@@ -11614,36 +12806,6 @@
       ]
     },
     {
-      "id": "reed_57001445",
-      "title": "Commercial Data Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "London",
-      "department": "",
-      "posted_date": "09 Jun 2026",
-      "days_ago": 31,
-      "url": "https://www.reed.co.uk/jobs/commercial-data-analyst/57001445",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
-      "id": "reed_57002494",
-      "title": "Retail Data Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "London",
-      "department": "",
-      "posted_date": "09 Jun 2026",
-      "days_ago": 31,
-      "url": "https://www.reed.co.uk/jobs/retail-data-analyst/57002494",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
       "id": "reed_57002236",
       "title": "Marketing Analyst",
       "company": "Harnham - Data & Analytics Recruitment",
@@ -11716,6 +12878,36 @@
       "source_system": "Reed",
       "tags": [
         "Finance"
+      ]
+    },
+    {
+      "id": "reed_57001445",
+      "title": "Commercial Data Analyst",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "location": "London",
+      "department": "",
+      "posted_date": "09 Jun 2026",
+      "days_ago": 31,
+      "url": "https://www.reed.co.uk/jobs/commercial-data-analyst/57001445",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "reed_57002494",
+      "title": "Retail Data Analyst",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "location": "London",
+      "department": "",
+      "posted_date": "09 Jun 2026",
+      "days_ago": 31,
+      "url": "https://www.reed.co.uk/jobs/retail-data-analyst/57002494",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Data & Analytics"
       ]
     },
     {
@@ -11961,14 +13153,14 @@
       ]
     },
     {
-      "id": "reed_56989261",
-      "title": "Senior Business Analyst- London",
-      "company": "FDM Group",
+      "id": "reed_56991416",
+      "title": "Marketing Analyst",
+      "company": "Harnham - Data & Analytics Recruitment",
       "location": "London",
       "department": "",
       "posted_date": "05 Jun 2026",
       "days_ago": 35,
-      "url": "https://www.reed.co.uk/jobs/senior-business-analyst-london/56989261",
+      "url": "https://www.reed.co.uk/jobs/marketing-analyst/56991416",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
@@ -11991,21 +13183,6 @@
       ]
     },
     {
-      "id": "reed_56991236",
-      "title": "Lead Data Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "London",
-      "department": "",
-      "posted_date": "05 Jun 2026",
-      "days_ago": 35,
-      "url": "https://www.reed.co.uk/jobs/lead-data-analyst/56991236",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
       "id": "reed_56991296",
       "title": "BI Analyst",
       "company": "Harnham - Data & Analytics Recruitment",
@@ -12018,21 +13195,6 @@
       "source_system": "Reed",
       "tags": [
         "Data & Analytics"
-      ]
-    },
-    {
-      "id": "reed_56991416",
-      "title": "Marketing Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "London",
-      "department": "",
-      "posted_date": "05 Jun 2026",
-      "days_ago": 35,
-      "url": "https://www.reed.co.uk/jobs/marketing-analyst/56991416",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Finance"
       ]
     },
     {
@@ -12490,21 +13652,6 @@
       ]
     },
     {
-      "id": "gh_capco_7966028",
-      "title": "AI Business Analyst - Glasgow/Edinburgh",
-      "company": "Capco",
-      "location": "UK - Glasgow ",
-      "department": "Business Consulting",
-      "posted_date": "01 Jun 2026",
-      "days_ago": 38,
-      "url": "https://job-boards.greenhouse.io/capco/jobs/7966028",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Consulting"
-      ]
-    },
-    {
       "id": "reed_56974074",
       "title": "Data Analyst",
       "company": "Harnham - Data & Analytics Recruitment",
@@ -12517,6 +13664,21 @@
       "source_system": "Reed",
       "tags": [
         "Data & Analytics"
+      ]
+    },
+    {
+      "id": "reed_56973817",
+      "title": "Marketing Analyst",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "location": "London",
+      "department": "",
+      "posted_date": "02 Jun 2026",
+      "days_ago": 38,
+      "url": "https://www.reed.co.uk/jobs/marketing-analyst/56973817",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Finance"
       ]
     },
     {
@@ -12543,21 +13705,6 @@
       "posted_date": "02 Jun 2026",
       "days_ago": 38,
       "url": "https://www.reed.co.uk/jobs/risk-strategy-director/56974231",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "reed_56973817",
-      "title": "Marketing Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "London",
-      "department": "",
-      "posted_date": "02 Jun 2026",
-      "days_ago": 38,
-      "url": "https://www.reed.co.uk/jobs/marketing-analyst/56973817",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
@@ -12610,21 +13757,6 @@
       ]
     },
     {
-      "id": "reed_56973095",
-      "title": "Compliance Analyst",
-      "company": "Robert Walters",
-      "location": "London",
-      "department": "",
-      "posted_date": "02 Jun 2026",
-      "days_ago": 38,
-      "url": "https://www.reed.co.uk/jobs/compliance-analyst/56973095",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "reed_56973980",
       "title": "Hybrid Project Manager/Business Analyst - Private Assets",
       "company": "Robert Walters",
@@ -12633,6 +13765,21 @@
       "posted_date": "02 Jun 2026",
       "days_ago": 38,
       "url": "https://www.reed.co.uk/jobs/hybrid-project-manager-business-analyst-private-assets/56973980",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "reed_56973095",
+      "title": "Compliance Analyst",
+      "company": "Robert Walters",
+      "location": "London",
+      "department": "",
+      "posted_date": "02 Jun 2026",
+      "days_ago": 38,
+      "url": "https://www.reed.co.uk/jobs/compliance-analyst/56973095",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
@@ -12670,6 +13817,21 @@
       ]
     },
     {
+      "id": "gh_capco_7966028",
+      "title": "AI Business Analyst - Glasgow/Edinburgh",
+      "company": "Capco",
+      "location": "UK - Glasgow ",
+      "department": "Business Consulting",
+      "posted_date": "01 Jun 2026",
+      "days_ago": 39,
+      "url": "https://job-boards.greenhouse.io/capco/jobs/7966028",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Consulting"
+      ]
+    },
+    {
       "id": "reed_56966728",
       "title": "School Business Analyst",
       "company": "Connect2Hackney",
@@ -12678,6 +13840,21 @@
       "posted_date": "01 Jun 2026",
       "days_ago": 39,
       "url": "https://www.reed.co.uk/jobs/school-business-analyst/56966728",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "reed_56967762",
+      "title": "Marketing Analyst",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "location": "London",
+      "department": "",
+      "posted_date": "01 Jun 2026",
+      "days_ago": 39,
+      "url": "https://www.reed.co.uk/jobs/marketing-analyst/56967762",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
@@ -12727,21 +13904,6 @@
       "source_system": "Reed",
       "tags": [
         "Data & Analytics"
-      ]
-    },
-    {
-      "id": "reed_56967762",
-      "title": "Marketing Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "London",
-      "department": "",
-      "posted_date": "01 Jun 2026",
-      "days_ago": 39,
-      "url": "https://www.reed.co.uk/jobs/marketing-analyst/56967762",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Finance"
       ]
     },
     {
@@ -12973,21 +14135,6 @@
       ]
     },
     {
-      "id": "reed_56957346",
-      "title": "Senior Credit Risk Analyst - FinTech",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "London",
-      "department": "",
-      "posted_date": "29 May 2026",
-      "days_ago": 42,
-      "url": "https://www.reed.co.uk/jobs/senior-credit-risk-analyst-fintech/56957346",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "reed_56956488",
       "title": "Marketing Analyst",
       "company": "Harnham - Data & Analytics Recruitment",
@@ -13003,14 +14150,14 @@
       ]
     },
     {
-      "id": "reed_56954571",
-      "title": "Business Systems Analyst",
-      "company": "Hays Specialist Recruitment Limited",
+      "id": "reed_56957346",
+      "title": "Senior Credit Risk Analyst - FinTech",
+      "company": "Harnham - Data & Analytics Recruitment",
       "location": "London",
       "department": "",
       "posted_date": "29 May 2026",
       "days_ago": 42,
-      "url": "https://www.reed.co.uk/jobs/business-systems-analyst/56954571",
+      "url": "https://www.reed.co.uk/jobs/senior-credit-risk-analyst-fintech/56957346",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
@@ -13026,6 +14173,21 @@
       "posted_date": "29 May 2026",
       "days_ago": 42,
       "url": "https://www.reed.co.uk/jobs/procurement-vendor-management-analyst/56956973",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "reed_56954571",
+      "title": "Business Systems Analyst",
+      "company": "Hays Specialist Recruitment Limited",
+      "location": "London",
+      "department": "",
+      "posted_date": "29 May 2026",
+      "days_ago": 42,
+      "url": "https://www.reed.co.uk/jobs/business-systems-analyst/56954571",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
@@ -13078,21 +14240,6 @@
       ]
     },
     {
-      "id": "gh_monzo_7921307",
-      "title": "Senior Finance Business Partner",
-      "company": "Monzo",
-      "location": "London",
-      "department": "Finance",
-      "posted_date": "28 May 2026",
-      "days_ago": 42,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7921307",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "gh_monzo_7355930",
       "title": "Senior Finance Business Partner",
       "company": "Monzo",
@@ -13101,6 +14248,21 @@
       "posted_date": "28 May 2026",
       "days_ago": 42,
       "url": "https://job-boards.greenhouse.io/monzo/jobs/7355930",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_monzo_7921307",
+      "title": "Senior Finance Business Partner",
+      "company": "Monzo",
+      "location": "London",
+      "department": "Finance",
+      "posted_date": "28 May 2026",
+      "days_ago": 42,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7921307",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -13204,7 +14366,7 @@
       "location": "Bristol, United Kingdom",
       "department": "Financial Advisory UK",
       "posted_date": "22 May 2026",
-      "days_ago": 48,
+      "days_ago": 49,
       "url": "https://www.teneo.com/careers/open-positions/7742833003?gh_jid=7742833003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -13220,7 +14382,7 @@
       "location": "Cardiff, United Kingdom",
       "department": "Financial Advisory UK",
       "posted_date": "22 May 2026",
-      "days_ago": 48,
+      "days_ago": 49,
       "url": "https://www.teneo.com/careers/open-positions/7742804003?gh_jid=7742804003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
@@ -13252,7 +14414,7 @@
       "department": "Impairment",
       "commitment": "Employee - Permanent",
       "posted_date": "18 May 2026",
-      "days_ago": 52,
+      "days_ago": 53,
       "url": "https://jobs.lever.co/zopa/981c77d3-a77d-4d95-97ec-a18ab1ab510b",
       "source": "Company Career Page",
       "source_system": "Lever",
@@ -13267,26 +14429,10 @@
       "location": "London, UK",
       "department": "Product Development",
       "posted_date": "13 May 2026",
-      "days_ago": 57,
+      "days_ago": 58,
       "url": "https://job-boards.greenhouse.io/gocardless/jobs/7661485",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
-      "id": "lv_palantir_164da0e1-0bc2-46a7-bd4c-cb46b889dc63",
-      "title": "Production Engineer - Database Operations",
-      "company": "Palantir",
-      "location": "London, United Kingdom",
-      "department": "Product Development",
-      "commitment": "Full-time",
-      "posted_date": "13 May 2026",
-      "days_ago": 57,
-      "url": "https://jobs.lever.co/palantir/164da0e1-0bc2-46a7-bd4c-cb46b889dc63",
-      "source": "Company Career Page",
-      "source_system": "Lever",
       "tags": [
         "Data & Analytics"
       ]
@@ -13302,6 +14448,22 @@
       "url": "https://www.reed.co.uk/jobs/data-analyst/56895571",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "lv_palantir_164da0e1-0bc2-46a7-bd4c-cb46b889dc63",
+      "title": "Production Engineer - Database Operations",
+      "company": "Palantir",
+      "location": "London, United Kingdom",
+      "department": "Product Development",
+      "commitment": "Full-time",
+      "posted_date": "13 May 2026",
+      "days_ago": 58,
+      "url": "https://jobs.lever.co/palantir/164da0e1-0bc2-46a7-bd4c-cb46b889dc63",
+      "source": "Company Career Page",
+      "source_system": "Lever",
       "tags": [
         "Data & Analytics"
       ]
@@ -13427,21 +14589,6 @@
       ]
     },
     {
-      "id": "gh_janestreet_8092062002",
-      "title": "Quantitative Trader",
-      "company": "Jane Street",
-      "location": "London, England, United Kingdom",
-      "department": "Quantitative Trading",
-      "posted_date": "11 May 2026",
-      "days_ago": 59,
-      "url": "https://job-boards.greenhouse.io/janestreet/jobs/8092062002",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Quantitative"
-      ]
-    },
-    {
       "id": "gh_janestreet_4273643002",
       "title": "Quantitative Trader",
       "company": "Jane Street",
@@ -13450,6 +14597,21 @@
       "posted_date": "11 May 2026",
       "days_ago": 59,
       "url": "https://job-boards.greenhouse.io/janestreet/jobs/4273643002",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Quantitative"
+      ]
+    },
+    {
+      "id": "gh_janestreet_8092062002",
+      "title": "Quantitative Trader",
+      "company": "Jane Street",
+      "location": "London, England, United Kingdom",
+      "department": "Quantitative Trading",
+      "posted_date": "11 May 2026",
+      "days_ago": 59,
+      "url": "https://job-boards.greenhouse.io/janestreet/jobs/8092062002",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -13782,22 +14944,6 @@
       ]
     },
     {
-      "id": "gh_capco_7826077",
-      "title": "Management Consultant - Operational Resilience & Cyber ",
-      "company": "Capco",
-      "location": "UK - London",
-      "department": "Finance Risk & Compliance",
-      "posted_date": "17 Apr 2026",
-      "days_ago": 83,
-      "url": "https://job-boards.greenhouse.io/capco/jobs/7826077",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance",
-        "Consulting"
-      ]
-    },
-    {
       "id": "gh_capco_7826087",
       "title": "Management Consultant - Operational Resilience & Cyber ",
       "company": "Capco",
@@ -13806,6 +14952,22 @@
       "posted_date": "17 Apr 2026",
       "days_ago": 83,
       "url": "https://job-boards.greenhouse.io/capco/jobs/7826087",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance",
+        "Consulting"
+      ]
+    },
+    {
+      "id": "gh_capco_7826077",
+      "title": "Management Consultant - Operational Resilience & Cyber ",
+      "company": "Capco",
+      "location": "UK - London",
+      "department": "Finance Risk & Compliance",
+      "posted_date": "17 Apr 2026",
+      "days_ago": 83,
+      "url": "https://job-boards.greenhouse.io/capco/jobs/7826077",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -13908,22 +15070,6 @@
       ]
     },
     {
-      "id": "gh_capco_7826092",
-      "title": "Principal Consultant (Senior Manager) - Operational Resilience & Cyber ",
-      "company": "Capco",
-      "location": "UK - London",
-      "department": "Finance Risk & Compliance",
-      "posted_date": "17 Apr 2026",
-      "days_ago": 83,
-      "url": "https://job-boards.greenhouse.io/capco/jobs/7826092",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance",
-        "Consulting"
-      ]
-    },
-    {
       "id": "gh_capco_7826101",
       "title": "Principal Consultant (Senior Manager) - Operational Resilience & Cyber ",
       "company": "Capco",
@@ -13940,14 +15086,14 @@
       ]
     },
     {
-      "id": "gh_capco_7824632",
-      "title": "Principal Consultant (Senior Manager) - Trade & Transaction Reporting ",
+      "id": "gh_capco_7826092",
+      "title": "Principal Consultant (Senior Manager) - Operational Resilience & Cyber ",
       "company": "Capco",
-      "location": "UK - Glasgow ",
+      "location": "UK - London",
       "department": "Finance Risk & Compliance",
       "posted_date": "17 Apr 2026",
       "days_ago": 83,
-      "url": "https://job-boards.greenhouse.io/capco/jobs/7824632",
+      "url": "https://job-boards.greenhouse.io/capco/jobs/7826092",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -13964,6 +15110,22 @@
       "posted_date": "17 Apr 2026",
       "days_ago": 83,
       "url": "https://job-boards.greenhouse.io/capco/jobs/7824609",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance",
+        "Consulting"
+      ]
+    },
+    {
+      "id": "gh_capco_7824632",
+      "title": "Principal Consultant (Senior Manager) - Trade & Transaction Reporting ",
+      "company": "Capco",
+      "location": "UK - Glasgow ",
+      "department": "Finance Risk & Compliance",
+      "posted_date": "17 Apr 2026",
+      "days_ago": 83,
+      "url": "https://job-boards.greenhouse.io/capco/jobs/7824632",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
