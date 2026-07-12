@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-12T03:38:19.282914+00:00",
-  "total": 991,
+  "last_updated": "2026-07-12T08:27:38.894394+00:00",
+  "total": 998,
   "errors": [],
   "meta": {
     "greenhouse_count": 29,
@@ -12,6 +12,21 @@
     "reed_enabled": true
   },
   "jobs": [
+    {
+      "id": "az_5797736489",
+      "title": "Business Analyst",
+      "company": "DGH Recruitment",
+      "location": "The City, Central London",
+      "department": "IT Jobs",
+      "posted_date": "12 Jul 2026",
+      "days_ago": -1,
+      "url": "https://www.adzuna.co.uk/jobs/details/5797736489?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
     {
       "id": "az_5796947590",
       "title": "Senior Analyst",
@@ -88,6 +103,22 @@
       ]
     },
     {
+      "id": "az_5796976957",
+      "title": "Business Analytics Lead Analyst, Vice President - Citi",
+      "company": "Citi",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "11 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5796976957?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Data & Analytics",
+        "Finance"
+      ]
+    },
+    {
       "id": "az_5797453832",
       "title": "Data Controls Assessment Analyst - Vice President",
       "company": "Citigroup",
@@ -101,6 +132,22 @@
       "tags": [
         "Data & Analytics",
         "Finance"
+      ]
+    },
+    {
+      "id": "az_5797653867",
+      "title": "Managing Consultant - Financial Services",
+      "company": "Delta Capita",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "12 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5797653867?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance",
+        "Consulting"
       ]
     },
     {
@@ -156,7 +203,7 @@
       "department": "IT Jobs",
       "posted_date": "11 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5796946082?se=YOIcGaN98RGMWLWu0iphBg&utm_medium=api&utm_source=348e4724&v=C1B3490527A3EBFEA2E9058DF1D47B6B65458F1A",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5796946082?se=ciWchct98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=C1B3490527A3EBFEA2E9058DF1D47B6B65458F1A",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -209,6 +256,22 @@
       ]
     },
     {
+      "id": "az_5797714540",
+      "title": "IPB Digital & Data Transformation - Investment Implementation Product Manager - Vice President",
+      "company": "J.P. Morgan",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "12 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5797714540?se=ciWchct98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=03CAF8E3A555C038A1E3DAFCA28AF4B52AB0E932",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Data & Analytics",
+        "Finance"
+      ]
+    },
+    {
       "id": "az_5796947896",
       "title": "Business Assistant Analyst",
       "company": "JPMorganChase",
@@ -216,7 +279,7 @@
       "department": "IT Jobs",
       "posted_date": "11 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5796947896?se=zCgVGaN98RGRL7PPrM47RQ&utm_medium=api&utm_source=348e4724&v=4BBC69ED9D36DF9793F94D9958929690DC3DDF80",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5796947896?se=ciWchct98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=4BBC69ED9D36DF9793F94D9958929690DC3DDF80",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -239,36 +302,6 @@
       ]
     },
     {
-      "id": "az_5796621114",
-      "title": "Senior Analytics Engineer",
-      "company": "Lendable",
-      "location": "London, UK",
-      "department": "IT Jobs",
-      "posted_date": "11 Jul 2026",
-      "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5796621114?se=thfsGKN98RG5j4aoIHLw6g&utm_medium=api&utm_source=348e4724&v=DA5CCEE14BDBDC840664C40C99316C569AC78F12",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
-      "id": "az_5796621141",
-      "title": "Analytics Engineer",
-      "company": "Lendable",
-      "location": "London, UK",
-      "department": "IT Jobs",
-      "posted_date": "11 Jul 2026",
-      "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5796621141?se=YOIcGaN98RGMWLWu0iphBg&utm_medium=api&utm_source=348e4724&v=43B4B86A67B7AD42666008721491CCFE46590CDD",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
       "id": "az_5796948217",
       "title": "Business Analyst (4 month contract)",
       "company": "Linklaters",
@@ -281,21 +314,6 @@
       "source_system": "Adzuna",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "az_5796532609",
-      "title": "Senior Data Scientist",
-      "company": "Lithe Consulting Ltd",
-      "location": "Barbican, Central London",
-      "department": "IT Jobs",
-      "posted_date": "11 Jul 2026",
-      "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/details/5796532609?utm_medium=api&utm_source=348e4724",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Data & Analytics"
       ]
     },
     {
@@ -360,6 +378,36 @@
       ]
     },
     {
+      "id": "reed_57113190",
+      "title": "Trainee Business Analysis Manager | No experience needed (Ref: 8101)",
+      "company": "Qualify Nation Recruitment",
+      "location": "London",
+      "department": "",
+      "posted_date": "12 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.reed.co.uk/jobs/trainee-business-analysis-manager--no-experience-needed-ref-8101/57113190",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate"
+      ]
+    },
+    {
+      "id": "reed_57113192",
+      "title": "Trainee AI and Automation Practitioner | No experience needed (Ref: 9301)",
+      "company": "Qualify Nation Recruitment",
+      "location": "London",
+      "department": "",
+      "posted_date": "12 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.reed.co.uk/jobs/trainee-ai-and-automation-practitioner--no-experience-needed-ref-9301/57113192",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate"
+      ]
+    },
+    {
       "id": "az_5796654484",
       "title": "Data Governance Analyst",
       "company": "Reed Technology",
@@ -368,6 +416,36 @@
       "posted_date": "11 Jul 2026",
       "days_ago": 0,
       "url": "https://www.adzuna.co.uk/jobs/details/5796654484?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "az_5797409793",
+      "title": "Metadata & Data Quality Manager",
+      "company": "Sainsbury's",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "12 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/details/5797409793?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "az_5797714554",
+      "title": "Metadata & Data Quality Manager",
+      "company": "Sainsbury's DTD",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "12 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5797714554?se=Nvmfhct98RG2W77HaMXIjA&utm_medium=api&utm_source=348e4724&v=330951384B81E868A3278C3B36B77EB5C76F3D48",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -397,7 +475,7 @@
       "department": "Graduate Jobs",
       "posted_date": "11 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5796949539?se=1ggDGaN98RGNqvBiBxieKA&utm_medium=api&utm_source=348e4724&v=EE6D780F9DB3B8BD0BCDAECD4EA55F0CF9C1D3C0",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5796949539?se=jNuthct98RG6JP0nGhfLVg&utm_medium=api&utm_source=348e4724&v=EE6D780F9DB3B8BD0BCDAECD4EA55F0CF9C1D3C0",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -413,7 +491,7 @@
       "department": "IT Jobs",
       "posted_date": "11 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5797087829?se=thfsGKN98RG5j4aoIHLw6g&utm_medium=api&utm_source=348e4724&v=78502F0D265207E41F542250094D547D09F15591",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5797087829?se=Nvmfhct98RG2W77HaMXIjA&utm_medium=api&utm_source=348e4724&v=78502F0D265207E41F542250094D547D09F15591",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -428,10 +506,87 @@
       "department": "Sales Jobs",
       "posted_date": "11 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5797161657?se=YOIcGaN98RGMWLWu0iphBg&utm_medium=api&utm_source=348e4724&v=CCD9F4708245F60CEF4343BEA8CFF97AF54DB192",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5797161657?se=ciWchct98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=CCD9F4708245F60CEF4343BEA8CFF97AF54DB192",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5797714575",
+      "title": "Lead Product Analyst - Business Account Management",
+      "company": "Wise",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "12 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5797714575?se=ciWchct98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=A652392B30ECA81426C4A3200D5B1D05F7F7256B",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5797714573",
+      "title": "Lead Product Analyst - Business Onboarding",
+      "company": "Wise",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "12 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5797714573?se=ciWchct98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=D2E7EB5ABA876B129F3335FBF1DFE7623CFFDDBE",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5797714570",
+      "title": "Lead Product Analyst - Business Operations - Wise Buisness",
+      "company": "Wise",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "12 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5797714570?se=ciWchct98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=BB32A0A18DE5926A6C98F82D9F36CA955F63130B",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5797714560",
+      "title": "Analytics Manager - Internal Audit",
+      "company": "Wise",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "12 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5797714560?se=Nvmfhct98RG2W77HaMXIjA&utm_medium=api&utm_source=348e4724&v=E87C48338F53081263E37028EB0926F4E8BAC705",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Data & Analytics",
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5797714548",
+      "title": "Senior Data Analyst - Internal Audit",
+      "company": "Wise",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "12 Jul 2026",
+      "days_ago": 0,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5797714548?se=Nvmfhct98RG2W77HaMXIjA&utm_medium=api&utm_source=348e4724&v=CAFE7DD2A23F762FFA29A77F7BB515A4CD1F3A82",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Data & Analytics",
         "Finance"
       ]
     },
@@ -443,56 +598,11 @@
       "department": "IT Jobs",
       "posted_date": "11 Jul 2026",
       "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5797127668?se=thfsGKN98RG5j4aoIHLw6g&utm_medium=api&utm_source=348e4724&v=AEF69A6594732D3EDA8C84DF96CC5A4637684BD3",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5797127668?se=Nvmfhct98RG2W77HaMXIjA&utm_medium=api&utm_source=348e4724&v=AEF69A6594732D3EDA8C84DF96CC5A4637684BD3",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
         "Data & Analytics"
-      ]
-    },
-    {
-      "id": "az_5796621121",
-      "title": "Data Engineering Manager - Treasury Global Liquidity",
-      "company": "Wise",
-      "location": "London, UK",
-      "department": "Engineering Jobs",
-      "posted_date": "11 Jul 2026",
-      "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5796621121?se=thfsGKN98RG5j4aoIHLw6g&utm_medium=api&utm_source=348e4724&v=ED8C50764A295938BE84559D9FA3A6CCCE039632",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
-      "id": "az_5796621098",
-      "title": "Senior Data Engineer II - Treasury Global Liquidity",
-      "company": "Wise",
-      "location": "London, UK",
-      "department": "Engineering Jobs",
-      "posted_date": "11 Jul 2026",
-      "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5796621098?se=thfsGKN98RG5j4aoIHLw6g&utm_medium=api&utm_source=348e4724&v=8F0844B77567DE60A1A9253DD9A224353C04B209",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
-      "id": "az_5796621110",
-      "title": "Head of Finance Business Partnering - Functions & Workforce Strategy",
-      "company": "Wise",
-      "location": "London, UK",
-      "department": "Accounting & Finance Jobs",
-      "posted_date": "11 Jul 2026",
-      "days_ago": 0,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5796621110?se=zCgVGaN98RGRL7PPrM47RQ&utm_medium=api&utm_source=348e4724&v=1079B69C37A3BB265DE58FB03169694D3A54B3AD",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
       ]
     },
     {
@@ -518,7 +628,7 @@
       "department": "IT Jobs",
       "posted_date": "10 Jul 2026",
       "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795804996?se=YOIcGaN98RGMWLWu0iphBg&utm_medium=api&utm_source=348e4724&v=BF12A6CF4D2A26635A9D71EC05E556A05A4CA868",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795804996?se=ciWchct98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=BF12A6CF4D2A26635A9D71EC05E556A05A4CA868",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -538,21 +648,6 @@
       "source_system": "Adzuna",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "az_5796339586",
-      "title": "Sr. Ad Tech Consultant, Ad Tech Solutions (ATS)",
-      "company": "Amazon",
-      "location": "London, UK",
-      "department": "IT Jobs",
-      "posted_date": "11 Jul 2026",
-      "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/details/5796339586?utm_medium=api&utm_source=348e4724",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Consulting"
       ]
     },
     {
@@ -583,6 +678,21 @@
       "source_system": "Adzuna",
       "tags": [
         "Finance"
+      ]
+    },
+    {
+      "id": "az_5796339586",
+      "title": "Sr. Ad Tech Consultant, Ad Tech Solutions (ATS)",
+      "company": "Amazon",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "11 Jul 2026",
+      "days_ago": 1,
+      "url": "https://www.adzuna.co.uk/jobs/details/5796339586?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Consulting"
       ]
     },
     {
@@ -628,22 +738,6 @@
       "source_system": "Adzuna",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "az_5795166124",
-      "title": "Private Banking Executive - Portuguese and/or Spanish speaking",
-      "company": "Barclays",
-      "location": "London, UK",
-      "department": "Accounting & Finance Jobs",
-      "posted_date": "10 Jul 2026",
-      "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795166124?se=GnX9GKN98RGNqvBiBxieKA&utm_medium=api&utm_source=348e4724&v=44505D772192F7D71F41A23DDB8162EC034ECD80",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance",
-        "Banking"
       ]
     },
     {
@@ -707,21 +801,6 @@
       ]
     },
     {
-      "id": "gh_ebury_4920992101",
-      "title": "Junior Client Portfolio Manager",
-      "company": "Ebury",
-      "location": "London",
-      "department": "FO - Customer Relations",
-      "posted_date": "10 Jul 2026",
-      "days_ago": 1,
-      "url": "https://job-boards.eu.greenhouse.io/ebury/jobs/4920992101",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "az_5795785488",
       "title": "Network Risk Analyst",
       "company": "Finlay Jude Associates Limited",
@@ -744,7 +823,7 @@
       "department": "PR, Advertising & Marketing Jobs",
       "posted_date": "10 Jul 2026",
       "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5796211257?se=thfsGKN98RG5j4aoIHLw6g&utm_medium=api&utm_source=348e4724&v=88E9AF7E519EFDC94E46A2263785416BCBE08623",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5796211257?se=Nvmfhct98RG2W77HaMXIjA&utm_medium=api&utm_source=348e4724&v=88E9AF7E519EFDC94E46A2263785416BCBE08623",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -827,21 +906,6 @@
       ]
     },
     {
-      "id": "az_5795581986",
-      "title": "Business Planning Analyst",
-      "company": "Harrison Holgate",
-      "location": "London, UK",
-      "department": "Accounting & Finance Jobs",
-      "posted_date": "10 Jul 2026",
-      "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795581986?se=YOIcGaN98RGMWLWu0iphBg&utm_medium=api&utm_source=348e4724&v=5FDE941492C44300A15156A60F09B5829FD6FD33",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "az_5795772895",
       "title": "Finance Analyst",
       "company": "Hays Specialist Recruitment Limited",
@@ -849,7 +913,7 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "10 Jul 2026",
       "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795772895?se=zCgVGaN98RGRL7PPrM47RQ&utm_medium=api&utm_source=348e4724&v=5F33D5B8FE4BE1F4435F1F7D917B078BBB77B598",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795772895?se=Vv2jhct98RGNqvBiBxieKA&utm_medium=api&utm_source=348e4724&v=5F33D5B8FE4BE1F4435F1F7D917B078BBB77B598",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -894,7 +958,7 @@
       "department": "IT Jobs",
       "posted_date": "10 Jul 2026",
       "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795618868?se=thfsGKN98RG5j4aoIHLw6g&utm_medium=api&utm_source=348e4724&v=BAEE725E3AA2A08210FAF92E09835439FB1E4F1B",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795618868?se=ciWchct98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=BAEE725E3AA2A08210FAF92E09835439FB1E4F1B",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -909,7 +973,7 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "10 Jul 2026",
       "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795902378?se=zCgVGaN98RGRL7PPrM47RQ&utm_medium=api&utm_source=348e4724&v=9C26568B8AC22599B41903CF01DBDAC4498B39E7",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795902378?se=ciWchct98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=9C26568B8AC22599B41903CF01DBDAC4498B39E7",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -924,7 +988,7 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "10 Jul 2026",
       "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795612277?se=zCgVGaN98RGRL7PPrM47RQ&utm_medium=api&utm_source=348e4724&v=86CC308C32ADF95174A5F172A428062E45A26382",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795612277?se=ciWchct98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=86CC308C32ADF95174A5F172A428062E45A26382",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -940,6 +1004,36 @@
       "posted_date": "10 Jul 2026",
       "days_ago": 1,
       "url": "https://www.adzuna.co.uk/jobs/details/5795601218?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "az_5796621141",
+      "title": "Analytics Engineer",
+      "company": "Lendable",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "11 Jul 2026",
+      "days_ago": 1,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5796621141?se=ciWchct98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=43B4B86A67B7AD42666008721491CCFE46590CDD",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "az_5796621114",
+      "title": "Senior Analytics Engineer",
+      "company": "Lendable",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "11 Jul 2026",
+      "days_ago": 1,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5796621114?se=Nvmfhct98RG2W77HaMXIjA&utm_medium=api&utm_source=348e4724&v=DA5CCEE14BDBDC840664C40C99316C569AC78F12",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -993,6 +1087,21 @@
       ]
     },
     {
+      "id": "az_5796532609",
+      "title": "Senior Data Scientist",
+      "company": "Lithe Consulting Ltd",
+      "location": "Barbican, Central London",
+      "department": "IT Jobs",
+      "posted_date": "11 Jul 2026",
+      "days_ago": 1,
+      "url": "https://www.adzuna.co.uk/jobs/details/5796532609?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
       "id": "az_5795932208",
       "title": "Group Cost Accountant",
       "company": "MCS Group",
@@ -1000,7 +1109,7 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "10 Jul 2026",
       "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795932208?se=thfsGKN98RG5j4aoIHLw6g&utm_medium=api&utm_source=348e4724&v=5AAC036B891878B02870C9DA90C96F8E46C2C1EE",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795932208?se=Nvmfhct98RG2W77HaMXIjA&utm_medium=api&utm_source=348e4724&v=5AAC036B891878B02870C9DA90C96F8E46C2C1EE",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -1061,7 +1170,7 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "10 Jul 2026",
       "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795618971?se=zCgVGaN98RGRL7PPrM47RQ&utm_medium=api&utm_source=348e4724&v=5A553FDC8EBCFB028A9DBEA303AB69BDD0B741A3",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795618971?se=Vv2jhct98RGNqvBiBxieKA&utm_medium=api&utm_source=348e4724&v=5A553FDC8EBCFB028A9DBEA303AB69BDD0B741A3",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -1076,7 +1185,7 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "10 Jul 2026",
       "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795778742?se=thfsGKN98RG5j4aoIHLw6g&utm_medium=api&utm_source=348e4724&v=C89DCA68D4605C03F3C8EF755C4B85477E7071DF",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795778742?se=Nvmfhct98RG2W77HaMXIjA&utm_medium=api&utm_source=348e4724&v=C89DCA68D4605C03F3C8EF755C4B85477E7071DF",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -1139,7 +1248,7 @@
       "department": "IT Jobs",
       "posted_date": "10 Jul 2026",
       "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795948563?se=YOIcGaN98RGMWLWu0iphBg&utm_medium=api&utm_source=348e4724&v=390661E2ED797DB1CB74BD60BF36A2AAB1B163FA",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795948563?se=ciWchct98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=390661E2ED797DB1CB74BD60BF36A2AAB1B163FA",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -1154,7 +1263,7 @@
       "department": "Graduate Jobs",
       "posted_date": "10 Jul 2026",
       "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795946536?se=zCgVGaN98RGRL7PPrM47RQ&utm_medium=api&utm_source=348e4724&v=DCDA174D30A313A6BFE91CB5F4B675DD0101F41A",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795946536?se=Vv2jhct98RGNqvBiBxieKA&utm_medium=api&utm_source=348e4724&v=DCDA174D30A313A6BFE91CB5F4B675DD0101F41A",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -1184,7 +1293,7 @@
       "department": "IT Jobs",
       "posted_date": "10 Jul 2026",
       "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795581620?se=zCgVGaN98RGRL7PPrM47RQ&utm_medium=api&utm_source=348e4724&v=7CBB7FED9FE5DF80E6E977AF640C8ED2F43BE805",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795581620?se=Vv2jhct98RGNqvBiBxieKA&utm_medium=api&utm_source=348e4724&v=7CBB7FED9FE5DF80E6E977AF640C8ED2F43BE805",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -1219,66 +1328,6 @@
       "source_system": "Adzuna",
       "tags": [
         "Data & Analytics"
-      ]
-    },
-    {
-      "id": "reed_57112780",
-      "title": "Trainee AI and Automation Practitioner | No experience needed (Ref: 9301)",
-      "company": "Qualify Nation Recruitment",
-      "location": "London",
-      "department": "",
-      "posted_date": "11 Jul 2026",
-      "days_ago": 1,
-      "url": "https://www.reed.co.uk/jobs/trainee-ai-and-automation-practitioner--no-experience-needed-ref-9301/57112780",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate"
-      ]
-    },
-    {
-      "id": "reed_57112784",
-      "title": "Trainee Business Analysis Manager | No experience needed (Ref: 8101)",
-      "company": "Qualify Nation Recruitment",
-      "location": "London",
-      "department": "",
-      "posted_date": "11 Jul 2026",
-      "days_ago": 1,
-      "url": "https://www.reed.co.uk/jobs/trainee-business-analysis-manager--no-experience-needed-ref-8101/57112784",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate"
-      ]
-    },
-    {
-      "id": "az_5795592654",
-      "title": "Trainee AI and Automation Practitioner | No experience needed (Ref: 9301)",
-      "company": "Qualify Nation Recruitment",
-      "location": "London, UK",
-      "department": "IT Jobs",
-      "posted_date": "10 Jul 2026",
-      "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/details/5795592654?utm_medium=api&utm_source=348e4724",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "az_5795588933",
-      "title": "Trainee Business Analysis Manager | No experience needed (Ref: 8101)",
-      "company": "Qualify Nation Recruitment",
-      "location": "London, UK",
-      "department": "IT Jobs",
-      "posted_date": "10 Jul 2026",
-      "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/details/5795588933?utm_medium=api&utm_source=348e4724",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
       ]
     },
     {
@@ -1372,128 +1421,6 @@
       ]
     },
     {
-      "id": "az_5795126620",
-      "title": "Technical Business Analyst",
-      "company": "The Opportunity Hub UK",
-      "location": "London, UK",
-      "department": "IT Jobs",
-      "posted_date": "10 Jul 2026",
-      "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/details/5795126620?utm_medium=api&utm_source=348e4724",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "az_5795126726",
-      "title": "Data Analyst Intern - Financial Markets",
-      "company": "The Opportunity Hub UK",
-      "location": "London, UK",
-      "department": "Consultancy Jobs",
-      "posted_date": "10 Jul 2026",
-      "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/details/5795126726?utm_medium=api&utm_source=348e4724",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Data & Analytics",
-        "Finance",
-        "Consulting"
-      ]
-    },
-    {
-      "id": "az_5795126645",
-      "title": "Company Intelligence Analyst",
-      "company": "The Opportunity Hub UK",
-      "location": "London, UK",
-      "department": "IT Jobs",
-      "posted_date": "10 Jul 2026",
-      "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/details/5795126645?utm_medium=api&utm_source=348e4724",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "az_5795126583",
-      "title": "Quant Analyst",
-      "company": "The Opportunity Hub UK",
-      "location": "London, UK",
-      "department": "IT Jobs",
-      "posted_date": "10 Jul 2026",
-      "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/details/5795126583?utm_medium=api&utm_source=348e4724",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "az_5795126729",
-      "title": "Credit Analyst High Yield/ Distressed Debt",
-      "company": "The Opportunity Hub UK",
-      "location": "London, UK",
-      "department": "Accounting & Finance Jobs",
-      "posted_date": "10 Jul 2026",
-      "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/details/5795126729?utm_medium=api&utm_source=348e4724",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "az_5795166075",
-      "title": "Associate, Client Services - Korean Speaker (2027 Start)",
-      "company": "Third Bridge Group",
-      "location": "London, UK",
-      "department": "Sales Jobs",
-      "posted_date": "10 Jul 2026",
-      "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795166075?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=F8D909A02656B7BA8E1253A9205AA5AB99DD4BD5",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "az_5795166092",
-      "title": "Graduate Associate, Client Services - Japanese Speaker (2027 Start)",
-      "company": "Third Bridge Group",
-      "location": "London, UK",
-      "department": "Graduate Jobs",
-      "posted_date": "10 Jul 2026",
-      "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795166092?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=BDC870C365455689B39193A041303A8E7EE1C358",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Graduate"
-      ]
-    },
-    {
-      "id": "az_5795166097",
-      "title": "Associate, Client Services - Japanese Speaker (2027 Start)",
-      "company": "Third Bridge Group",
-      "location": "London, UK",
-      "department": "Sales Jobs",
-      "posted_date": "10 Jul 2026",
-      "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795166097?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=FD6114362ADBDB0A0CD1971F6DC366714C89C549",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "az_5795619924",
       "title": "Analyst Graduate Programme 26/27",
       "company": "Turnkey Consulting",
@@ -1516,11 +1443,56 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "10 Jul 2026",
       "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795902365?se=zCgVGaN98RGRL7PPrM47RQ&utm_medium=api&utm_source=348e4724&v=5CA8CF7E920010488AE58B8279B886BF33C03B96",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795902365?se=Vv2jhct98RGNqvBiBxieKA&utm_medium=api&utm_source=348e4724&v=5CA8CF7E920010488AE58B8279B886BF33C03B96",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
         "Finance"
+      ]
+    },
+    {
+      "id": "az_5796621110",
+      "title": "Head of Finance Business Partnering - Functions & Workforce Strategy",
+      "company": "Wise",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "11 Jul 2026",
+      "days_ago": 1,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5796621110?se=ciWchct98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=1079B69C37A3BB265DE58FB03169694D3A54B3AD",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5796621098",
+      "title": "Senior Data Engineer II - Treasury Global Liquidity",
+      "company": "Wise",
+      "location": "London, UK",
+      "department": "Engineering Jobs",
+      "posted_date": "11 Jul 2026",
+      "days_ago": 1,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5796621098?se=Nvmfhct98RG2W77HaMXIjA&utm_medium=api&utm_source=348e4724&v=8F0844B77567DE60A1A9253DD9A224353C04B209",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "az_5796621121",
+      "title": "Data Engineering Manager - Treasury Global Liquidity",
+      "company": "Wise",
+      "location": "London, UK",
+      "department": "Engineering Jobs",
+      "posted_date": "11 Jul 2026",
+      "days_ago": 1,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5796621121?se=Nvmfhct98RG2W77HaMXIjA&utm_medium=api&utm_source=348e4724&v=ED8C50764A295938BE84559D9FA3A6CCCE039632",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Data & Analytics"
       ]
     },
     {
@@ -1531,7 +1503,7 @@
       "department": "IT Jobs",
       "posted_date": "10 Jul 2026",
       "days_ago": 1,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795617682?se=YOIcGaN98RGMWLWu0iphBg&utm_medium=api&utm_source=348e4724&v=B254DCCE728291CC6FEB7C28ACC27B32F2416CD2",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795617682?se=ciWchct98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=B254DCCE728291CC6FEB7C28ACC27B32F2416CD2",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -1585,6 +1557,22 @@
       ]
     },
     {
+      "id": "az_5795166124",
+      "title": "Private Banking Executive - Portuguese and/or Spanish speaking",
+      "company": "Barclays",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "10 Jul 2026",
+      "days_ago": 2,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795166124?se=inXFhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=44505D772192F7D71F41A23DDB8162EC034ECD80",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance",
+        "Banking"
+      ]
+    },
+    {
       "id": "az_5794886790",
       "title": "Bloomberg Intelligence European Consumer Credit Research Analyst",
       "company": "Bloomberg",
@@ -1597,21 +1585,6 @@
       "source_system": "Adzuna",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "az_5794886630",
-      "title": "Senior Data Engineer - Python",
-      "company": "Bloomberg",
-      "location": "London, UK",
-      "department": "IT Jobs",
-      "posted_date": "10 Jul 2026",
-      "days_ago": 2,
-      "url": "https://www.adzuna.co.uk/jobs/details/5794886630?utm_medium=api&utm_source=348e4724",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Data & Analytics"
       ]
     },
     {
@@ -1706,6 +1679,21 @@
       ]
     },
     {
+      "id": "gh_ebury_4920992101",
+      "title": "Junior Client Portfolio Manager",
+      "company": "Ebury",
+      "location": "London",
+      "department": "FO - Customer Relations",
+      "posted_date": "10 Jul 2026",
+      "days_ago": 2,
+      "url": "https://job-boards.eu.greenhouse.io/ebury/jobs/4920992101",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "gh_fireblocks_4684189006",
       "title": "Sales Engineer, Banking ",
       "company": "Fireblocks",
@@ -1788,7 +1776,7 @@
       "department": "Sales Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 2,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794246547?se=Wqv1GKN98RG6JP0nGhfLVg&utm_medium=api&utm_source=348e4724&v=6AC3A6F0166D7A987BB7E9226F1EA58F6C42EFA0",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794246547?se=Wk2bhct98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=6AC3A6F0166D7A987BB7E9226F1EA58F6C42EFA0",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -1803,26 +1791,11 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 2,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794271923?se=zCgVGaN98RGRL7PPrM47RQ&utm_medium=api&utm_source=348e4724&v=F0184B925563231716ED4C3BE4A1A0CEEE139B64",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794271923?se=Vv2jhct98RGNqvBiBxieKA&utm_medium=api&utm_source=348e4724&v=F0184B925563231716ED4C3BE4A1A0CEEE139B64",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "reed_57111702",
-      "title": "Senior Data Analyst - Marketing & Digital",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "London",
-      "department": "",
-      "posted_date": "10 Jul 2026",
-      "days_ago": 2,
-      "url": "https://www.reed.co.uk/jobs/senior-data-analyst-marketing-digital/57111702",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Data & Analytics"
       ]
     },
     {
@@ -1842,16 +1815,16 @@
       ]
     },
     {
-      "id": "az_5794861958",
-      "title": "Senior Data Analyst",
+      "id": "reed_57111702",
+      "title": "Senior Data Analyst - Marketing & Digital",
       "company": "Harnham - Data & Analytics Recruitment",
-      "location": "London, UK",
-      "department": "PR, Advertising & Marketing Jobs",
+      "location": "London",
+      "department": "",
       "posted_date": "10 Jul 2026",
       "days_ago": 2,
-      "url": "https://www.adzuna.co.uk/jobs/details/5794861958?utm_medium=api&utm_source=348e4724",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
+      "url": "https://www.reed.co.uk/jobs/senior-data-analyst-marketing-digital/57111702",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
       "tags": [
         "Data & Analytics"
       ]
@@ -1940,7 +1913,7 @@
       "department": "IT Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 2,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794298103?se=zCgVGaN98RGRL7PPrM47RQ&utm_medium=api&utm_source=348e4724&v=E19725A5258340ED9BE8D308778E5E3743740742",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794298103?se=Vv2jhct98RGNqvBiBxieKA&utm_medium=api&utm_source=348e4724&v=E19725A5258340ED9BE8D308778E5E3743740742",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -1955,7 +1928,7 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 2,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794283396?se=zCgVGaN98RGRL7PPrM47RQ&utm_medium=api&utm_source=348e4724&v=18885076D0A18FFBB93F63FCBB4200A5843A71F9",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794283396?se=Vv2jhct98RGNqvBiBxieKA&utm_medium=api&utm_source=348e4724&v=18885076D0A18FFBB93F63FCBB4200A5843A71F9",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -1985,7 +1958,7 @@
       "department": "IT Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 2,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794392850?se=GnX9GKN98RGNqvBiBxieKA&utm_medium=api&utm_source=348e4724&v=28726F6461A16B1FF225E678722F2967086C9EAE",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794392850?se=inXFhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=28726F6461A16B1FF225E678722F2967086C9EAE",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -2003,21 +1976,6 @@
       "url": "https://www.adzuna.co.uk/jobs/details/5794572237?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_mangroup_4828179101",
-      "title": "Senior Stewardship Analyst",
-      "company": "Man Group",
-      "location": "London",
-      "department": "Responsible Investing",
-      "posted_date": "09 Jul 2026",
-      "days_ago": 2,
-      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4828179101",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
       "tags": [
         "Finance"
       ]
@@ -2265,18 +2223,125 @@
       ]
     },
     {
-      "id": "az_5794393658",
-      "title": "Graduate Associate, Client Services - Norwegian Speaker (2027 Start)",
+      "id": "az_5795126620",
+      "title": "Technical Business Analyst",
+      "company": "The Opportunity Hub UK",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "10 Jul 2026",
+      "days_ago": 2,
+      "url": "https://www.adzuna.co.uk/jobs/details/5795126620?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5795126726",
+      "title": "Data Analyst Intern - Financial Markets",
+      "company": "The Opportunity Hub UK",
+      "location": "London, UK",
+      "department": "Consultancy Jobs",
+      "posted_date": "10 Jul 2026",
+      "days_ago": 2,
+      "url": "https://www.adzuna.co.uk/jobs/details/5795126726?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Data & Analytics",
+        "Finance",
+        "Consulting"
+      ]
+    },
+    {
+      "id": "az_5795126645",
+      "title": "Company Intelligence Analyst",
+      "company": "The Opportunity Hub UK",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "10 Jul 2026",
+      "days_ago": 2,
+      "url": "https://www.adzuna.co.uk/jobs/details/5795126645?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5795126729",
+      "title": "Credit Analyst High Yield/ Distressed Debt",
+      "company": "The Opportunity Hub UK",
+      "location": "London, UK",
+      "department": "Accounting & Finance Jobs",
+      "posted_date": "10 Jul 2026",
+      "days_ago": 2,
+      "url": "https://www.adzuna.co.uk/jobs/details/5795126729?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5795126583",
+      "title": "Quant Analyst",
+      "company": "The Opportunity Hub UK",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "10 Jul 2026",
+      "days_ago": 2,
+      "url": "https://www.adzuna.co.uk/jobs/details/5795126583?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5795166075",
+      "title": "Associate, Client Services - Korean Speaker (2027 Start)",
+      "company": "Third Bridge Group",
+      "location": "London, UK",
+      "department": "Sales Jobs",
+      "posted_date": "10 Jul 2026",
+      "days_ago": 2,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795166075?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=F8D909A02656B7BA8E1253A9205AA5AB99DD4BD5",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5795166092",
+      "title": "Graduate Associate, Client Services - Japanese Speaker (2027 Start)",
       "company": "Third Bridge Group",
       "location": "London, UK",
       "department": "Graduate Jobs",
-      "posted_date": "09 Jul 2026",
+      "posted_date": "10 Jul 2026",
       "days_ago": 2,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393658?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=4E8C43FB02BD062167F94E138FDBAEE941293376",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795166092?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=BDC870C365455689B39193A041303A8E7EE1C358",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
         "Graduate"
+      ]
+    },
+    {
+      "id": "az_5795166097",
+      "title": "Associate, Client Services - Japanese Speaker (2027 Start)",
+      "company": "Third Bridge Group",
+      "location": "London, UK",
+      "department": "Sales Jobs",
+      "posted_date": "10 Jul 2026",
+      "days_ago": 2,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5795166097?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=FD6114362ADBDB0A0CD1971F6DC366714C89C549",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
       ]
     },
     {
@@ -2287,7 +2352,7 @@
       "department": "Graduate Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 2,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393661?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=2BA8C6207C0C0C9A5A4B679AE75725D8254F5337",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393661?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=2BA8C6207C0C0C9A5A4B679AE75725D8254F5337",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -2295,14 +2360,14 @@
       ]
     },
     {
-      "id": "az_5794393592",
-      "title": "Graduate Associate, Client Services - Norwegian Speaker",
+      "id": "az_5794393658",
+      "title": "Graduate Associate, Client Services - Norwegian Speaker (2027 Start)",
       "company": "Third Bridge Group",
       "location": "London, UK",
       "department": "Graduate Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 2,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393592?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=85689ECCAD35BD3E9C4E5C1AE46A0480A6434403",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393658?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=4E8C43FB02BD062167F94E138FDBAEE941293376",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -2317,7 +2382,7 @@
       "department": "Graduate Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 2,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393576?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=C2373B3BD740A428FF6D527BACB1DACCD2180BBC",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393576?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=C2373B3BD740A428FF6D527BACB1DACCD2180BBC",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -2332,7 +2397,7 @@
       "department": "Graduate Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 2,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393622?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=27725AE7DE5EB4CDB4252DBAC6B0058A9A90715D",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393622?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=27725AE7DE5EB4CDB4252DBAC6B0058A9A90715D",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -2347,7 +2412,7 @@
       "department": "Graduate Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 2,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393580?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=279C6FCFE93DA5093C7499CE81A754D088AE8454",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393580?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=279C6FCFE93DA5093C7499CE81A754D088AE8454",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -2362,7 +2427,22 @@
       "department": "Graduate Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 2,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393618?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=233C145C7FEE01901F84EB2430A39FDF76A8F516",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393618?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=233C145C7FEE01901F84EB2430A39FDF76A8F516",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Graduate"
+      ]
+    },
+    {
+      "id": "az_5794393592",
+      "title": "Graduate Associate, Client Services - Norwegian Speaker",
+      "company": "Third Bridge Group",
+      "location": "London, UK",
+      "department": "Graduate Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 2,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393592?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=85689ECCAD35BD3E9C4E5C1AE46A0480A6434403",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -2377,7 +2457,7 @@
       "department": "Graduate Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 2,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393581?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=42397B4B4F5E7392E9BF405E37DA92927F18B2FD",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393581?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=42397B4B4F5E7392E9BF405E37DA92927F18B2FD",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -2392,7 +2472,7 @@
       "department": "Graduate Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 2,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393504?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=114A9EFAD903AB0F9225419BBC36FCE438EA3C73",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393504?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=114A9EFAD903AB0F9225419BBC36FCE438EA3C73",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -2407,7 +2487,7 @@
       "department": "Graduate Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 2,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393517?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=798CC840B8E4A986419F43857AC2DB3D5C3C1013",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393517?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=798CC840B8E4A986419F43857AC2DB3D5C3C1013",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -2422,7 +2502,7 @@
       "department": "Graduate Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 2,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393555?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=9F7DCE971DCC4BB7FBED52882A2328C7CDCA6241",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393555?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=9F7DCE971DCC4BB7FBED52882A2328C7CDCA6241",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -2437,22 +2517,7 @@
       "department": "Graduate Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 2,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393530?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=394E6401EA3B1757D7960611F9A66B025BF40F50",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Graduate"
-      ]
-    },
-    {
-      "id": "az_5794393486",
-      "title": "Graduate Associate, Client Services - Nordic Languages Speaker",
-      "company": "Third Bridge Group",
-      "location": "London, UK",
-      "department": "Graduate Jobs",
-      "posted_date": "09 Jul 2026",
-      "days_ago": 2,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393486?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=FBE113194D7E0ED45D5CAE1A038820615430074E",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393530?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=394E6401EA3B1757D7960611F9A66B025BF40F50",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -2467,7 +2532,7 @@
       "department": "Graduate Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 2,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393536?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=3697853C51C9524B8305436868860494214F3DB0",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393536?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=3697853C51C9524B8305436868860494214F3DB0",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -2482,7 +2547,7 @@
       "department": "Graduate Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 2,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393533?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=5C02AA7A8D083FA53A76B076A5154D6FF22FAE28",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393533?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=5C02AA7A8D083FA53A76B076A5154D6FF22FAE28",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -2497,7 +2562,22 @@
       "department": "Graduate Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 2,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393528?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=B1C708F1F353CC83F75FE7A103659EEFE2E713DD",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393528?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=B1C708F1F353CC83F75FE7A103659EEFE2E713DD",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Graduate"
+      ]
+    },
+    {
+      "id": "az_5794393486",
+      "title": "Graduate Associate, Client Services - Nordic Languages Speaker",
+      "company": "Third Bridge Group",
+      "location": "London, UK",
+      "department": "Graduate Jobs",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 2,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794393486?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=FBE113194D7E0ED45D5CAE1A038820615430074E",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -2512,7 +2592,7 @@
       "department": "Graduate Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 2,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794392859?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=4F155AE4247A2DAFC481C905D4741FC00405C023",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794392859?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=4F155AE4247A2DAFC481C905D4741FC00405C023",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -2527,7 +2607,7 @@
       "department": "Graduate Jobs",
       "posted_date": "09 Jul 2026",
       "days_ago": 2,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794392823?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=FD4C96A50136E3CAF9731E024839304446A9471E",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5794392823?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=FD4C96A50136E3CAF9731E024839304446A9471E",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -2917,7 +2997,7 @@
       "department": "IT Jobs",
       "posted_date": "08 Jul 2026",
       "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5792799556?se=GnX9GKN98RGNqvBiBxieKA&utm_medium=api&utm_source=348e4724&v=C6A84324AEB646C271134CF26AD67A0165A69301",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5792799556?se=inXFhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=C6A84324AEB646C271134CF26AD67A0165A69301",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -2978,7 +3058,7 @@
       "department": "IT Jobs",
       "posted_date": "08 Jul 2026",
       "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5792434533?se=GnX9GKN98RGNqvBiBxieKA&utm_medium=api&utm_source=348e4724&v=A83E69775F2D20BA28CF0DA1123E6241D83B3BF1",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5792434533?se=inXFhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=A83E69775F2D20BA28CF0DA1123E6241D83B3BF1",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -2999,6 +3079,21 @@
       "tags": [
         "Finance",
         "Quantitative"
+      ]
+    },
+    {
+      "id": "gh_mangroup_4828179101",
+      "title": "Senior Stewardship Analyst",
+      "company": "Man Group",
+      "location": "London",
+      "department": "Responsible Investing",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 3,
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4828179101",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
       ]
     },
     {
@@ -3093,36 +3188,6 @@
       ]
     },
     {
-      "id": "az_5791921406",
-      "title": "Business Systems Analyst",
-      "company": "Robert Half",
-      "location": "London, UK",
-      "department": "IT Jobs",
-      "posted_date": "08 Jul 2026",
-      "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5791921406?se=Wqv1GKN98RG6JP0nGhfLVg&utm_medium=api&utm_source=348e4724&v=A70AB8620A533384767CFBF69F0F62E04778861D",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "az_5792104078",
-      "title": "Business Systems Analyst",
-      "company": "Robert Half Limited",
-      "location": "London, UK",
-      "department": "IT Jobs",
-      "posted_date": "08 Jul 2026",
-      "days_ago": 3,
-      "url": "https://www.adzuna.co.uk/jobs/details/5792104078?utm_medium=api&utm_source=348e4724",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "gh_schonfeld_8031499",
       "title": "AI Strategy Analyst ",
       "company": "Schonfeld",
@@ -3164,6 +3229,21 @@
       "url": "https://www.adzuna.co.uk/jobs/details/5792206693?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "reed_57106432",
+      "title": "PMO Analyst",
+      "company": "TPP Recruitment",
+      "location": "Lambeth",
+      "department": "",
+      "posted_date": "09 Jul 2026",
+      "days_ago": 3,
+      "url": "https://www.reed.co.uk/jobs/pmo-analyst/57106432",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
       "tags": [
         "Finance"
       ]
@@ -3229,21 +3309,6 @@
       ]
     },
     {
-      "id": "gh_dunnhumby_7776801003",
-      "title": "Senior Applied Data Scientist",
-      "company": "dunnhumby",
-      "location": "London",
-      "department": "Applied Data Science - UK & Ireland",
-      "posted_date": "08 Jul 2026",
-      "days_ago": 3,
-      "url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7776801003",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
       "id": "gh_dunnhumby_7741522003",
       "title": "Senior Applied Data Scientist",
       "company": "dunnhumby",
@@ -3252,6 +3317,21 @@
       "posted_date": "08 Jul 2026",
       "days_ago": 3,
       "url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7741522003",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "gh_dunnhumby_7776801003",
+      "title": "Senior Applied Data Scientist",
+      "company": "dunnhumby",
+      "location": "London",
+      "department": "Applied Data Science - UK & Ireland",
+      "posted_date": "08 Jul 2026",
+      "days_ago": 3,
+      "url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7776801003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -3311,7 +3391,7 @@
       "department": "IT Jobs",
       "posted_date": "07 Jul 2026",
       "days_ago": 4,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5790937609?se=Wqv1GKN98RG6JP0nGhfLVg&utm_medium=api&utm_source=348e4724&v=80C3AA01BBC75A43C673A6780B9A00D77FD17FF5",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5790937609?se=Wk2bhct98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=80C3AA01BBC75A43C673A6780B9A00D77FD17FF5",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -3326,7 +3406,7 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "07 Jul 2026",
       "days_ago": 4,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5791187917?se=GnX9GKN98RGNqvBiBxieKA&utm_medium=api&utm_source=348e4724&v=4E098443D254FA7D5C15D450FEC308890EC0DB01",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5791187917?se=inXFhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=4E098443D254FA7D5C15D450FEC308890EC0DB01",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -3454,6 +3534,21 @@
       ]
     },
     {
+      "id": "reed_57104072",
+      "title": "Credit Risk Director",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "location": "London",
+      "department": "",
+      "posted_date": "08 Jul 2026",
+      "days_ago": 4,
+      "url": "https://www.reed.co.uk/jobs/credit-risk-director/57104072",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "reed_57104030",
       "title": "Product Analyst / Data Scientist",
       "company": "Harnham - Data & Analytics Recruitment",
@@ -3481,21 +3576,6 @@
       "source_system": "Reed",
       "tags": [
         "Data & Analytics"
-      ]
-    },
-    {
-      "id": "reed_57104072",
-      "title": "Credit Risk Director",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "London",
-      "department": "",
-      "posted_date": "08 Jul 2026",
-      "days_ago": 4,
-      "url": "https://www.reed.co.uk/jobs/credit-risk-director/57104072",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Finance"
       ]
     },
     {
@@ -3591,21 +3671,6 @@
       ]
     },
     {
-      "id": "az_5790632020",
-      "title": "Market Risk Business Analyst",
-      "company": "Hays",
-      "location": "London, UK",
-      "department": "IT Jobs",
-      "posted_date": "07 Jul 2026",
-      "days_ago": 4,
-      "url": "https://www.adzuna.co.uk/jobs/details/5790632020?utm_medium=api&utm_source=348e4724",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "reed_57100718",
       "title": "Trainee Software Developer",
       "company": "ITOL Recruit",
@@ -3618,22 +3683,6 @@
       "source_system": "Reed",
       "tags": [
         "Graduate"
-      ]
-    },
-    {
-      "id": "reed_57102368",
-      "title": "Junior Data Analyst",
-      "company": "Lorien",
-      "location": "London",
-      "department": "",
-      "posted_date": "08 Jul 2026",
-      "days_ago": 4,
-      "url": "https://www.reed.co.uk/jobs/junior-data-analyst/57102368",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate",
-        "Data & Analytics"
       ]
     },
     {
@@ -3651,6 +3700,22 @@
         "Graduate",
         "Data & Analytics",
         "Finance"
+      ]
+    },
+    {
+      "id": "reed_57102368",
+      "title": "Junior Data Analyst",
+      "company": "Lorien",
+      "location": "London",
+      "department": "",
+      "posted_date": "08 Jul 2026",
+      "days_ago": 4,
+      "url": "https://www.reed.co.uk/jobs/junior-data-analyst/57102368",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate",
+        "Data & Analytics"
       ]
     },
     {
@@ -3676,7 +3741,7 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "07 Jul 2026",
       "days_ago": 4,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5791143558?se=GnX9GKN98RGNqvBiBxieKA&utm_medium=api&utm_source=348e4724&v=3D1AE63FA7C9B5CE3F830DFC7CC144710F0F1018",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5791143558?se=inXFhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=3D1AE63FA7C9B5CE3F830DFC7CC144710F0F1018",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -3845,6 +3910,36 @@
       "url": "https://www.reed.co.uk/jobs/business-analyst/57102409",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5791921406",
+      "title": "Business Systems Analyst",
+      "company": "Robert Half",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "08 Jul 2026",
+      "days_ago": 4,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5791921406?se=Wk2bhct98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=A70AB8620A533384767CFBF69F0F62E04778861D",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "az_5792104078",
+      "title": "Business Systems Analyst",
+      "company": "Robert Half Limited",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "08 Jul 2026",
+      "days_ago": 4,
+      "url": "https://www.adzuna.co.uk/jobs/details/5792104078?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
       "tags": [
         "Finance"
       ]
@@ -4040,7 +4135,7 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 5,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789970001?se=GnX9GKN98RGNqvBiBxieKA&utm_medium=api&utm_source=348e4724&v=10321F1A64FC0710C95FB90684F0FFC1EF650EFE",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789970001?se=inXFhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=10321F1A64FC0710C95FB90684F0FFC1EF650EFE",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -4093,21 +4188,6 @@
       ]
     },
     {
-      "id": "gh_gocardless_8045004",
-      "title": "People Advisor",
-      "company": "GoCardless",
-      "location": "Leeds, UK",
-      "department": "People",
-      "posted_date": "06 Jul 2026",
-      "days_ago": 5,
-      "url": "https://job-boards.greenhouse.io/gocardless/jobs/8045004",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "reed_57099360",
       "title": "Growth Analyst",
       "company": "Harnham - Data & Analytics Recruitment",
@@ -4138,6 +4218,21 @@
       ]
     },
     {
+      "id": "az_5790632020",
+      "title": "Market Risk Business Analyst",
+      "company": "Hays",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "07 Jul 2026",
+      "days_ago": 5,
+      "url": "https://www.adzuna.co.uk/jobs/details/5790632020?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "az_5790072344",
       "title": "Finance Systems Manager - ERP",
       "company": "Hays Specialist Recruitment Limited",
@@ -4145,7 +4240,7 @@
       "department": "IT Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 5,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5790072344?se=Wqv1GKN98RG6JP0nGhfLVg&utm_medium=api&utm_source=348e4724&v=3873D7829BA4F91F6EF1AC56AEAA45F9E323B65B",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5790072344?se=Wk2bhct98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=3873D7829BA4F91F6EF1AC56AEAA45F9E323B65B",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -4190,7 +4285,7 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 5,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5790220040?se=GnX9GKN98RGNqvBiBxieKA&utm_medium=api&utm_source=348e4724&v=16747752BEE679D9B07B337C9A128AACE98854EA",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5790220040?se=inXFhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=16747752BEE679D9B07B337C9A128AACE98854EA",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -4210,38 +4305,6 @@
       "source_system": "Reed",
       "tags": [
         "Finance"
-      ]
-    },
-    {
-      "id": "reed_57095987",
-      "title": "Trainee Data Analyst",
-      "company": "ITOL Recruit",
-      "location": "W69JU",
-      "department": "",
-      "posted_date": "07 Jul 2026",
-      "days_ago": 5,
-      "url": "https://www.reed.co.uk/jobs/trainee-data-analyst/57095987",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate",
-        "Data & Analytics"
-      ]
-    },
-    {
-      "id": "reed_57095845",
-      "title": "Data Analyst Trainee",
-      "company": "ITOL Recruit",
-      "location": "WC1H9HE",
-      "department": "",
-      "posted_date": "07 Jul 2026",
-      "days_ago": 5,
-      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57095845",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate",
-        "Data & Analytics"
       ]
     },
     {
@@ -4305,6 +4368,38 @@
       ]
     },
     {
+      "id": "reed_57095987",
+      "title": "Trainee Data Analyst",
+      "company": "ITOL Recruit",
+      "location": "W69JU",
+      "department": "",
+      "posted_date": "07 Jul 2026",
+      "days_ago": 5,
+      "url": "https://www.reed.co.uk/jobs/trainee-data-analyst/57095987",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate",
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "reed_57095845",
+      "title": "Data Analyst Trainee",
+      "company": "ITOL Recruit",
+      "location": "WC1H9HE",
+      "department": "",
+      "posted_date": "07 Jul 2026",
+      "days_ago": 5,
+      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57095845",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate",
+        "Data & Analytics"
+      ]
+    },
+    {
       "id": "reed_57095891",
       "title": "Business Analyst Trainee",
       "company": "ITOL Recruit",
@@ -4357,7 +4452,7 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 5,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789989691?se=GnX9GKN98RGNqvBiBxieKA&utm_medium=api&utm_source=348e4724&v=3DDAFB2E89F75950BE48E28F880F95D65F968A77",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789989691?se=inXFhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=3DDAFB2E89F75950BE48E28F880F95D65F968A77",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -4402,7 +4497,7 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 5,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5790011875?se=Wqv1GKN98RG6JP0nGhfLVg&utm_medium=api&utm_source=348e4724&v=343D2495C03035890A26CFA3D80859FE0533B2EC",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5790011875?se=Wk2bhct98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=343D2495C03035890A26CFA3D80859FE0533B2EC",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -4572,7 +4667,7 @@
       "department": "IT Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 5,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789989573?se=GnX9GKN98RGNqvBiBxieKA&utm_medium=api&utm_source=348e4724&v=4264FEEE4FB81FAF06C320E6C6F12255EF52B3EB",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789989573?se=inXFhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=4264FEEE4FB81FAF06C320E6C6F12255EF52B3EB",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -4602,7 +4697,7 @@
       "department": "Sales Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 5,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988074?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=F6C2710EEC034EE1E668D685CAEED41F7A504623",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988074?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=F6C2710EEC034EE1E668D685CAEED41F7A504623",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -4617,7 +4712,7 @@
       "department": "Sales Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 5,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988092?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=EEED3496FD8A80BBCC3854C1DF96205C4D6FE964",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988092?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=EEED3496FD8A80BBCC3854C1DF96205C4D6FE964",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -4632,7 +4727,7 @@
       "department": "Sales Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 5,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988044?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=0374807FC896067DC3989D1E2778F56D82A0D061",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988044?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=0374807FC896067DC3989D1E2778F56D82A0D061",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -4647,7 +4742,7 @@
       "department": "Sales Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 5,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988062?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=1E370514E54570D76A176869121AA717FC43450D",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988062?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=1E370514E54570D76A176869121AA717FC43450D",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -4662,7 +4757,7 @@
       "department": "Sales Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 5,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988059?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=DFBFF993BA0F9050CE30F49CA53F9C4D32BC9EF0",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988059?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=DFBFF993BA0F9050CE30F49CA53F9C4D32BC9EF0",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -4677,7 +4772,7 @@
       "department": "Sales Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 5,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988031?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=2469CC7162C56E3371E3B575D2D40B90AD896403",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988031?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=2469CC7162C56E3371E3B575D2D40B90AD896403",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -4692,7 +4787,7 @@
       "department": "Sales Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 5,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988035?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=1380FCE23BA949EB7842E3E51D7E9EA63441E9A7",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988035?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=1380FCE23BA949EB7842E3E51D7E9EA63441E9A7",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -4707,7 +4802,7 @@
       "department": "Sales Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 5,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988042?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=5871BAB51A8C530FF9255D4D208F1AF4C291F77C",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988042?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=5871BAB51A8C530FF9255D4D208F1AF4C291F77C",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -4722,7 +4817,7 @@
       "department": "Sales Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 5,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988024?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=0C111A2FDDD160CD9F35A9D893C77FEE3EF81C15",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988024?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=0C111A2FDDD160CD9F35A9D893C77FEE3EF81C15",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -4737,7 +4832,7 @@
       "department": "Sales Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 5,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988006?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=1828D38E17C7BCF36501E645A38FEC7C51A51D34",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988006?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=1828D38E17C7BCF36501E645A38FEC7C51A51D34",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -4752,7 +4847,7 @@
       "department": "Sales Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 5,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988023?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=029BFDFA25FB6BFFBF505A06C5E10033B9FDDCDC",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988023?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=029BFDFA25FB6BFFBF505A06C5E10033B9FDDCDC",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -4767,7 +4862,7 @@
       "department": "Sales Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 5,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988046?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=A602B449ED9529E79B4B178FEF58975F2EB01D56",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988046?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=A602B449ED9529E79B4B178FEF58975F2EB01D56",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -4782,7 +4877,7 @@
       "department": "Sales Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 5,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988015?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=D37CCC80053F4891AFAB3259A5520E3E08A98093",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988015?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=D37CCC80053F4891AFAB3259A5520E3E08A98093",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -4797,7 +4892,7 @@
       "department": "Sales Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 5,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789987984?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=833768B74FCA8C45A967E80EDB876FDB74101092",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789987984?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=833768B74FCA8C45A967E80EDB876FDB74101092",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -4812,7 +4907,7 @@
       "department": "Sales Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 5,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789987986?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=455B908F88C5F840ACCE215BEED94421942F2830",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789987986?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=455B908F88C5F840ACCE215BEED94421942F2830",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -4827,7 +4922,7 @@
       "department": "Sales Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 5,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789987691?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=A003CBAE941D00C48BE22912F05489D64265F909",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789987691?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=A003CBAE941D00C48BE22912F05489D64265F909",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -4842,7 +4937,7 @@
       "department": "Sales Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 5,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789987507?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=7B3E94E3C224D02362878731FA02B780CDD0036F",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789987507?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=7B3E94E3C224D02362878731FA02B780CDD0036F",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -4857,7 +4952,7 @@
       "department": "Sales Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 5,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789987345?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=0CF5F2CFBB857C932564599A7D3E882AED854A16",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789987345?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=0CF5F2CFBB857C932564599A7D3E882AED854A16",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -4872,7 +4967,7 @@
       "department": "Sales Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 5,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789987333?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=51BE7F8EDC34FE18BF9EE684230BD566F5CFDDCA",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789987333?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=51BE7F8EDC34FE18BF9EE684230BD566F5CFDDCA",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -4887,7 +4982,7 @@
       "department": "Sales Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 5,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789987310?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=8908B5203D92976EE19FD357BCF0AB79E3D37448",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789987310?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=8908B5203D92976EE19FD357BCF0AB79E3D37448",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -4902,7 +4997,7 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 5,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988524?se=GnX9GKN98RGNqvBiBxieKA&utm_medium=api&utm_source=348e4724&v=9F46022709EECEE3C0A627DD6D4F0FE809D97BDF",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988524?se=inXFhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=9F46022709EECEE3C0A627DD6D4F0FE809D97BDF",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -4917,7 +5012,7 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "06 Jul 2026",
       "days_ago": 5,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988679?se=Wqv1GKN98RG6JP0nGhfLVg&utm_medium=api&utm_source=348e4724&v=5543D21E2925CFBACAEA48EC0059477AD72BFED3",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5789988679?se=Wk2bhct98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=5543D21E2925CFBACAEA48EC0059477AD72BFED3",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -4967,6 +5062,21 @@
       "source_system": "Reed",
       "tags": [
         "Data & Analytics"
+      ]
+    },
+    {
+      "id": "gh_gocardless_8045004",
+      "title": "People Advisor",
+      "company": "GoCardless",
+      "location": "Leeds, UK",
+      "department": "People",
+      "posted_date": "06 Jul 2026",
+      "days_ago": 6,
+      "url": "https://job-boards.greenhouse.io/gocardless/jobs/8045004",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
       ]
     },
     {
@@ -5027,118 +5137,6 @@
       "source_system": "Reed",
       "tags": [
         "Consulting"
-      ]
-    },
-    {
-      "id": "reed_57091561",
-      "title": "Data Analyst Trainee",
-      "company": "ITOL Recruit",
-      "location": "WC1H9HB",
-      "department": "",
-      "posted_date": "06 Jul 2026",
-      "days_ago": 6,
-      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57091561",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate",
-        "Data & Analytics"
-      ]
-    },
-    {
-      "id": "reed_57091511",
-      "title": "Data Analyst Trainee",
-      "company": "ITOL Recruit",
-      "location": "NW44BG",
-      "department": "",
-      "posted_date": "06 Jul 2026",
-      "days_ago": 6,
-      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57091511",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate",
-        "Data & Analytics"
-      ]
-    },
-    {
-      "id": "reed_57091131",
-      "title": "Data Analyst Trainee",
-      "company": "ITOL Recruit",
-      "location": "E81EA",
-      "department": "",
-      "posted_date": "06 Jul 2026",
-      "days_ago": 6,
-      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57091131",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate",
-        "Data & Analytics"
-      ]
-    },
-    {
-      "id": "reed_57091555",
-      "title": "Data Analyst Trainee",
-      "company": "ITOL Recruit",
-      "location": "N228LB",
-      "department": "",
-      "posted_date": "06 Jul 2026",
-      "days_ago": 6,
-      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57091555",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate",
-        "Data & Analytics"
-      ]
-    },
-    {
-      "id": "reed_57091225",
-      "title": "Data Analyst Trainee",
-      "company": "ITOL Recruit",
-      "location": "SE64RU",
-      "department": "",
-      "posted_date": "06 Jul 2026",
-      "days_ago": 6,
-      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57091225",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate",
-        "Data & Analytics"
-      ]
-    },
-    {
-      "id": "reed_57091133",
-      "title": "Data Analyst Trainee",
-      "company": "ITOL Recruit",
-      "location": "E174JF",
-      "department": "",
-      "posted_date": "06 Jul 2026",
-      "days_ago": 6,
-      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57091133",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate",
-        "Data & Analytics"
-      ]
-    },
-    {
-      "id": "reed_57091104",
-      "title": "Data Analyst Trainee",
-      "company": "ITOL Recruit",
-      "location": "London",
-      "department": "",
-      "posted_date": "06 Jul 2026",
-      "days_ago": 6,
-      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57091104",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate",
-        "Data & Analytics"
       ]
     },
     {
@@ -5262,21 +5260,6 @@
       ]
     },
     {
-      "id": "reed_57091025",
-      "title": "Coding and Programming Trainee",
-      "company": "ITOL Recruit",
-      "location": "N12UD",
-      "department": "",
-      "posted_date": "06 Jul 2026",
-      "days_ago": 6,
-      "url": "https://www.reed.co.uk/jobs/coding-and-programming-trainee/57091025",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate"
-      ]
-    },
-    {
       "id": "reed_57090831",
       "title": "Coding and Programming Trainee",
       "company": "ITOL Recruit",
@@ -5285,6 +5268,21 @@
       "posted_date": "06 Jul 2026",
       "days_ago": 6,
       "url": "https://www.reed.co.uk/jobs/coding-and-programming-trainee/57090831",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate"
+      ]
+    },
+    {
+      "id": "reed_57091025",
+      "title": "Coding and Programming Trainee",
+      "company": "ITOL Recruit",
+      "location": "N12UD",
+      "department": "",
+      "posted_date": "06 Jul 2026",
+      "days_ago": 6,
+      "url": "https://www.reed.co.uk/jobs/coding-and-programming-trainee/57091025",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
@@ -5319,6 +5317,118 @@
       "source_system": "Reed",
       "tags": [
         "Graduate"
+      ]
+    },
+    {
+      "id": "reed_57091561",
+      "title": "Data Analyst Trainee",
+      "company": "ITOL Recruit",
+      "location": "WC1H9HB",
+      "department": "",
+      "posted_date": "06 Jul 2026",
+      "days_ago": 6,
+      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57091561",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate",
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "reed_57091511",
+      "title": "Data Analyst Trainee",
+      "company": "ITOL Recruit",
+      "location": "NW44BG",
+      "department": "",
+      "posted_date": "06 Jul 2026",
+      "days_ago": 6,
+      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57091511",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate",
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "reed_57091131",
+      "title": "Data Analyst Trainee",
+      "company": "ITOL Recruit",
+      "location": "E81EA",
+      "department": "",
+      "posted_date": "06 Jul 2026",
+      "days_ago": 6,
+      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57091131",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate",
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "reed_57091555",
+      "title": "Data Analyst Trainee",
+      "company": "ITOL Recruit",
+      "location": "N228LB",
+      "department": "",
+      "posted_date": "06 Jul 2026",
+      "days_ago": 6,
+      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57091555",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate",
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "reed_57091225",
+      "title": "Data Analyst Trainee",
+      "company": "ITOL Recruit",
+      "location": "SE64RU",
+      "department": "",
+      "posted_date": "06 Jul 2026",
+      "days_ago": 6,
+      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57091225",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate",
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "reed_57091133",
+      "title": "Data Analyst Trainee",
+      "company": "ITOL Recruit",
+      "location": "E174JF",
+      "department": "",
+      "posted_date": "06 Jul 2026",
+      "days_ago": 6,
+      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57091133",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate",
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "reed_57091104",
+      "title": "Data Analyst Trainee",
+      "company": "ITOL Recruit",
+      "location": "London",
+      "department": "",
+      "posted_date": "06 Jul 2026",
+      "days_ago": 6,
+      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57091104",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate",
+        "Data & Analytics"
       ]
     },
     {
@@ -5668,7 +5778,7 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "03 Jul 2026",
       "days_ago": 8,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5786751199?se=1ggDGaN98RGNqvBiBxieKA&utm_medium=api&utm_source=348e4724&v=61FC8CF45262F522013A2C425FA820A8E702E416",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5786751199?se=jNuthct98RG6JP0nGhfLVg&utm_medium=api&utm_source=348e4724&v=61FC8CF45262F522013A2C425FA820A8E702E416",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -5698,27 +5808,12 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "03 Jul 2026",
       "days_ago": 8,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5786761550?se=1ggDGaN98RGNqvBiBxieKA&utm_medium=api&utm_source=348e4724&v=4A95F7927A82DB34961223BAD0126622C61B8140",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5786761550?se=jNuthct98RG6JP0nGhfLVg&utm_medium=api&utm_source=348e4724&v=4A95F7927A82DB34961223BAD0126622C61B8140",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
         "Finance",
         "Banking"
-      ]
-    },
-    {
-      "id": "gh_liberis_8042983",
-      "title": "Head of Credit Risk Management - Embedded Finance",
-      "company": "Liberis",
-      "location": "London",
-      "department": "Risk",
-      "posted_date": "03 Jul 2026",
-      "days_ago": 8,
-      "url": "https://job-boards.greenhouse.io/liberis/jobs/8042983",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
       ]
     },
     {
@@ -5829,22 +5924,6 @@
       ]
     },
     {
-      "id": "lv_zopa_a64dc6ca-47fb-491b-8d7d-d1a69c815270",
-      "title": "Risk Delivery Manager (Operational Resilience & Third Party Risk)",
-      "company": "Zopa",
-      "location": "London",
-      "department": "1LOD Ops Risk",
-      "commitment": "Employee - Permanent",
-      "posted_date": "03 Jul 2026",
-      "days_ago": 8,
-      "url": "https://jobs.lever.co/zopa/a64dc6ca-47fb-491b-8d7d-d1a69c815270",
-      "source": "Company Career Page",
-      "source_system": "Lever",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "reed_57089842",
       "title": "Lead Pricing Analyst",
       "company": "eFinancialCareers",
@@ -5912,7 +5991,7 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "02 Jul 2026",
       "days_ago": 9,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5785792383?se=1ggDGaN98RGNqvBiBxieKA&utm_medium=api&utm_source=348e4724&v=F3EDC1899F6487DF8E819349152DC0798086A57C",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5785792383?se=jNuthct98RG6JP0nGhfLVg&utm_medium=api&utm_source=348e4724&v=F3EDC1899F6487DF8E819349152DC0798086A57C",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -5927,7 +6006,7 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "02 Jul 2026",
       "days_ago": 9,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5785769066?se=1ggDGaN98RGNqvBiBxieKA&utm_medium=api&utm_source=348e4724&v=13F00C39B603D4F68E7653F26B79E655996C0648",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5785769066?se=jNuthct98RG6JP0nGhfLVg&utm_medium=api&utm_source=348e4724&v=13F00C39B603D4F68E7653F26B79E655996C0648",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -5972,7 +6051,7 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "02 Jul 2026",
       "days_ago": 9,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5785369948?se=1ggDGaN98RGNqvBiBxieKA&utm_medium=api&utm_source=348e4724&v=5FDA5BA5BFEDD6943B759DED175FD38ABE4BFD7F",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5785369948?se=jNuthct98RG6JP0nGhfLVg&utm_medium=api&utm_source=348e4724&v=5FDA5BA5BFEDD6943B759DED175FD38ABE4BFD7F",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -5996,29 +6075,14 @@
       ]
     },
     {
-      "id": "gh_mangroup_4909555101",
-      "title": "Proxy Voting, Operations Analyst",
-      "company": "Man Group",
+      "id": "gh_liberis_8042983",
+      "title": "Head of Credit Risk Management - Embedded Finance",
+      "company": "Liberis",
       "location": "London",
-      "department": "Operations",
-      "posted_date": "02 Jul 2026",
+      "department": "Risk",
+      "posted_date": "03 Jul 2026",
       "days_ago": 9,
-      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4909555101",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_mangroup_4909554101",
-      "title": "Proxy Voting, Senior Analyst",
-      "company": "Man Group",
-      "location": "London",
-      "department": "Operations",
-      "posted_date": "02 Jul 2026",
-      "days_ago": 9,
-      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4909554101",
+      "url": "https://job-boards.greenhouse.io/liberis/jobs/8042983",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -6036,21 +6100,6 @@
       "url": "https://www.reed.co.uk/jobs/senior-finance-analyst/57088775",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_monzo_8043038",
-      "title": "Financial Health Strategy Manager ",
-      "company": "Monzo",
-      "location": "Cardiff, London or Remote (UK)",
-      "department": "Borrowing",
-      "posted_date": "02 Jul 2026",
-      "days_ago": 9,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/8043038",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
       "tags": [
         "Finance"
       ]
@@ -6123,7 +6172,7 @@
       "department": "Trade & Construction Jobs",
       "posted_date": "02 Jul 2026",
       "days_ago": 9,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5785411700?se=Wqv1GKN98RG6JP0nGhfLVg&utm_medium=api&utm_source=348e4724&v=D097C0EC44079B8171219A8FF12A3AFA43F9D970",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5785411700?se=Wk2bhct98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=D097C0EC44079B8171219A8FF12A3AFA43F9D970",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -6138,26 +6187,11 @@
       "department": "Trade & Construction Jobs",
       "posted_date": "02 Jul 2026",
       "days_ago": 9,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5785451777?se=Wqv1GKN98RG6JP0nGhfLVg&utm_medium=api&utm_source=348e4724&v=F7E9B5235EC1C5AA1CAC1B4F3F60C4E4CD715ACB",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5785451777?se=Wk2bhct98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=F7E9B5235EC1C5AA1CAC1B4F3F60C4E4CD715ACB",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
         "Consulting"
-      ]
-    },
-    {
-      "id": "reed_57087244",
-      "title": "Data Governance Analyst",
-      "company": "Reed",
-      "location": "N19GU",
-      "department": "",
-      "posted_date": "03 Jul 2026",
-      "days_ago": 9,
-      "url": "https://www.reed.co.uk/jobs/data-governance-analyst/57087244",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Data & Analytics"
       ]
     },
     {
@@ -6176,6 +6210,21 @@
       ]
     },
     {
+      "id": "reed_57087244",
+      "title": "Data Governance Analyst",
+      "company": "Reed",
+      "location": "N19GU",
+      "department": "",
+      "posted_date": "03 Jul 2026",
+      "days_ago": 9,
+      "url": "https://www.reed.co.uk/jobs/data-governance-analyst/57087244",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
       "id": "az_5785797288",
       "title": "Regulatory & Infrastructure Investment Analyst",
       "company": "Reed",
@@ -6183,7 +6232,7 @@
       "department": "Accounting & Finance Jobs",
       "posted_date": "02 Jul 2026",
       "days_ago": 9,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5785797288?se=1ggDGaN98RGNqvBiBxieKA&utm_medium=api&utm_source=348e4724&v=BEA9C8703FA0A5BE5CCFDBAE496013596CA1C126",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5785797288?se=jNuthct98RG6JP0nGhfLVg&utm_medium=api&utm_source=348e4724&v=BEA9C8703FA0A5BE5CCFDBAE496013596CA1C126",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -6252,16 +6301,17 @@
       ]
     },
     {
-      "id": "reed_57087209",
-      "title": "Senior Pricing Analyst / Pricing Actuary",
-      "company": "eFinancialCareers",
+      "id": "lv_zopa_a64dc6ca-47fb-491b-8d7d-d1a69c815270",
+      "title": "Risk Delivery Manager (Operational Resilience & Third Party Risk)",
+      "company": "Zopa",
       "location": "London",
-      "department": "",
+      "department": "1LOD Ops Risk",
+      "commitment": "Employee - Permanent",
       "posted_date": "03 Jul 2026",
       "days_ago": 9,
-      "url": "https://www.reed.co.uk/jobs/senior-pricing-analyst-pricing-actuary/57087209",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
+      "url": "https://jobs.lever.co/zopa/a64dc6ca-47fb-491b-8d7d-d1a69c815270",
+      "source": "Company Career Page",
+      "source_system": "Lever",
       "tags": [
         "Finance"
       ]
@@ -6282,19 +6332,18 @@
       ]
     },
     {
-      "id": "reed_57089145",
-      "title": "Managing Consultant - Financial Services - Delta Capita Limited",
+      "id": "reed_57087209",
+      "title": "Senior Pricing Analyst / Pricing Actuary",
       "company": "eFinancialCareers",
       "location": "London",
       "department": "",
       "posted_date": "03 Jul 2026",
       "days_ago": 9,
-      "url": "https://www.reed.co.uk/jobs/managing-consultant-financial-services-delta-capita-limited/57089145",
+      "url": "https://www.reed.co.uk/jobs/senior-pricing-analyst-pricing-actuary/57087209",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
-        "Finance",
-        "Consulting"
+        "Finance"
       ]
     },
     {
@@ -6306,6 +6355,22 @@
       "posted_date": "03 Jul 2026",
       "days_ago": 9,
       "url": "https://www.reed.co.uk/jobs/senior-consultant-financial-services-delta-capita-limited/57089025",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Finance",
+        "Consulting"
+      ]
+    },
+    {
+      "id": "reed_57089145",
+      "title": "Managing Consultant - Financial Services - Delta Capita Limited",
+      "company": "eFinancialCareers",
+      "location": "London",
+      "department": "",
+      "posted_date": "03 Jul 2026",
+      "days_ago": 9,
+      "url": "https://www.reed.co.uk/jobs/managing-consultant-financial-services-delta-capita-limited/57089145",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
@@ -6494,6 +6559,21 @@
       ]
     },
     {
+      "id": "reed_57081310",
+      "title": "Trainee Software Developer",
+      "company": "ITOL Recruit",
+      "location": "United Kingdom",
+      "department": "",
+      "posted_date": "02 Jul 2026",
+      "days_ago": 10,
+      "url": "https://www.reed.co.uk/jobs/trainee-software-developer/57081310",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate"
+      ]
+    },
+    {
       "id": "reed_57081315",
       "title": "Data Analyst Trainee",
       "company": "ITOL Recruit",
@@ -6507,21 +6587,6 @@
       "tags": [
         "Graduate",
         "Data & Analytics"
-      ]
-    },
-    {
-      "id": "reed_57081310",
-      "title": "Trainee Software Developer",
-      "company": "ITOL Recruit",
-      "location": "United Kingdom",
-      "department": "",
-      "posted_date": "02 Jul 2026",
-      "days_ago": 10,
-      "url": "https://www.reed.co.uk/jobs/trainee-software-developer/57081310",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate"
       ]
     },
     {
@@ -6585,6 +6650,36 @@
       ]
     },
     {
+      "id": "gh_mangroup_4909555101",
+      "title": "Proxy Voting, Operations Analyst",
+      "company": "Man Group",
+      "location": "London",
+      "department": "Operations",
+      "posted_date": "02 Jul 2026",
+      "days_ago": 10,
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4909555101",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_mangroup_4909554101",
+      "title": "Proxy Voting, Senior Analyst",
+      "company": "Man Group",
+      "location": "London",
+      "department": "Operations",
+      "posted_date": "02 Jul 2026",
+      "days_ago": 10,
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4909554101",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "az_5783907613",
       "title": "DC Pensions Investment Consultant",
       "company": "Marsh McLennan",
@@ -6592,7 +6687,7 @@
       "department": "Consultancy Jobs",
       "posted_date": "01 Jul 2026",
       "days_ago": 10,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5783907613?se=Wqv1GKN98RG6JP0nGhfLVg&utm_medium=api&utm_source=348e4724&v=5C7C63B1826A321931DCF176A9B76F177066C480",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5783907613?se=Wk2bhct98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=5C7C63B1826A321931DCF176A9B76F177066C480",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -6631,14 +6726,14 @@
       ]
     },
     {
-      "id": "gh_monzo_8038447",
-      "title": "Security Awareness Analyst",
+      "id": "gh_monzo_8043038",
+      "title": "Financial Health Strategy Manager ",
       "company": "Monzo",
       "location": "Cardiff, London or Remote (UK)",
-      "department": "Information Security",
-      "posted_date": "01 Jul 2026",
+      "department": "Borrowing",
+      "posted_date": "02 Jul 2026",
       "days_ago": 10,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/8038447",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8043038",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -6918,54 +7013,6 @@
       ]
     },
     {
-      "id": "reed_57075540",
-      "title": "Data Analyst Trainee",
-      "company": "ITOL Recruit",
-      "location": "W87NX",
-      "department": "",
-      "posted_date": "01 Jul 2026",
-      "days_ago": 11,
-      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57075540",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate",
-        "Data & Analytics"
-      ]
-    },
-    {
-      "id": "reed_57075486",
-      "title": "Data Analyst Trainee",
-      "company": "ITOL Recruit",
-      "location": "SW182PU",
-      "department": "",
-      "posted_date": "01 Jul 2026",
-      "days_ago": 11,
-      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57075486",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate",
-        "Data & Analytics"
-      ]
-    },
-    {
-      "id": "reed_57075492",
-      "title": "Data Analyst Trainee",
-      "company": "ITOL Recruit",
-      "location": "HA90AD",
-      "department": "",
-      "posted_date": "01 Jul 2026",
-      "days_ago": 11,
-      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57075492",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate",
-        "Data & Analytics"
-      ]
-    },
-    {
       "id": "reed_57075552",
       "title": "Software Developer Trainee",
       "company": "ITOL Recruit",
@@ -7038,6 +7085,54 @@
       "source_system": "Reed",
       "tags": [
         "Graduate"
+      ]
+    },
+    {
+      "id": "reed_57075540",
+      "title": "Data Analyst Trainee",
+      "company": "ITOL Recruit",
+      "location": "W87NX",
+      "department": "",
+      "posted_date": "01 Jul 2026",
+      "days_ago": 11,
+      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57075540",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate",
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "reed_57075486",
+      "title": "Data Analyst Trainee",
+      "company": "ITOL Recruit",
+      "location": "SW182PU",
+      "department": "",
+      "posted_date": "01 Jul 2026",
+      "days_ago": 11,
+      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57075486",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate",
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "reed_57075492",
+      "title": "Data Analyst Trainee",
+      "company": "ITOL Recruit",
+      "location": "HA90AD",
+      "department": "",
+      "posted_date": "01 Jul 2026",
+      "days_ago": 11,
+      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57075492",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate",
+        "Data & Analytics"
       ]
     },
     {
@@ -7116,35 +7211,50 @@
       ]
     },
     {
-      "id": "reed_57079531",
-      "title": "Trainee Data Analyst",
+      "id": "gh_monzo_8038447",
+      "title": "Security Awareness Analyst",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Information Security",
+      "posted_date": "01 Jul 2026",
+      "days_ago": 11,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8038447",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "reed_57078806",
+      "title": "Trainee Risk and Compliance Analyst",
       "company": "Newto Training",
       "location": "United Kingdom",
       "department": "",
       "posted_date": "01 Jul 2026",
       "days_ago": 11,
-      "url": "https://www.reed.co.uk/jobs/trainee-data-analyst/57079531",
+      "url": "https://www.reed.co.uk/jobs/trainee-risk-and-compliance-analyst/57078806",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
         "Graduate",
-        "Data & Analytics"
+        "Finance"
       ]
     },
     {
-      "id": "reed_57079489",
-      "title": "Data Analyst Trainee",
+      "id": "reed_57078853",
+      "title": "Trainee Technology Risk & Controls Analyst",
       "company": "Newto Training",
-      "location": "London",
+      "location": "United Kingdom",
       "department": "",
       "posted_date": "01 Jul 2026",
       "days_ago": 11,
-      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57079489",
+      "url": "https://www.reed.co.uk/jobs/trainee-technology-risk-controls-analyst/57078853",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
         "Graduate",
-        "Data & Analytics"
+        "Finance"
       ]
     },
     {
@@ -7208,50 +7318,35 @@
       ]
     },
     {
-      "id": "reed_57078806",
-      "title": "Trainee Risk and Compliance Analyst",
+      "id": "reed_57079531",
+      "title": "Trainee Data Analyst",
       "company": "Newto Training",
       "location": "United Kingdom",
       "department": "",
       "posted_date": "01 Jul 2026",
       "days_ago": 11,
-      "url": "https://www.reed.co.uk/jobs/trainee-risk-and-compliance-analyst/57078806",
+      "url": "https://www.reed.co.uk/jobs/trainee-data-analyst/57079531",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
         "Graduate",
-        "Finance"
+        "Data & Analytics"
       ]
     },
     {
-      "id": "reed_57078853",
-      "title": "Trainee Technology Risk & Controls Analyst",
+      "id": "reed_57079489",
+      "title": "Data Analyst Trainee",
       "company": "Newto Training",
-      "location": "United Kingdom",
+      "location": "London",
       "department": "",
       "posted_date": "01 Jul 2026",
       "days_ago": 11,
-      "url": "https://www.reed.co.uk/jobs/trainee-technology-risk-controls-analyst/57078853",
+      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57079489",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
         "Graduate",
-        "Finance"
-      ]
-    },
-    {
-      "id": "az_5781825086",
-      "title": "Business Analyst",
-      "company": "OpenSourced Ltd",
-      "location": "London, UK",
-      "department": "IT Jobs",
-      "posted_date": "30 Jun 2026",
-      "days_ago": 11,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5781825086?se=Wqv1GKN98RG6JP0nGhfLVg&utm_medium=api&utm_source=348e4724&v=03B53604AE3CE4344D938881B36A918603417AA9",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Finance"
+        "Data & Analytics"
       ]
     },
     {
@@ -7354,21 +7449,6 @@
       "posted_date": "30 Jun 2026",
       "days_ago": 11,
       "url": "https://stripe.com/jobs/search?gh_jid=8008405",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_tide_7652032003",
-      "title": "Senior Commercial Finance Broker",
-      "company": "Tide",
-      "location": "United Kingdom",
-      "department": "One Platform - PCS Sales",
-      "posted_date": "30 Jun 2026",
-      "days_ago": 11,
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7652032003",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -7572,6 +7652,21 @@
       ]
     },
     {
+      "id": "az_5781825086",
+      "title": "Business Analyst",
+      "company": "OpenSourced Ltd",
+      "location": "London, UK",
+      "department": "IT Jobs",
+      "posted_date": "30 Jun 2026",
+      "days_ago": 12,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5781825086?se=Wk2bhct98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=03B53604AE3CE4344D938881B36A918603417AA9",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "reed_57072821",
       "title": "Commercial Graduate Scheme",
       "company": "Pareto",
@@ -7627,6 +7722,21 @@
       "url": "https://www.reed.co.uk/jobs/french-speaking-accounts-receivable-analyst/57072793",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "gh_tide_7652032003",
+      "title": "Senior Commercial Finance Broker",
+      "company": "Tide",
+      "location": "United Kingdom",
+      "department": "One Platform - PCS Sales",
+      "posted_date": "30 Jun 2026",
+      "days_ago": 12,
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7652032003",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
       "tags": [
         "Finance"
       ]
@@ -7754,6 +7864,36 @@
       ]
     },
     {
+      "id": "reed_57068320",
+      "title": "Web Developer Trainee",
+      "company": "ITOL Recruit",
+      "location": "N65BA",
+      "department": "",
+      "posted_date": "29 Jun 2026",
+      "days_ago": 13,
+      "url": "https://www.reed.co.uk/jobs/web-developer-trainee/57068320",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate"
+      ]
+    },
+    {
+      "id": "reed_57067025",
+      "title": "Trainee Software Developer",
+      "company": "ITOL Recruit",
+      "location": "SW21RW",
+      "department": "",
+      "posted_date": "29 Jun 2026",
+      "days_ago": 13,
+      "url": "https://www.reed.co.uk/jobs/trainee-software-developer/57067025",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate"
+      ]
+    },
+    {
       "id": "reed_57068390",
       "title": "Data Analyst Trainee",
       "company": "ITOL Recruit",
@@ -7783,36 +7923,6 @@
       "tags": [
         "Graduate",
         "Data & Analytics"
-      ]
-    },
-    {
-      "id": "reed_57068320",
-      "title": "Web Developer Trainee",
-      "company": "ITOL Recruit",
-      "location": "N65BA",
-      "department": "",
-      "posted_date": "29 Jun 2026",
-      "days_ago": 13,
-      "url": "https://www.reed.co.uk/jobs/web-developer-trainee/57068320",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate"
-      ]
-    },
-    {
-      "id": "reed_57067025",
-      "title": "Trainee Software Developer",
-      "company": "ITOL Recruit",
-      "location": "SW21RW",
-      "department": "",
-      "posted_date": "29 Jun 2026",
-      "days_ago": 13,
-      "url": "https://www.reed.co.uk/jobs/trainee-software-developer/57067025",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate"
       ]
     },
     {
@@ -7954,21 +8064,6 @@
       ]
     },
     {
-      "id": "az_5778662551",
-      "title": "Asbestos Analysts, Surveyors & Consultants (Nationwide)",
-      "company": "Vadella",
-      "location": "Holborn, Central London",
-      "department": "Trade & Construction Jobs",
-      "posted_date": "27 Jun 2026",
-      "days_ago": 14,
-      "url": "https://www.adzuna.co.uk/jobs/details/5778662551?utm_medium=api&utm_source=348e4724",
-      "source": "Company Career Page",
-      "source_system": "Adzuna",
-      "tags": [
-        "Consulting"
-      ]
-    },
-    {
       "id": "gh_ebury_4872174101",
       "title": "Client Portfolio Support",
       "company": "Ebury",
@@ -8084,21 +8179,6 @@
       "url": "https://www.adzuna.co.uk/jobs/details/5777924105?utm_medium=api&utm_source=348e4724",
       "source": "Company Career Page",
       "source_system": "Adzuna",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "gh_mangroup_4905239101",
-      "title": "Associate Engineer - Finance & People Technology",
-      "company": "Man Group",
-      "location": "London",
-      "department": "Technology",
-      "posted_date": "26 Jun 2026",
-      "days_ago": 15,
-      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4905239101",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
       "tags": [
         "Finance"
       ]
@@ -8225,6 +8305,21 @@
       ]
     },
     {
+      "id": "az_5778662551",
+      "title": "Asbestos Analysts, Surveyors & Consultants (Nationwide)",
+      "company": "Vadella",
+      "location": "Holborn, Central London",
+      "department": "Trade & Construction Jobs",
+      "posted_date": "27 Jun 2026",
+      "days_ago": 15,
+      "url": "https://www.adzuna.co.uk/jobs/details/5778662551?utm_medium=api&utm_source=348e4724",
+      "source": "Company Career Page",
+      "source_system": "Adzuna",
+      "tags": [
+        "Consulting"
+      ]
+    },
+    {
       "id": "gh_capco_8028972",
       "title": "Lead Data Scientist – Energy Domain",
       "company": "Capco",
@@ -8240,14 +8335,14 @@
       ]
     },
     {
-      "id": "gh_mangroup_4907792101",
-      "title": "Senior Analyst, Accounting - 12 Month FTC",
+      "id": "gh_mangroup_4905239101",
+      "title": "Associate Engineer - Finance & People Technology",
       "company": "Man Group",
       "location": "London",
-      "department": "Finance",
-      "posted_date": "25 Jun 2026",
+      "department": "Technology",
+      "posted_date": "26 Jun 2026",
       "days_ago": 16,
-      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4907792101",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4905239101",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -8277,7 +8372,7 @@
       "department": "Graduate Jobs",
       "posted_date": "25 Jun 2026",
       "days_ago": 16,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5776431641?se=6MbnGKN98RG1-IwfRWwy_Q&utm_medium=api&utm_source=348e4724&v=5867640D4500BB83C83FE9150CCBDFF710457A19",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5776431641?se=mtaVhct98RGanPBaX-yxJw&utm_medium=api&utm_source=348e4724&v=5867640D4500BB83C83FE9150CCBDFF710457A19",
       "source": "Company Career Page",
       "source_system": "Adzuna",
       "tags": [
@@ -8864,6 +8959,21 @@
       ]
     },
     {
+      "id": "gh_mangroup_4907792101",
+      "title": "Senior Analyst, Accounting - 12 Month FTC",
+      "company": "Man Group",
+      "location": "London",
+      "department": "Finance",
+      "posted_date": "25 Jun 2026",
+      "days_ago": 17,
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4907792101",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "gh_monzo_7564605",
       "title": "Analytics Engineer",
       "company": "Monzo",
@@ -8924,6 +9034,21 @@
       ]
     },
     {
+      "id": "reed_57060345",
+      "title": "Business Analyst",
+      "company": "Reed",
+      "location": "N19GU",
+      "department": "",
+      "posted_date": "25 Jun 2026",
+      "days_ago": 17,
+      "url": "https://www.reed.co.uk/jobs/business-analyst/57060345",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "reed_57057424",
       "title": "Payments Analyst",
       "company": "Reed",
@@ -8947,21 +9072,6 @@
       "posted_date": "25 Jun 2026",
       "days_ago": 17,
       "url": "https://www.reed.co.uk/jobs/payments-analyst/57057421",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "reed_57060345",
-      "title": "Business Analyst",
-      "company": "Reed",
-      "location": "N19GU",
-      "department": "",
-      "posted_date": "25 Jun 2026",
-      "days_ago": 17,
-      "url": "https://www.reed.co.uk/jobs/business-analyst/57060345",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
@@ -9122,70 +9232,6 @@
       ]
     },
     {
-      "id": "reed_57052533",
-      "title": "Data Analyst Trainee",
-      "company": "ITOL Recruit",
-      "location": "SW1E6QP",
-      "department": "",
-      "posted_date": "24 Jun 2026",
-      "days_ago": 18,
-      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57052533",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate",
-        "Data & Analytics"
-      ]
-    },
-    {
-      "id": "reed_57052601",
-      "title": "Data Analyst Trainee",
-      "company": "ITOL Recruit",
-      "location": "N228LB",
-      "department": "",
-      "posted_date": "24 Jun 2026",
-      "days_ago": 18,
-      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57052601",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate",
-        "Data & Analytics"
-      ]
-    },
-    {
-      "id": "reed_57052680",
-      "title": "Trainee Data Analyst",
-      "company": "ITOL Recruit",
-      "location": "W52BJ",
-      "department": "",
-      "posted_date": "24 Jun 2026",
-      "days_ago": 18,
-      "url": "https://www.reed.co.uk/jobs/trainee-data-analyst/57052680",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate",
-        "Data & Analytics"
-      ]
-    },
-    {
-      "id": "reed_57052552",
-      "title": "Trainee Data Analyst",
-      "company": "ITOL Recruit",
-      "location": "NW44BG",
-      "department": "",
-      "posted_date": "24 Jun 2026",
-      "days_ago": 18,
-      "url": "https://www.reed.co.uk/jobs/trainee-data-analyst/57052552",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate",
-        "Data & Analytics"
-      ]
-    },
-    {
       "id": "reed_57052598",
       "title": "Trainee Data Analyst",
       "company": "ITOL Recruit",
@@ -9262,6 +9308,70 @@
       ]
     },
     {
+      "id": "reed_57052533",
+      "title": "Data Analyst Trainee",
+      "company": "ITOL Recruit",
+      "location": "SW1E6QP",
+      "department": "",
+      "posted_date": "24 Jun 2026",
+      "days_ago": 18,
+      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57052533",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate",
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "reed_57052601",
+      "title": "Data Analyst Trainee",
+      "company": "ITOL Recruit",
+      "location": "N228LB",
+      "department": "",
+      "posted_date": "24 Jun 2026",
+      "days_ago": 18,
+      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57052601",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate",
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "reed_57052680",
+      "title": "Trainee Data Analyst",
+      "company": "ITOL Recruit",
+      "location": "W52BJ",
+      "department": "",
+      "posted_date": "24 Jun 2026",
+      "days_ago": 18,
+      "url": "https://www.reed.co.uk/jobs/trainee-data-analyst/57052680",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate",
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "reed_57052552",
+      "title": "Trainee Data Analyst",
+      "company": "ITOL Recruit",
+      "location": "NW44BG",
+      "department": "",
+      "posted_date": "24 Jun 2026",
+      "days_ago": 18,
+      "url": "https://www.reed.co.uk/jobs/trainee-data-analyst/57052552",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate",
+        "Data & Analytics"
+      ]
+    },
+    {
       "id": "reed_57052497",
       "title": "Trainee Business Analyst",
       "company": "ITOL Recruit",
@@ -9292,21 +9402,6 @@
       ]
     },
     {
-      "id": "reed_57052721",
-      "title": "Trainee Business Analyst",
-      "company": "ITOL Recruit",
-      "location": "SW182PU",
-      "department": "",
-      "posted_date": "24 Jun 2026",
-      "days_ago": 18,
-      "url": "https://www.reed.co.uk/jobs/trainee-business-analyst/57052721",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate"
-      ]
-    },
-    {
       "id": "reed_57052573",
       "title": "Business Analyst Trainee",
       "company": "ITOL Recruit",
@@ -9315,6 +9410,21 @@
       "posted_date": "24 Jun 2026",
       "days_ago": 18,
       "url": "https://www.reed.co.uk/jobs/business-analyst-trainee/57052573",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate"
+      ]
+    },
+    {
+      "id": "reed_57052721",
+      "title": "Trainee Business Analyst",
+      "company": "ITOL Recruit",
+      "location": "SW182PU",
+      "department": "",
+      "posted_date": "24 Jun 2026",
+      "days_ago": 18,
+      "url": "https://www.reed.co.uk/jobs/trainee-business-analyst/57052721",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
@@ -9487,36 +9597,6 @@
       ]
     },
     {
-      "id": "reed_57054188",
-      "title": "Reward Analyst",
-      "company": "Reed",
-      "location": "AL109SN",
-      "department": "",
-      "posted_date": "24 Jun 2026",
-      "days_ago": 18,
-      "url": "https://www.reed.co.uk/jobs/reward-analyst/57054188",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "reed_57054186",
-      "title": "Reward Analyst",
-      "company": "Reed",
-      "location": "AL109SN",
-      "department": "",
-      "posted_date": "24 Jun 2026",
-      "days_ago": 18,
-      "url": "https://www.reed.co.uk/jobs/reward-analyst/57054186",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "reed_57053523",
       "title": "Senior Credit Analyst",
       "company": "Reed",
@@ -9540,6 +9620,36 @@
       "posted_date": "24 Jun 2026",
       "days_ago": 18,
       "url": "https://www.reed.co.uk/jobs/senior-credit-analyst/57053524",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "reed_57054188",
+      "title": "Reward Analyst",
+      "company": "Reed",
+      "location": "AL109SN",
+      "department": "",
+      "posted_date": "24 Jun 2026",
+      "days_ago": 18,
+      "url": "https://www.reed.co.uk/jobs/reward-analyst/57054188",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "reed_57054186",
+      "title": "Reward Analyst",
+      "company": "Reed",
+      "location": "AL109SN",
+      "department": "",
+      "posted_date": "24 Jun 2026",
+      "days_ago": 18,
+      "url": "https://www.reed.co.uk/jobs/reward-analyst/57054186",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
@@ -9984,6 +10094,36 @@
       ]
     },
     {
+      "id": "reed_57041750",
+      "title": "Trainee Software Developer",
+      "company": "ITOL Recruit",
+      "location": "SW182PU",
+      "department": "",
+      "posted_date": "22 Jun 2026",
+      "days_ago": 20,
+      "url": "https://www.reed.co.uk/jobs/trainee-software-developer/57041750",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate"
+      ]
+    },
+    {
+      "id": "reed_57041439",
+      "title": "Trainee Software Developer",
+      "company": "ITOL Recruit",
+      "location": "SW1A1AA",
+      "department": "",
+      "posted_date": "22 Jun 2026",
+      "days_ago": 20,
+      "url": "https://www.reed.co.uk/jobs/trainee-software-developer/57041439",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate"
+      ]
+    },
+    {
       "id": "reed_57041440",
       "title": "Trainee Data Analyst",
       "company": "ITOL Recruit",
@@ -10080,51 +10220,6 @@
       ]
     },
     {
-      "id": "reed_57041439",
-      "title": "Trainee Software Developer",
-      "company": "ITOL Recruit",
-      "location": "SW1A1AA",
-      "department": "",
-      "posted_date": "22 Jun 2026",
-      "days_ago": 20,
-      "url": "https://www.reed.co.uk/jobs/trainee-software-developer/57041439",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate"
-      ]
-    },
-    {
-      "id": "reed_57041750",
-      "title": "Trainee Software Developer",
-      "company": "ITOL Recruit",
-      "location": "SW182PU",
-      "department": "",
-      "posted_date": "22 Jun 2026",
-      "days_ago": 20,
-      "url": "https://www.reed.co.uk/jobs/trainee-software-developer/57041750",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate"
-      ]
-    },
-    {
-      "id": "reed_57042128",
-      "title": "Web Developer Trainee",
-      "company": "ITOL Recruit",
-      "location": "TW12BZ",
-      "department": "",
-      "posted_date": "22 Jun 2026",
-      "days_ago": 20,
-      "url": "https://www.reed.co.uk/jobs/web-developer-trainee/57042128",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate"
-      ]
-    },
-    {
       "id": "reed_57041434",
       "title": "Business Analyst Trainee",
       "company": "ITOL Recruit",
@@ -10170,21 +10265,6 @@
       ]
     },
     {
-      "id": "reed_57041740",
-      "title": "Business Analyst Trainee",
-      "company": "ITOL Recruit",
-      "location": "SE64RU",
-      "department": "",
-      "posted_date": "22 Jun 2026",
-      "days_ago": 20,
-      "url": "https://www.reed.co.uk/jobs/business-analyst-trainee/57041740",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate"
-      ]
-    },
-    {
       "id": "reed_57041408",
       "title": "Business Analyst Trainee",
       "company": "ITOL Recruit",
@@ -10208,6 +10288,21 @@
       "posted_date": "22 Jun 2026",
       "days_ago": 20,
       "url": "https://www.reed.co.uk/jobs/trainee-business-analyst/57041658",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate"
+      ]
+    },
+    {
+      "id": "reed_57041740",
+      "title": "Business Analyst Trainee",
+      "company": "ITOL Recruit",
+      "location": "SE64RU",
+      "department": "",
+      "posted_date": "22 Jun 2026",
+      "days_ago": 20,
+      "url": "https://www.reed.co.uk/jobs/business-analyst-trainee/57041740",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
@@ -10333,21 +10428,6 @@
       "tags": [
         "Graduate",
         "Consulting"
-      ]
-    },
-    {
-      "id": "gh_monzo_7916595",
-      "title": "Lead Insurance Pricing Analyst",
-      "company": "Monzo",
-      "location": "Cardiff, London or Remote (UK)",
-      "department": "Data",
-      "posted_date": "19 Jun 2026",
-      "days_ago": 22,
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/7916595",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Data & Analytics"
       ]
     },
     {
@@ -10653,6 +10733,21 @@
       ]
     },
     {
+      "id": "gh_monzo_7916595",
+      "title": "Lead Insurance Pricing Analyst",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "department": "Data",
+      "posted_date": "19 Jun 2026",
+      "days_ago": 23,
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7916595",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
       "id": "gh_monzo_6076740",
       "title": "Senior Analytics Engineer",
       "company": "Monzo",
@@ -10751,21 +10846,6 @@
       "posted_date": "18 Jun 2026",
       "days_ago": 24,
       "url": "https://www.reed.co.uk/jobs/investor-relations-data-reporting-analyst/57034501",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
-      "id": "reed_57032665",
-      "title": "Senior Data Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "London",
-      "department": "",
-      "posted_date": "18 Jun 2026",
-      "days_ago": 24,
-      "url": "https://www.reed.co.uk/jobs/senior-data-analyst/57032665",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
@@ -11013,21 +11093,6 @@
       ]
     },
     {
-      "id": "gh_teneo_7710799003",
-      "title": "Economic Consulting, Business Development Lead",
-      "company": "Teneo",
-      "location": "London, United Kingdom",
-      "department": "Management Consulting UK Other",
-      "posted_date": "17 Jun 2026",
-      "days_ago": 24,
-      "url": "https://www.teneo.com/careers/open-positions/7710799003?gh_jid=7710799003",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Consulting"
-      ]
-    },
-    {
       "id": "reed_57035907",
       "title": "Analyst, Graduate or Junior Experience, Intermediate Excel",
       "company": "Think Specialist Recruitment",
@@ -11208,6 +11273,36 @@
       ]
     },
     {
+      "id": "reed_57028906",
+      "title": "Trainee Software Developer",
+      "company": "ITOL Recruit",
+      "location": "WC1H9HH",
+      "department": "",
+      "posted_date": "17 Jun 2026",
+      "days_ago": 25,
+      "url": "https://www.reed.co.uk/jobs/trainee-software-developer/57028906",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate"
+      ]
+    },
+    {
+      "id": "reed_57027540",
+      "title": "Web Developer Trainee",
+      "company": "ITOL Recruit",
+      "location": "W87NX",
+      "department": "",
+      "posted_date": "17 Jun 2026",
+      "days_ago": 25,
+      "url": "https://www.reed.co.uk/jobs/web-developer-trainee/57027540",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate"
+      ]
+    },
+    {
       "id": "reed_57028941",
       "title": "Trainee Data Analyst",
       "company": "ITOL Recruit",
@@ -11253,36 +11348,6 @@
       "tags": [
         "Graduate",
         "Data & Analytics"
-      ]
-    },
-    {
-      "id": "reed_57028906",
-      "title": "Trainee Software Developer",
-      "company": "ITOL Recruit",
-      "location": "WC1H9HH",
-      "department": "",
-      "posted_date": "17 Jun 2026",
-      "days_ago": 25,
-      "url": "https://www.reed.co.uk/jobs/trainee-software-developer/57028906",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate"
-      ]
-    },
-    {
-      "id": "reed_57027540",
-      "title": "Web Developer Trainee",
-      "company": "ITOL Recruit",
-      "location": "W87NX",
-      "department": "",
-      "posted_date": "17 Jun 2026",
-      "days_ago": 25,
-      "url": "https://www.reed.co.uk/jobs/web-developer-trainee/57027540",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate"
       ]
     },
     {
@@ -11545,6 +11610,21 @@
       ]
     },
     {
+      "id": "gh_teneo_7710799003",
+      "title": "Economic Consulting, Business Development Lead",
+      "company": "Teneo",
+      "location": "London, United Kingdom",
+      "department": "Management Consulting UK Other",
+      "posted_date": "17 Jun 2026",
+      "days_ago": 25,
+      "url": "https://www.teneo.com/careers/open-positions/7710799003?gh_jid=7710799003",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Consulting"
+      ]
+    },
+    {
       "id": "lv_zopa_a6df5aab-6cc4-40e9-9007-bdf021e00460",
       "title": "Senior Financial Accountant (12 month FTC)",
       "company": "Zopa",
@@ -11648,6 +11728,37 @@
       "source_system": "Reed",
       "tags": [
         "Finance"
+      ]
+    },
+    {
+      "id": "reed_57022849",
+      "title": "Data Science Trainee",
+      "company": "ITOL Recruit",
+      "location": "IG11DD",
+      "department": "",
+      "posted_date": "16 Jun 2026",
+      "days_ago": 26,
+      "url": "https://www.reed.co.uk/jobs/data-science-trainee/57022849",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate",
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "reed_57023103",
+      "title": "Web Developer Trainee",
+      "company": "ITOL Recruit",
+      "location": "RM14GR",
+      "department": "",
+      "posted_date": "16 Jun 2026",
+      "days_ago": 26,
+      "url": "https://www.reed.co.uk/jobs/web-developer-trainee/57023103",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate"
       ]
     },
     {
@@ -11755,22 +11866,6 @@
       "posted_date": "16 Jun 2026",
       "days_ago": 26,
       "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57023058",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate",
-        "Data & Analytics"
-      ]
-    },
-    {
-      "id": "reed_57022849",
-      "title": "Data Science Trainee",
-      "company": "ITOL Recruit",
-      "location": "IG11DD",
-      "department": "",
-      "posted_date": "16 Jun 2026",
-      "days_ago": 26,
-      "url": "https://www.reed.co.uk/jobs/data-science-trainee/57022849",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
@@ -12218,21 +12313,6 @@
       ]
     },
     {
-      "id": "reed_57016331",
-      "title": "Analyst",
-      "company": "Reed",
-      "location": "EC2N1HQ",
-      "department": "",
-      "posted_date": "12 Jun 2026",
-      "days_ago": 30,
-      "url": "https://www.reed.co.uk/jobs/analyst/57016331",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "reed_57012824",
       "title": "Credit Analyst",
       "company": "Reed",
@@ -12256,6 +12336,21 @@
       "posted_date": "12 Jun 2026",
       "days_ago": 30,
       "url": "https://www.reed.co.uk/jobs/credit-analyst/57012825",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "reed_57016331",
+      "title": "Analyst",
+      "company": "Reed",
+      "location": "EC2N1HQ",
+      "department": "",
+      "posted_date": "12 Jun 2026",
+      "days_ago": 30,
+      "url": "https://www.reed.co.uk/jobs/analyst/57016331",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
@@ -12325,6 +12420,21 @@
       ]
     },
     {
+      "id": "reed_57011838",
+      "title": "Senior Credit Risk Analyst",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "location": "London",
+      "department": "",
+      "posted_date": "11 Jun 2026",
+      "days_ago": 31,
+      "url": "https://www.reed.co.uk/jobs/senior-credit-risk-analyst/57011838",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "reed_57011858",
       "title": "Graduate Data Scientist",
       "company": "Harnham - Data & Analytics Recruitment",
@@ -12341,14 +12451,14 @@
       ]
     },
     {
-      "id": "reed_57011838",
-      "title": "Senior Credit Risk Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "London",
+      "id": "reed_57012244",
+      "title": "Finance Analyst",
+      "company": "Harper May Ltd",
+      "location": "City of London",
       "department": "",
       "posted_date": "11 Jun 2026",
       "days_ago": 31,
-      "url": "https://www.reed.co.uk/jobs/senior-credit-risk-analyst/57011838",
+      "url": "https://www.reed.co.uk/jobs/finance-analyst/57012244",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
@@ -12364,21 +12474,6 @@
       "posted_date": "11 Jun 2026",
       "days_ago": 31,
       "url": "https://www.reed.co.uk/jobs/finance-analyst/57011880",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
-      "id": "reed_57012244",
-      "title": "Finance Analyst",
-      "company": "Harper May Ltd",
-      "location": "City of London",
-      "department": "",
-      "posted_date": "11 Jun 2026",
-      "days_ago": 31,
-      "url": "https://www.reed.co.uk/jobs/finance-analyst/57012244",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
@@ -12551,21 +12646,6 @@
       ]
     },
     {
-      "id": "reed_57007303",
-      "title": "Lead Data Scientist",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "London",
-      "department": "",
-      "posted_date": "10 Jun 2026",
-      "days_ago": 32,
-      "url": "https://www.reed.co.uk/jobs/lead-data-scientist/57007303",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
       "id": "reed_57007326",
       "title": "Senior Credit Risk Analyst",
       "company": "Harnham - Data & Analytics Recruitment",
@@ -12578,6 +12658,21 @@
       "source_system": "Reed",
       "tags": [
         "Finance"
+      ]
+    },
+    {
+      "id": "reed_57007303",
+      "title": "Lead Data Scientist",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "location": "London",
+      "department": "",
+      "posted_date": "10 Jun 2026",
+      "days_ago": 32,
+      "url": "https://www.reed.co.uk/jobs/lead-data-scientist/57007303",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Data & Analytics"
       ]
     },
     {
@@ -12810,6 +12905,21 @@
       ]
     },
     {
+      "id": "reed_56999024",
+      "title": "Senior Forensics Analytics Manager",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "location": "London",
+      "department": "",
+      "posted_date": "09 Jun 2026",
+      "days_ago": 33,
+      "url": "https://www.reed.co.uk/jobs/senior-forensics-analytics-manager/56999024",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
       "id": "reed_57001445",
       "title": "Commercial Data Analyst",
       "company": "Harnham - Data & Analytics Recruitment",
@@ -12833,21 +12943,6 @@
       "posted_date": "09 Jun 2026",
       "days_ago": 33,
       "url": "https://www.reed.co.uk/jobs/retail-data-analyst/57002494",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
-      "id": "reed_56999024",
-      "title": "Senior Forensics Analytics Manager",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "London",
-      "department": "",
-      "posted_date": "09 Jun 2026",
-      "days_ago": 33,
-      "url": "https://www.reed.co.uk/jobs/senior-forensics-analytics-manager/56999024",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
@@ -13180,6 +13275,21 @@
       "posted_date": "05 Jun 2026",
       "days_ago": 37,
       "url": "https://www.reed.co.uk/jobs/commercial-data-analyst/56991551",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "reed_56991236",
+      "title": "Lead Data Analyst",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "location": "London",
+      "department": "",
+      "posted_date": "05 Jun 2026",
+      "days_ago": 37,
+      "url": "https://www.reed.co.uk/jobs/lead-data-analyst/56991236",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
@@ -13686,6 +13796,21 @@
       ]
     },
     {
+      "id": "reed_56974231",
+      "title": "Risk Strategy Director",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "location": "London",
+      "department": "",
+      "posted_date": "02 Jun 2026",
+      "days_ago": 40,
+      "url": "https://www.reed.co.uk/jobs/risk-strategy-director/56974231",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
       "id": "reed_56974074",
       "title": "Data Analyst",
       "company": "Harnham - Data & Analytics Recruitment",
@@ -13713,21 +13838,6 @@
       "source_system": "Reed",
       "tags": [
         "Data & Analytics"
-      ]
-    },
-    {
-      "id": "reed_56974231",
-      "title": "Risk Strategy Director",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "London",
-      "department": "",
-      "posted_date": "02 Jun 2026",
-      "days_ago": 40,
-      "url": "https://www.reed.co.uk/jobs/risk-strategy-director/56974231",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Finance"
       ]
     },
     {
@@ -13866,21 +13976,6 @@
       ]
     },
     {
-      "id": "reed_56968726",
-      "title": "Senior Data Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "London",
-      "department": "",
-      "posted_date": "01 Jun 2026",
-      "days_ago": 41,
-      "url": "https://www.reed.co.uk/jobs/senior-data-analyst/56968726",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
       "id": "reed_56968248",
       "title": "Senior Analyst",
       "company": "Harnham - Data & Analytics Recruitment",
@@ -13893,6 +13988,21 @@
       "source_system": "Reed",
       "tags": [
         "Finance"
+      ]
+    },
+    {
+      "id": "reed_56968726",
+      "title": "Senior Data Analyst",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "location": "London",
+      "department": "",
+      "posted_date": "01 Jun 2026",
+      "days_ago": 41,
+      "url": "https://www.reed.co.uk/jobs/senior-data-analyst/56968726",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Data & Analytics"
       ]
     },
     {
@@ -13926,6 +14036,21 @@
       ]
     },
     {
+      "id": "reed_56966105",
+      "title": "Coding and Programming Trainee",
+      "company": "ITOL Recruit",
+      "location": "United Kingdom",
+      "department": "",
+      "posted_date": "01 Jun 2026",
+      "days_ago": 41,
+      "url": "https://www.reed.co.uk/jobs/coding-and-programming-trainee/56966105",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Graduate"
+      ]
+    },
+    {
       "id": "reed_56966076",
       "title": "Data Analyst Trainee",
       "company": "ITOL Recruit",
@@ -13939,21 +14064,6 @@
       "tags": [
         "Graduate",
         "Data & Analytics"
-      ]
-    },
-    {
-      "id": "reed_56966105",
-      "title": "Coding and Programming Trainee",
-      "company": "ITOL Recruit",
-      "location": "United Kingdom",
-      "department": "",
-      "posted_date": "01 Jun 2026",
-      "days_ago": 41,
-      "url": "https://www.reed.co.uk/jobs/coding-and-programming-trainee/56966105",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Graduate"
       ]
     },
     {
@@ -14049,21 +14159,6 @@
       ]
     },
     {
-      "id": "reed_56963666",
-      "title": "Business Analyst",
-      "company": "Robert Half",
-      "location": "London",
-      "department": "",
-      "posted_date": "01 Jun 2026",
-      "days_ago": 41,
-      "url": "https://www.reed.co.uk/jobs/business-analyst/56963666",
-      "source": "Company Career Page (via Reed)",
-      "source_system": "Reed",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "reed_56966113",
       "title": "Vulnerability Analyst",
       "company": "Robert Half",
@@ -14072,6 +14167,21 @@
       "posted_date": "01 Jun 2026",
       "days_ago": 41,
       "url": "https://www.reed.co.uk/jobs/vulnerability-analyst/56966113",
+      "source": "Company Career Page (via Reed)",
+      "source_system": "Reed",
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "id": "reed_56963666",
+      "title": "Business Analyst",
+      "company": "Robert Half",
+      "location": "London",
+      "department": "",
+      "posted_date": "01 Jun 2026",
+      "days_ago": 41,
+      "url": "https://www.reed.co.uk/jobs/business-analyst/56963666",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
       "tags": [
@@ -14298,7 +14408,7 @@
       "department": "Impairment",
       "commitment": "Employee - Permanent",
       "posted_date": "18 May 2026",
-      "days_ago": 54,
+      "days_ago": 55,
       "url": "https://jobs.lever.co/zopa/981c77d3-a77d-4d95-97ec-a18ab1ab510b",
       "source": "Company Career Page",
       "source_system": "Lever",
@@ -14322,22 +14432,6 @@
       ]
     },
     {
-      "id": "lv_palantir_164da0e1-0bc2-46a7-bd4c-cb46b889dc63",
-      "title": "Production Engineer - Database Operations",
-      "company": "Palantir",
-      "location": "London, United Kingdom",
-      "department": "Product Development",
-      "commitment": "Full-time",
-      "posted_date": "13 May 2026",
-      "days_ago": 59,
-      "url": "https://jobs.lever.co/palantir/164da0e1-0bc2-46a7-bd4c-cb46b889dc63",
-      "source": "Company Career Page",
-      "source_system": "Lever",
-      "tags": [
-        "Data & Analytics"
-      ]
-    },
-    {
       "id": "reed_56895571",
       "title": "Data Analyst",
       "company": "Harnham - Data & Analytics Recruitment",
@@ -14348,6 +14442,22 @@
       "url": "https://www.reed.co.uk/jobs/data-analyst/56895571",
       "source": "Company Career Page (via Reed)",
       "source_system": "Reed",
+      "tags": [
+        "Data & Analytics"
+      ]
+    },
+    {
+      "id": "lv_palantir_164da0e1-0bc2-46a7-bd4c-cb46b889dc63",
+      "title": "Production Engineer - Database Operations",
+      "company": "Palantir",
+      "location": "London, United Kingdom",
+      "department": "Product Development",
+      "commitment": "Full-time",
+      "posted_date": "13 May 2026",
+      "days_ago": 60,
+      "url": "https://jobs.lever.co/palantir/164da0e1-0bc2-46a7-bd4c-cb46b889dc63",
+      "source": "Company Career Page",
+      "source_system": "Lever",
       "tags": [
         "Data & Analytics"
       ]
@@ -14732,22 +14842,6 @@
       ]
     },
     {
-      "id": "gh_capco_7824652",
-      "title": "Management Consultant - AML Investigations, Sanctions & Fraud",
-      "company": "Capco",
-      "location": "UK - Edinburgh",
-      "department": "Finance Risk & Compliance",
-      "posted_date": "17 Apr 2026",
-      "days_ago": 85,
-      "url": "https://job-boards.greenhouse.io/capco/jobs/7824652",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance",
-        "Consulting"
-      ]
-    },
-    {
       "id": "gh_capco_7784609",
       "title": "Management Consultant - AML Investigations, Sanctions & Fraud",
       "company": "Capco",
@@ -14756,6 +14850,22 @@
       "posted_date": "17 Apr 2026",
       "days_ago": 85,
       "url": "https://job-boards.greenhouse.io/capco/jobs/7784609",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance",
+        "Consulting"
+      ]
+    },
+    {
+      "id": "gh_capco_7824652",
+      "title": "Management Consultant - AML Investigations, Sanctions & Fraud",
+      "company": "Capco",
+      "location": "UK - Edinburgh",
+      "department": "Finance Risk & Compliance",
+      "posted_date": "17 Apr 2026",
+      "days_ago": 85,
+      "url": "https://job-boards.greenhouse.io/capco/jobs/7824652",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
@@ -14954,22 +15064,6 @@
       ]
     },
     {
-      "id": "gh_capco_7826092",
-      "title": "Principal Consultant (Senior Manager) - Operational Resilience & Cyber ",
-      "company": "Capco",
-      "location": "UK - London",
-      "department": "Finance Risk & Compliance",
-      "posted_date": "17 Apr 2026",
-      "days_ago": 85,
-      "url": "https://job-boards.greenhouse.io/capco/jobs/7826092",
-      "source": "Company Career Page",
-      "source_system": "Greenhouse",
-      "tags": [
-        "Finance",
-        "Consulting"
-      ]
-    },
-    {
       "id": "gh_capco_7826101",
       "title": "Principal Consultant (Senior Manager) - Operational Resilience & Cyber ",
       "company": "Capco",
@@ -14978,6 +15072,22 @@
       "posted_date": "17 Apr 2026",
       "days_ago": 85,
       "url": "https://job-boards.greenhouse.io/capco/jobs/7826101",
+      "source": "Company Career Page",
+      "source_system": "Greenhouse",
+      "tags": [
+        "Finance",
+        "Consulting"
+      ]
+    },
+    {
+      "id": "gh_capco_7826092",
+      "title": "Principal Consultant (Senior Manager) - Operational Resilience & Cyber ",
+      "company": "Capco",
+      "location": "UK - London",
+      "department": "Finance Risk & Compliance",
+      "posted_date": "17 Apr 2026",
+      "days_ago": 85,
+      "url": "https://job-boards.greenhouse.io/capco/jobs/7826092",
       "source": "Company Career Page",
       "source_system": "Greenhouse",
       "tags": [
